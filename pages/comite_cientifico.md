@@ -52,10 +52,17 @@ header:
 
 <main class="comite-cientifico">
   <section>
-    <h2>Comitê Científico</h2>
-    <p class="text">
-      Agradecemos o trabalho dos membros do Comitê Científico que contribuem para o rigor e a qualidade do evento ERES 2025.
-    </p>
+    <h2>Chairs</h2>
+    <ul class="text">
+      <li>Felipe André Zeiser - Universidade Comunitária da Região de Chapecó - felipezeiser@unochapeco.edu.br</li>
+      <li>Ariel Gustavo Zuquello - Universidade Comunitária da Região de Chapecó</li>
+      <li>Geomar André Schreiner - Universidade Federal da Fronteira Sul</li>
+      <li>Giancarlo Dondoni Salton - Universidade Federal da Fronteira Sul</li>
+      <li>José Carlos Toniazzo - Universidade Comunitária da Região de Chapecó</li>
+      <li>Raquel Aparecida Pegoraro - Universidade Federal da Fronteira Sul</li>
+      <li>Samuel da Silva Feitosa - Universidade Federal da Fronteira Sul</li>
+      <li>Sandro Silva de Oliveira - Universidade Comunitária da Região de Chapecó</li>
+      <li>Viviane Duarte Bonfim - Universidade Comunitária da Região de Chapecó</li>
   </section>
 
   <section>
@@ -125,4 +132,7 @@ header:
       <li>Willian Nalepa Oizumi - Google</li>
     </ul>
   </section>
+  <p class="text">
+      Agradecemos o trabalho dos membros do Comitê Científico que contribuem para o rigor e a qualidade do evento ERES 2025.
+  </p>
 </main>

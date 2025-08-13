@@ -55,7 +55,7 @@ header:
 <p class="text">Serão disponibilizados:</p>
 
 <ul>
-  <li>Colchões em salas adaptadas para pernoite;</li>
+  <li>Colchonetes em salas adaptadas para pernoite;</li>
   <li>Banheiros com chuveiros masculinos e femininos;</li>
   <li>Ambientes limpos e bem ventilados dentro do campus da Unochapecó.</li>
 </ul>
