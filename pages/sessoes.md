@@ -21,9 +21,8 @@ header:
 </style>
 
 <hr>
-
+<!-- 
 <h3>Segunda-Feira (11/Nov/2024)</h3>
-
 <table id="sessao1" class="sbc-table">
   <thead>
     <tr>
@@ -266,4 +265,4 @@ header:
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->

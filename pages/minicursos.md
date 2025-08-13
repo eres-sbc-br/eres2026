@@ -89,136 +89,89 @@ header:
     }
   }
 
-  body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f5f5f5;
-        }
-        .container {
-            background-color: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            color: #2c5aa0;
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        h2 {
-            color: #2c5aa0;
-            margin-top: 30px;
-            margin-bottom: 15px;
-        }
-        p {
-            text-align: justify;
-            margin-bottom: 15px;
-        }
-        ul {
-            margin-bottom: 20px;
-        }
-        li {
-            margin-bottom: 5px;
-        }
-        .highlight {
-            background-color: #e8f0fe;
-            padding: 15px;
-            border-left: 4px solid #2c5aa0;
-            margin: 20px 0;
-        }
-        .dates {
-            background-color: #fff3cd;
-            padding: 15px;
-            border-left: 4px solid #ffc107;
-            margin: 20px 0;
-        }
+  
 </style>
 
-<div class="container">
-        <h1>Chamada de Minicursos - ERES 2025</h1>
-        
-        <p>Estão abertas as inscrições para chamadas de Minicursos na Escola Regional de Engenharia de Software (ERES), que será realizada entre os dias 29 a 31/10/2025, como parte da Escola Regional de Engenharia de Software em Chapecó/SC.</p>
+<h1>Chamada de Minicursos - ERES 2025</h1>
 
-        <p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2025 é um espaço regional para que possam ser apresentados os resultados de pesquisas e extensão em nível de graduação e pós-graduação e relatos de experiência na indústria. Além disso, possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES.</p>
+<p>Estão abertas as inscrições para chamadas de Minicursos na Escola Regional de Engenharia de Software (ERES), que será realizada entre os dias 29 a 31/10/2025, como parte da Escola Regional de Engenharia de Software em Chapecó/SC.</p>
 
-        <p>O público-alvo serão estudantes de graduação, pós-graduação e profissionais da área em geral.</p>
+<p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2025 é um espaço regional para que possam ser apresentados os resultados de pesquisas e extensão em nível de graduação e pós-graduação e relatos de experiência na indústria. Além disso, possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES.</p>
 
-        <h2>Temas de Interesse</h2>
-        <p>Para a edição 2025, temos interesse em receber propostas de minicursos nos seguintes temas:</p>
+<p>O público-alvo serão estudantes de graduação, pós-graduação e profissionais da área em geral.</p>
 
-        <ul>
-            <li>Aplicações industriais da Engenharia de Software</li>
-            <li>Arquitetura de software</li>
-            <li>Aspectos Humanos e Sociais da Engenharia de Software</li>
-            <li>Engenharia de Software Quântica</li>
-            <li>Engenharia de Requisitos e modelagem de software</li>
-            <li>Engenharia de software baseada em Busca</li>
-            <li>Engenharia de software para Ciência de Dados</li>
-            <li>Engenharia de Software Contínua (DevOps, Entrega Contínua, Integração Contínua)</li>
-            <li>Engenharia de Software para Forense Digital</li>
-            <li>Engenharia de Software Experimental</li>
-            <li>Engenharia de Software Orientada a Agentes</li>
-            <li>Modularidade de Software</li>
-            <li>Fundamentos teóricos e métodos formais</li>
-            <li>Linguagem Específica de Domínio</li>
-            <li>Processo de Software</li>
-            <li>Manutenção e Evolução de Software</li>
-            <li>Verificação e Validação de Software</li>
-            <li>Práticas de Ciência Aberta para Engenharia de Software</li>
-            <li>Qualidade de Software</li>
-            <li>Métricas e medidas de software</li>
-            <li>Reengenharia de Software</li>
-            <li>Reutilização de Software</li>
-            <li>Mineração e repositório de software</li>
-            <li>Educação e Treinamento em Engenharia de Software</li>
-            <li>Engenharia de Software aplicada à Segurança da Informação</li>
-        </ul>
+<h2>Temas de Interesse</h2>
+<p>Para a edição 2025, temos interesse em receber propostas de minicursos nos seguintes temas:</p>
 
-        <p><em>Lista não exclusiva, aberto a outros temas relacionados à temática e de interesse do público alvo.</em></p>
+<ul>
+    <li>Aplicações industriais da Engenharia de Software</li>
+    <li>Arquitetura de software</li>
+    <li>Aspectos Humanos e Sociais da Engenharia de Software</li>
+    <li>Engenharia de Software Quântica</li>
+    <li>Engenharia de Requisitos e modelagem de software</li>
+    <li>Engenharia de software baseada em Busca</li>
+    <li>Engenharia de software para Ciência de Dados</li>
+    <li>Engenharia de Software Contínua (DevOps, Entrega Contínua, Integração Contínua)</li>
+    <li>Engenharia de Software para Forense Digital</li>
+    <li>Engenharia de Software Experimental</li>
+    <li>Engenharia de Software Orientada a Agentes</li>
+    <li>Modularidade de Software</li>
+    <li>Fundamentos teóricos e métodos formais</li>
+    <li>Linguagem Específica de Domínio</li>
+    <li>Processo de Software</li>
+    <li>Manutenção e Evolução de Software</li>
+    <li>Verificação e Validação de Software</li>
+    <li>Práticas de Ciência Aberta para Engenharia de Software</li>
+    <li>Qualidade de Software</li>
+    <li>Métricas e medidas de software</li>
+    <li>Reengenharia de Software</li>
+    <li>Reutilização de Software</li>
+    <li>Mineração e repositório de software</li>
+    <li>Educação e Treinamento em Engenharia de Software</li>
+    <li>Engenharia de Software aplicada à Segurança da Informação</li>
+</ul>
 
-        <div class="dates">
-            <h2>DATAS IMPORTANTES</h2>
-            <ul>
-                <li><strong>Submissão da proposta de minicurso:</strong> 31 de agosto</li>
-                <li><strong>Notificação aos autores:</strong> 08 de setembro</li>
-                <li><strong>Versão final:</strong> 28 de setembro</li>
-            </ul>
-        </div>
+<p><em>Lista não exclusiva, aberto a outros temas relacionados à temática e de interesse do público alvo.</em></p>
 
-        <h2>INSTRUÇÕES DE SUBMISSÃO</h2>
-        <p>As propostas devem conter exatamente as seguintes informações:</p>
+<div class="dates">
+    <h2>DATAS IMPORTANTES</h2>
+    <ul>
+        <li><strong>Submissão da proposta de minicurso:</strong> 31 de agosto</li>
+        <li><strong>Notificação aos autores:</strong> 08 de setembro</li>
+        <li><strong>Versão final:</strong> 28 de setembro</li>
+    </ul>
+</div>
 
-        <ul>
-            <li>Título do minicurso</li>
-            <li>Autor(es): instituição(ções), endereço(s), telefone(s), e-mail(s)</li>
-            <li>Objetivos do minicurso</li>
-            <li>Sumário dos tópicos a serem apresentados, e descrição de cada tópico</li>
-            <li>Audiência - público alvo</li>
-            <li>Relevância, impacto ou benefício</li>
-            <li>Duração: 4 ou 8 horas</li>
-            <li>Recursos necessários (materiais didáticos, sala de aula ou laboratório, audiovisual)</li>
-            <li>Breve currículo dos autores</li>
-            <li>Indicação do(s) autor(es) que irá ministrar o minicurso</li>
-        </ul>
+<h2>INSTRUÇÕES DE SUBMISSÃO</h2>
+<p>As propostas devem conter exatamente as seguintes informações:</p>
 
-        <div class="highlight">
-            <p><strong>Link para submissão das propostas de minicursos:</strong> <a href="#" onclick="alert('Link não fornecido no texto original')">&lt;Clicar aqui&gt;</a></p>
-        </div>
+<ul>
+    <li>Título do minicurso</li>
+    <li>Autor(es): instituição(ções), endereço(s), telefone(s), e-mail(s)</li>
+    <li>Objetivos do minicurso</li>
+    <li>Sumário dos tópicos a serem apresentados, e descrição de cada tópico</li>
+    <li>Audiência - público alvo</li>
+    <li>Relevância, impacto ou benefício</li>
+    <li>Duração: 4 ou 8 horas</li>
+    <li>Recursos necessários (materiais didáticos, sala de aula ou laboratório, audiovisual)</li>
+    <li>Breve currículo dos autores</li>
+    <li>Indicação do(s) autor(es) que irá ministrar o minicurso</li>
+</ul>
 
-        <h2>Critérios de Avaliação</h2>
-        <p>As propostas serão avaliadas através da análise de:</p>
+<div class="highlight">
+    <p><strong>Link para submissão das propostas de minicursos:</strong> <a href="#" onclick="alert('Link não fornecido no texto original')">&lt;Clicar aqui&gt;</a></p>
+</div>
 
-        <ul>
-            <li>Relevância da proposta diante dos temas de interesse do evento e do público-alvo</li>
-            <li>Qualidade técnica da proposta</li>
-            <li>Originalidade</li>
-            <li>Experiência dos proponentes no tema proposto</li>
-            <li>Afinidade com o público-alvo</li>
-        </ul>
-    </div>
+<h2>Critérios de Avaliação</h2>
+<p>As propostas serão avaliadas através da análise de:</p>
+
+<ul>
+    <li>Relevância da proposta diante dos temas de interesse do evento e do público-alvo</li>
+    <li>Qualidade técnica da proposta</li>
+    <li>Originalidade</li>
+    <li>Experiência dos proponentes no tema proposto</li>
+    <li>Afinidade com o público-alvo</li>
+</ul>
 
 <!-- <div id="minicurso1" class="minicurso">
   <div class="minicurso-content">

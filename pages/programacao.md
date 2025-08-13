@@ -63,9 +63,9 @@ header:
 </style>
 
 <main>
-  <h4 style="margin-bottom: 1rem;">Programação Completa do Evento (Preliminar)</h4>
+  <h4 style="margin-bottom: 1rem;">Em breve!</h4>
 
-  <table>
+  <!-- <table>
     <thead>
       <tr>
         <th>Hora</th>
@@ -190,7 +190,7 @@ header:
       </tr>
 
     </tbody>
-  </table>
+  </table> -->
 </main>
 
   

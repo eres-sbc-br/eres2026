@@ -40,7 +40,7 @@ header:
   }
 </style>
 
-<p class="text">Temos o prazer de convidá-los para um jantar especial no dia <strong>12 de novembro de 2025</strong>, terça-feira, durante a ERES 2025. Este evento visa promover a interação entre os participantes e fortalecer nosso networking.</p>
+<!-- <p class="text">Temos o prazer de convidá-los para um jantar especial no dia <strong>12 de novembro de 2025</strong>, terça-feira, durante a ERES 2025. Este evento visa promover a interação entre os participantes e fortalecer nosso networking.</p>
 
 <h3>Local</h3>
 
@@ -75,4 +75,4 @@ header:
   <img src="{{ site.urlimg }}/jantar/03.jpg" alt="Imagem 3 do local do jantar">
 </div>
 
-<p class="text">Aguardamos ansiosamente sua presença para compartilharmos momentos agradáveis e fortalecermos nossos laços.</p>
+<p class="text">Aguardamos ansiosamente sua presença para compartilharmos momentos agradáveis e fortalecermos nossos laços.</p> -->
