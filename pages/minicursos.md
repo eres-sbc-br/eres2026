@@ -159,7 +159,7 @@ header:
 </ul>
 
 <div class="highlight">
-    <p><strong>Link para submissão das propostas de minicursos:</strong> <a href="#" onclick="alert('Link não fornecido no texto original')">&lt;Clicar aqui&gt;</a></p>
+    <p><strong>Link para submissão das propostas de minicursos:</strong> <a href="https://forms.gle/THFkvYrjJ18ZL9qR9">&lt;Clicar aqui&gt;</a></p>
 </div>
 
 <h2>Critérios de Avaliação</h2>
