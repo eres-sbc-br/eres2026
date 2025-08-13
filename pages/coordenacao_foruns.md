@@ -108,11 +108,11 @@ header:
     <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/silvio.jpg" alt="Prof. Dr. Silvio Quincozes">
+          <img src="{{ site.urlimg }}/samuel.gif" alt="Prof. Dr. Samuel da Silva Feitosa">
           <figcaption class="card-text">
-            <strong>Prof. Dr. Silvio Quincozes</strong><br>
-            Unipampa<br>
-            <a href="http://lattes.cnpq.br/9401130360785458">Currículo Lattes</a>
+            <strong>Prof. Dr. Samuel da Silva Feitosa</strong><br>
+            UFFS<br>
+            <a href="http://lattes.cnpq.br/1075888485122711">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
@@ -124,10 +124,11 @@ header:
     <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/natasha.jpg" id="img-natasha" alt="Prof. Dra. Natasha Malveira Costa Valentim">
+          <img src="{{ site.urlimg }}/geomar.gif" alt="Prof. Dr. Geomar André Schreiner">
           <figcaption class="card-text">
-            <strong>Prof. Dra. Natasha Malveira Costa Valentim</strong><br>
-            <a href="http://lattes.cnpq.br/1374747002879287">Currículo Lattes</a>
+            <strong>Prof. Dr. Geomar André Schreiner</strong><br>
+            UFFS<br>
+            <a href="http://lattes.cnpq.br/0776438722468291">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
@@ -139,11 +140,11 @@ header:
     <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/andrea.jpg" id="img-andrea" alt="Prof. Dra. Andréa Sabedra Bordin">
+          <img src="{{ site.urlimg }}/giancarlo.gif" id="img-andrea" alt="Prof. Dr. Giancarlo Dondoni Salton">
           <figcaption class="card-text">
-            <strong>Prof. Dra. Andréa Sabedra Bordin</strong><br>
-            UFSC<br>
-            <a href="http://lattes.cnpq.br/3462254816005439">Currículo Lattes</a>
+            <strong>Prof. Dr. Giancarlo Dondoni Salton</strong><br>
+            UFFS<br>
+            <a href="http://lattes.cnpq.br/0020195775211530">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>

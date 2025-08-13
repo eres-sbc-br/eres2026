@@ -113,15 +113,15 @@ header:
     <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/prof_anderson.jpg" alt="Prof. Mr. Anderson de Paula Fortes">
+          <img src="{{ site.urlimg }}/felipe.png" alt="Prof. Dr. Felipe André Zeiser">
           <figcaption class="card-text">
-            <strong>Prof. Me. Anderson de Paula Fortes</strong><br>
-            URI Santiago<br>
-            <a href="http://lattes.cnpq.br/8500919840176084" target="_blank">Currículo Lattes</a>
+            <strong>Prof. Dr. Felipe André Zeiser</strong><br>
+            Unochapecó<br>
+            <a href="http://lattes.cnpq.br/1870564118351754" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
-      <article class="card">
+      <!-- <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/maicon.jpg" alt="Prof. Dr. Maicon Bernardino da Silveira">
           <figcaption class="card-text">
@@ -130,7 +130,7 @@ header:
             <a href="http://lattes.cnpq.br/0523166822363498" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
-      </article>
+      </article> -->
     </div>
   </section>
 
@@ -139,35 +139,35 @@ header:
     <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/prof_carla.jpg" id="img-carla" alt="Profa. Me. Carla Lisiane de Oiliveira Castanho">
+          <img src="{{ site.urlimg }}/ariel.gif" id="img-carla" alt="Prof. Dr. Ariel Gustavo Zuquello">
           <figcaption class="card-text">
-            <strong>Profa. Me. Carla Lisiane de Oliveira Castanho</strong><br>
-            URI Santiago<br>
-            <a href="http://lattes.cnpq.br/2572817294743935" target="_blank">Currículo Lattes</a>
+            <strong>Prof. Dr. Ariel Gustavo Zuquello</strong><br>
+            Unochapecó<br>
+            <a href="http://lattes.cnpq.br/7843368686233904" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/prof_lu.jpg" alt="Profa. Me. Luciane Machado Fraga">
+          <img src="{{ site.urlimg }}/sandro.png" alt="Prof. Dr. Sandro Silva de Oliveira">
           <figcaption class="card-text">
-            <strong>Profa. Me. Luciane Machado Fraga</strong><br>
-            URI Santiago<br>
-            <a href="http://lattes.cnpq.br/0576253490550915" target="_blank">Currículo Lattes</a>
+            <strong>Prof. Dr. Sandro Silva de Oliveira</strong><br>
+            Unochapecó<br>
+            <a href="http://lattes.cnpq.br/6991730404441875" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/prof_gustavo.jpg" alt="Prof. Gustavo Girardon dos Reis">
+          <img src="{{ site.urlimg }}/toniazzo.jpeg" alt="Prof. Me. José Carlos Toniazzo">
           <figcaption class="card-text">
-            <strong>Prof. Esp. Gustavo Girardon dos Reis</strong><br>
-            URI Santiago<br>
-            <a href="http://lattes.cnpq.br/9724726861595610" target="_blank">Currículo Lattes</a>
+            <strong>Prof. Me. José Carlos Toniazzo</strong><br>
+            Unochapecó<br>
+            <a href="http://lattes.cnpq.br/4574020926166787" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
-      <article class="card">
+      <!-- <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/prof_leonardo.jpg" alt="Prof. Me. Leonardo Lima Carvalho">
           <figcaption class="card-text">
@@ -176,7 +176,7 @@ header:
             <a href="http://lattes.cnpq.br/4149281529137286" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
-      </article>
+      </article> -->
     </div>
   </section>
 </main>
