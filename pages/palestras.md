@@ -66,6 +66,9 @@ header:
 
 <hr>
 
+<h3>Em breve!</h3>
+
+<!-- 
 <div id="palestra1" class="palestra">
   <img src="{{ site.urlimg }}/palestras/Dr. Lisandra Manzoni Fontoura.jpg" alt="Dr. Lisandra Manzoni Fontoura">
 
@@ -248,4 +251,4 @@ header:
     </p>
 
   </div>
-</div>
+</div> -->
