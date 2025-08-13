@@ -150,4 +150,30 @@ header:
       </article>
     </div>
   </section>
+
+  <section aria-labelledby="coordenacao-extensao-header">
+    <h2 id="coordenacao-extensao-header"><strong>Coordenação de Minicursos</strong></h2>
+    <div class="section-container">
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/raquel.jpeg" id="img-andrea" alt="Prof. Dr. Raquel Aparecida Pegoraro">
+          <figcaption class="card-text">
+            <strong>Prof. Dr. Raquel Aparecida Pegoraro</strong><br>
+            UFFS<br>
+            <a href="http://lattes.cnpq.br/0324997284160193">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/viviane.gif" id="img-andrea" alt="Prof. Me. Viviane Duarte Bonfim">
+          <figcaption class="card-text">
+            <strong>Prof. Me. Viviane Duarte Bonfim</strong><br>
+            Unochapecó<br>
+            <a href="http://lattes.cnpq.br/9462026915388551">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
+    </div>
+  </section>
 </main>
