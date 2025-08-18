@@ -98,7 +98,7 @@ header:
   <section class="important-dates">
     <h3>Datas Importantes</h3>
     <ul>
-      <li>Submissão de artigos: 18 de Agosto de 2025<span style="color: red"></span> até as 23h:55m (horário de Brasília)</li>
+      <li>Submissão de artigos: 01 de Setembro de 2025<span style="color: red"></span> até as 23h:55m (horário de Brasília)</li>
       <li>Notificação aos autores: 15 de Setembro de 2025</li>
       <li>Envio da versão final: 30 de Setembro de 2025</li>
     </ul>
