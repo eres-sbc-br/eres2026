@@ -99,7 +99,7 @@ header:
     <h3>Datas Importantes</h3>
     <ul>
       <li>Submissão de artigos: <s> 18 de Agosto de 2025 </s><span style="color: red">01 de Setembro de 2025 hard deadline</span></li>
-      <li>Notificação aos autores: 15 de Setembro de 2025</li>
+      <li>Notificação aos autores: <s> 15 de Setembro de 2025<s><span style="color: red">22 de Setembro de 2025</span></li>
       <li>Envio da versão final: 30 de Setembro de 2025</li>
     </ul>
   </section>
@@ -192,29 +192,35 @@ header:
   </section>
 
   <section class="text">
-    <h2>Organização</h2>
-    <ul>
-        <li><strong>Coordenação Geral da ERES 2025:</strong>
-          <ul>
-            <li>Prof. Dr. Felipe André Zeiser – Unochapecó</li>
-            <li>Prof. -</li>
-          </ul>
-        </li>
-        <li><strong>Coordenação do Fórum de Graduação:</strong>
-          <ul>
-            <li>Prof. -</li>
-          </ul>
-        </li>
-        <li><strong>Coordenação do Fórum de Pós-Graduação:</strong>
-          <ul>
-            <li>Prof. -</li>
-          </ul>
-        </li>
-        <li><strong>Coordenação do Fórum de Extensão:</strong>
-          <ul>
-            <li>Prof. - </li>
-          </ul>
-        </li>
-    </ul>
-  </section>
+  <h2>Organização</h2>
+  <ul>
+    <li><strong>Coordenação Geral:</strong>
+      <ul>
+        <li>Prof. Dr. Felipe André Zeiser – Unochapecó</li>
+      </ul>
+    </li>
+    <li><strong>Coordenação do Fórum de Graduação:</strong>
+      <ul>
+        <li>Prof. Dr. Samuel da Silva Feitosa – UFFS</li>
+      </ul>
+    </li>
+    <li><strong>Coordenação do Fórum de Pós-Graduação:</strong>
+      <ul>
+        <li>Prof. Dr. Geomar André Schreiner – UFFS</li>
+      </ul>
+    </li>
+    <li><strong>Coordenação do Fórum de Extensão:</strong>
+      <ul>
+        <li>Prof. Dr. Giancarlo Dondoni Salton – UFFS</li>
+      </ul>
+    </li>
+    <li><strong>Coordenação de Minicursos:</strong>
+      <ul>
+        <li>Prof. Me. Viviane Duarte Bonfim – Unochapecó</li>
+        <li>Prof. Dr. Raquel Aparecida Pegoraro – UFFS</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
 </main>
