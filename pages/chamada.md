@@ -99,7 +99,7 @@ header:
     <h3>Datas Importantes</h3>
     <ul>
       <li>Submissão de artigos: <s> 18 de Agosto de 2025 </s><span style="color: red">01 de Setembro de 2025 hard deadline</span></li>
-      <li>Notificação aos autores: <s> 15 de Setembro de 2025</s><span style="color: red">22 de Setembro de 2025</span></li>
+      <li>Notificação aos autores: <s> 15 de Setembro de 2025 - 22 de Setembro de 2025</s> <span style="color: red">25 de Setembro de 2025</span></li>
       <li>Envio da versão final: 30 de Setembro de 2025</li>
     </ul>
   </section>
