@@ -74,11 +74,11 @@ header:
 </style>
 
 <h3>Link para inscrição: </h3>
-<!-- <a href="https://centraldesistemas.sbc.org.br/ecos/eres2024" target="_blank">Inscreva-se aqui!</a> -->
+<a href="https://centraldesistemas.sbc.org.br/ecos/eres2025" target="_blank">Inscreva-se aqui!</a>
 Em breve!
 <p class="text"></p>
 
-<!-- <h3>Inscrição promocional</h3>
+<h3>Inscrição promocional</h3>
 
 <p class="text">Participantes não associados à SBC ou associados com anuidade próxima do vencimento podem se associar ou renovar a associação junto com a inscrição, escolhendo as categorias COMBO com um desconto no valor da inscrição.</p>
 
@@ -110,13 +110,13 @@ Em breve!
     <th colspan="2">Categorias</th>    
     <th colspan="1">
       1ª Faixa de Inscrição <br />
-      A partir de: 09/08/2024
-      até: 13/10/2024
+      A partir de: 09/08/2025
+      até: 15/10/2025
     </th>    
     <th colspan="1">
       2ª Faixa de Inscrição <br />
-      A partir de: 14/10/2024
-      até: 13/11/2024
+      A partir de: 15/10/2025
+      até: 31/10/2025
     </th>    
   </tr>
   <tr class="gray">
@@ -127,17 +127,17 @@ Em breve!
   </tr>
   <tr class="gray">
     <td>Estudante associado à SBC com anuidade vencendo em até 90 dias (COMBO)</td>
-    <td>R$ 41,00</td>
-    <td>R$ 46,00</td>
+    <td>R$ 43,00</td>
+    <td>R$ 48,00</td>
   </tr>
   <tr>
     <td>Estudante não associado ou com associação não vigente à SBC (COMBO)</td>
-    <td>R$ 41,00</td>
-    <td>R$ 46,00</td>
+    <td>R$ 43,00</td>
+    <td>R$ 48,00</td>
   </tr>
   <tr class="gray">
     <td>Estudante não associado à SBC (Somente inscrição no evento)</td>
-    <td>R$ 42,00</td>
+    <td>R$ 44,00</td>
     <td>R$ 50,00</td>
   </tr>
   <tr>
@@ -151,18 +151,18 @@ Em breve!
   </tr>
   <tr class="gray">
     <td>Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (COMBO)</td>
-    <td>R$ 175,00</td>
     <td>R$ 185,00</td>
+    <td>R$ 195,00</td>
   </tr>
   <tr>
     <td>Estudante de pós-graduação não associado ou com associação não vigente à SBC (COMBO)</td>
-    <td>R$ 175,00</td>
     <td>R$ 185,00</td>
+    <td>R$ 195,00</td>
   </tr>
   <tr class="gray">
     <td>Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)</td>
-    <td>R$ 179,00</td>
-    <td>R$ 189,00</td>
+    <td>R$ 190,00</td>
+    <td>R$ 201,00</td>
   </tr>
   <tr>
     <td class="separator" colspan="3"></td>
@@ -175,18 +175,18 @@ Em breve!
   </tr>
   <tr class="gray">
     <td>Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (COMBO)</td>
-    <td>R$ 165,00</td>
-    <td>R$ 173,00</td>
+    <td>R$ 175,00</td>
+    <td>R$ 183,00</td>
   </tr>
   <tr>
     <td>Professor de Educação Básica não associado ou com associação não vigente à SBC (COMBO)</td>
-    <td>R$ 165,00</td>
-    <td>R$ 173,00</td>
+    <td>R$ 175,00</td>
+    <td>R$ 183,00</td>
   </tr>
   <tr class="gray">
     <td>Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
-    <td>R$ 169,00</td>
     <td>R$ 179,00</td>
+    <td>R$ 188,00</td>
   </tr>
   <tr>
     <td class="separator" colspan="3"></td>
@@ -199,18 +199,18 @@ Em breve!
   </tr>
   <tr class="gray">
     <td>Profissional associado à SBC com anuidade vencendo em até 90 dias (COMBO)</td>
-    <td>R$ 441,00</td>
-    <td>R$ 456,48</td>
+    <td>R$ 455,00</td>
+    <td>R$ 470,00</td>
   </tr>
   <tr>
     <td>Profissional não associado ou com associação não vigente à SBC (COMBO)</td>
-    <td>R$ 441,00</td>
-    <td>R$ 456,48</td>
+    <td>R$ 455,00</td>
+    <td>R$ 470,00s</td>
   </tr>
   <tr class="gray">
     <td>Profissional não associado à SBC (Somente inscrição no evento)</td>
-    <td>R$ 449,00</td>
-    <td>R$ 459,00</td>
+    <td>R$ 464,00</td>
+    <td>R$ 480,00</td>
   </tr>
   <tr>
     <td class="separator" colspan="3"></td>
@@ -221,7 +221,7 @@ Em breve!
 
 <p class="text">O pagamento de inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho ou faturamento.</p>
 
-<p class="text">As inscrições podem ser feitas até o último dia do evento, porém os pagamentos por débito e boleto serão aceitos até o 11/11/2024.
+<p class="text">As inscrições podem ser feitas até o último dia do evento, porém os pagamentos por débito e boleto serão aceitos até o 29/10/2025.
 
 <p class="text">O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições ECOS da SBC.</p>
 
@@ -230,16 +230,16 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h3>Inscrição para autores</h3>
 
-<p class="text">Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2024, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 01/11/2024. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
+<p class="text">Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2025, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 06/10/2025. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
 
 <h3>Inscrição em minicursos</h3>
 
-<p class="text">A participação em cada minicurso exige o pagamento de uma taxa de R$ 10,00, impreterivelmente até o dia 07/11/2024.</p>
+<p class="text">A participação em cada minicurso exige o pagamento de uma taxa de R$ 10,00, impreterivelmente até o dia 15/10/2025.</p>
 
-<p class="text"><font> <span style="font-size: 22px">⚠️</span> Atenção: Cada minicurso possui uma capacidade máxima de 28 pessoas.</font></p>
+<p class="text"><font> <span style="font-size: 22px">⚠️</span> Atenção: Cada minicurso possui uma capacidade máxima de 30 pessoas.</font></p>
 
-<p class="text"><font><span style="font-size: 22px">⚠️</span> Atenção: Os minicursos 1 e 2, 3 e 4, 5 e 6 acontecerão em paralelo nos seus respectivos dias.</font></p>
+<!-- <p class="text"><font><span style="font-size: 22px">⚠️</span> Atenção: Os minicursos 1 e 2, 3 e 4, 5 e 6 acontecerão em paralelo nos seus respectivos dias.</font></p> -->
 
 <h3>Política de cancelamento de inscrições</h3>
 
-<p class="text">Até dia 25/10/2024 pode-se fazer uma devolução de 75% do valor pago pela inscrição na VIII Escola Regional de Engenharia de Software (ERES 2024). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p> -->
+<p class="text">Até dia 15/10/2025 pode-se fazer uma devolução de 75% do valor pago pela inscrição na VIII Escola Regional de Engenharia de Software (ERES 2025). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
