@@ -75,7 +75,6 @@ header:
 
 <h3>Link para inscrição: </h3>
 <a href="https://centraldesistemas.sbc.org.br/ecos/eres2025" target="_blank">Inscreva-se aqui!</a>
-Em breve!
 <p class="text"></p>
 
 <h3>Inscrição promocional</h3>
