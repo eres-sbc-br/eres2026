@@ -64,7 +64,7 @@ header:
 
 <p class="text">As vagas são limitadas e a inscrição antecipada é obrigatória. Garanta seu espaço preenchendo o formulário abaixo:</p>
 
-<p class="text"><a href="#" target="_blank">Inscreva-se aqui!</a></p>
+<p class="text"><a href="https://forms.gle/CVpTiN4QmsMcaJU29" target="_blank">Inscreva-se aqui!</a></p>
 
 <h3>Hotéis em Chapecó</h3>
 
