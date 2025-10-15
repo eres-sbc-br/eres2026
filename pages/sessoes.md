@@ -37,7 +37,7 @@ header:
   </thead>
   <tbody>
     <tr><td>14:00</td><td><strong>Engenharia Experimental de Software Aplicada à Detecção Inteligente de Fraudes Financeiras</strong><span class="meta">Autores: Martony Demes Silva; Warleyson Costa Roma — Fórum: Graduação</span></td></tr>
-    <tr><td>14:15</td><td><strong>DCEP-SE: A Dublin Core Application Profile for Experimental Software Engineering</strong><span class="meta">Autores: Filipe Amadeu Santana; André F. R. Cordeiro; Edson Oliveira Jr — Fórum: Graduação</span></td></tr>
+    <tr><td>14:15</td><td><strong>DCEP-SE: A Dublin Core Application Profile for Experimental Software Engineering</strong><span class="meta">Autores: Filipe Amadeu Santana; André F. R. Cordeiro; Edson Oliveira Junior — Fórum: Graduação</span></td></tr>
     <tr><td>14:30</td><td><strong>Uma Abordagem de Engenharia de Software Experimental para Avaliação de Modelos Preditivos em Marketing Bancário</strong><span class="meta">Autores: Martony Demes Silva; Valdessandro Costa Moreira — Fórum: Graduação</span></td></tr>
     <tr><td>14:45</td><td><strong>Uma Revisão Sistemática da Literatura em Processos de Implantação de Software: Resultados Preliminares</strong><span class="meta">Autores: Rafael Aleixo; Maicon Bernardino; Elder Macedo Rodrigues — Fórum: Pós-Graduação</span></td></tr>
   </tbody>
@@ -53,7 +53,7 @@ header:
     <tr><td>15:30</td><td><strong>Dívida Técnica de Requisitos de Software na Prática vs Academia: Um estudo preliminar sobre Causas, Impactos e Estratégias de Mitigação</strong><span class="meta">Autores: Jansen Kilinger Cara; Érica F. Souza; Alinne Souza; Francisco C. M. Souza — Fórum: Pós-Graduação</span></td></tr>
     <tr><td>15:45</td><td><strong>Em Direção à Modelagem de um Processo de Implantação de Software com base no Metamodelo SPEM</strong><span class="meta">Autores: Elrison Gomes da Silva; Maico F. W. Carneiro; Maiza Vanessa Baron; Emilly Soares Santos; Maicon Bernardino — Fórum: Pós-Graduação</span></td></tr>
     <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
-    <tr><td>16:30</td><td><strong>Towards a Web Portal for Teaching and Practicing of Software Engineering Controlled Experiments</strong><span class="meta">Autores: Fernando Grande; André F. R. Cordeiro; Edson Oliveira Jr — Fórum: Graduação</span></td></tr>
+    <tr><td>16:30</td><td><strong>Towards a Web Portal for Teaching and Practicing of Software Engineering Controlled Experiments</strong><span class="meta">Autores: Fernando Grande; André F. R. Cordeiro; Edson Oliveira Junior — Fórum: Graduação</span></td></tr>
 
   </tbody>
 </table>
