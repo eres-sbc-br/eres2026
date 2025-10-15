@@ -30,7 +30,6 @@ header:
     <tr><td>14:15</td><td><strong>DCEP-SE: A Dublin Core Application Profile for Experimental Software Engineering</strong></td></tr>
     <tr><td>14:30</td><td><strong>Uma Abordagem de Engenharia de Software Experimental para Avaliação de Modelos Preditivos em Marketing Bancário</strong></td></tr>
     <tr><td>14:45</td><td><strong>Uma Revisão Sistemática da Literatura em Processos de Implantação de Software: Resultados Preliminares</strong></td></tr>
-    <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
   </tbody>
 </table>
 
@@ -43,6 +42,8 @@ header:
     <tr><td>15:15</td><td><strong>Desafios da Agilidade Distribuída: Uma Análise da Implementação de Metodologias Ágeis em PMEs com Times Híbridos</strong></td></tr>
     <tr><td>15:30</td><td><strong>Dívida Técnica de Requisitos de Software na Prática vs Academia: Um estudo preliminar sobre Causas, Impactos e Estratégias de Mitigação</strong></td></tr>
     <tr><td>15:45</td><td><strong>Em Direção à Modelagem de um Processo de Implantação de Software com base no Metamodelo SPEM</strong></td></tr>
+    <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
+
   </tbody>
 </table>
 
@@ -106,7 +107,6 @@ header:
     <tr><td>16:45</td><td><strong>Explorando a Program Structure Interface (PSI): Fundamentos da Construção de Plugins no IntelliJ</strong></td></tr>
     <tr><td>17:00</td><td><strong>Uma Interface Web 3.0 Amigável para Rastreabilidade de Produtos da Agricultura Familiar Usando Contratos Inteligentes</strong></td></tr>
     <tr><td>17:15</td><td><strong>Towards a Web Portal for Teaching and Practicing of Software Engineering Controlled Experiments</strong></td></tr>
-    <tr><td>17:30</td><td><em>Janela / encerramento do dia</em></td></tr>
   </tbody>
 </table>
 
@@ -148,6 +148,5 @@ header:
     <tr><td>16:45</td><td><strong>Em Direção ao Desenvolvimento de uma Ferramenta de Gerenciamento de Rubricas de Avaliação</strong></td></tr>
     <tr><td>17:00</td><td><strong>Projeto ARCA - Ambiente de Relacionamento Comercial do Agronegócio: Uma Proposta de Plano de Inovação</strong></td></tr>
     <tr><td>17:15</td><td><strong>Smart Agro RAF API</strong></td></tr>
-    <tr><td>17:30</td><td><em>Encerramento do evento / avisos finais</em></td></tr>
   </tbody>
 </table>
