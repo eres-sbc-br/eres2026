@@ -53,6 +53,8 @@ header:
     <tr><td>15:30</td><td><strong>Dívida Técnica de Requisitos de Software na Prática vs Academia: Um estudo preliminar sobre Causas, Impactos e Estratégias de Mitigação</strong><span class="meta">Autores: Jansen Kilinger Cara; Érica F. Souza; Alinne Souza; Francisco C. M. Souza — Fórum: Pós-Graduação</span></td></tr>
     <tr><td>15:45</td><td><strong>Em Direção à Modelagem de um Processo de Implantação de Software com base no Metamodelo SPEM</strong><span class="meta">Autores: Elrison Gomes da Silva; Maico F. W. Carneiro; Maiza Vanessa Baron; Emilly Soares Santos; Maicon Bernardino — Fórum: Pós-Graduação</span></td></tr>
     <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
+    <tr><td>16:30</td><td><strong>Towards a Web Portal for Teaching and Practicing of Software Engineering Controlled Experiments</strong><span class="meta">Autores: Fernando Grande; André F. R. Cordeiro; Edson Oliveira Jr — Fórum: Graduação</span></td></tr>
+
   </tbody>
 </table>
 
@@ -61,10 +63,11 @@ header:
     <tr><th colspan="2"><strong>Sessão Técnica 3 – IA e Aprendizado de Máquina em Engenharia de Software</strong></th></tr>
   </thead>
   <tbody>
-    <tr><td>16:30</td><td><strong>Identificação de Esforço Cognitivo com Auxílio de Dispositivos Vestíveis e Inteligência Artificial</strong><span class="meta">Autores: Mateus A. Franceschina; Felipe Zeiser; Cristiano A. Costa; Adriana Roehe; Mateus H. Zeiser — Fórum: Graduação</span></td></tr>
-    <tr><td>16:45</td><td><strong>Engenharia de Software Inteligente: Um Panorama Sistemático do Uso de Aprendizagem de Máquina nos Anais da ERES</strong><span class="meta">Autores: Martony Demes Silva; Cleonildo Macedo — Fórum: Graduação</span></td></tr>
-    <tr><td>17:00</td><td><strong>Avaliação de Qualidade de Código Java gerado por Large Language Models</strong><span class="meta">Autores: Marco Tullio Oliveira; Pedro Márcio O. Silveira; Michelle H. S. de Andrade — Fórum: Graduação</span></td></tr>
+  <tr><td>16:45</td><td><strong>Identificação de Esforço Cognitivo com Auxílio de Dispositivos Vestíveis e Inteligência Artificial</strong><span class="meta">Autores: Mateus A. Franceschina; Felipe Zeiser; Cristiano A. Costa; Adriana Roehe; Mateus H. Zeiser — Fórum: Graduação</span></td></tr>
+    <tr><td>17:00</td><td><strong>Engenharia de Software Inteligente: Um Panorama Sistemático do Uso de Aprendizagem de Máquina nos Anais da ERES</strong><span class="meta">Autores: Martony Demes Silva; Cleonildo Macedo — Fórum: Graduação</span></td></tr>
+    <tr><td>17:15</td><td><strong>Avaliação de Qualidade de Código Java gerado por Large Language Models</strong><span class="meta">Autores: Marco Tullio Oliveira; Pedro Márcio O. Silveira; Michelle H. S. de Andrade — Fórum: Graduação</span></td></tr>
   </tbody>
+  
 </table>
 
 <table id="sessao9" class="sbc-table">
@@ -72,9 +75,9 @@ header:
     <tr><th colspan="2"><strong>Sessão Técnica 9 – Arquitetura e Microsserviços</strong></th></tr>
   </thead>
   <tbody>
-    <tr><td>17:15</td><td><strong>Segurança Proativa em Arquitetura de Microsserviços e Container: um estudo de caso</strong><span class="meta">Autores: Jhony Maseto; Diego Fabio Schuh; Daniel Paulo Santos; Rodrigo Miguel Tomazi; Ariel Gustavo Zuquello — Fórum: Extensão</span></td></tr>
-    <tr><td>17:30</td><td><strong>Arquitetura de Microsserviços: Uma Revisão Multivocal</strong><span class="meta">Autores: Larissa Morais; André F. R. Cordeiro; Edson Oliveira Jr — Fórum: Graduação</span></td></tr>
-    <tr><td>17:45</td><td><strong>Arquitetura de Software para Identidades Digitais Descentralizadas em Cidades Inteligentes: Um Relato de Experiência com a Trustchain</strong><span class="meta">Autores: Marcelo P. Chequin; Carla L. O. Castanho; Paulo R. Vargas; Fernando Neto — Fórum: Graduação</span></td></tr>
+    <tr><td>17:30</td><td><strong>Segurança Proativa em Arquitetura de Microsserviços e Container: um estudo de caso</strong><span class="meta">Autores: Jhony Maseto; Diego Fabio Schuh; Daniel Paulo Santos; Rodrigo Miguel Tomazi; Ariel Gustavo Zuquello — Fórum: Extensão</span></td></tr>
+    <tr><td>17:45</td><td><strong>Arquitetura de Microsserviços: Uma Revisão Multivocal</strong><span class="meta">Autores: Larissa Morais; André F. R. Cordeiro; Edson Oliveira Jr — Fórum: Graduação</span></td></tr>
+    <tr><td>18:00</td><td><strong>Arquitetura de Software para Identidades Digitais Descentralizadas em Cidades Inteligentes: Um Relato de Experiência com a Trustchain</strong><span class="meta">Autores: Marcelo P. Chequin; Carla L. O. Castanho; Paulo R. Vargas; Fernando Neto — Fórum: Graduação</span></td></tr>
   </tbody>
 </table>
 
@@ -115,7 +118,6 @@ header:
     <tr><td>16:30</td><td><strong>Padrões de Projeto no Desenvolvimento de Solução de Software Full Stack: Um Relato de Experiência</strong><span class="meta">Autores: Reinaldo Z. Wendt; Maicon Bernardino; Eduardo Tiadoro; Miguel Â. B. Muniz — Fórum: Graduação</span></td></tr>
     <tr><td>16:45</td><td><strong>Explorando a Program Structure Interface (PSI): Fundamentos da Construção de Plugins no IntelliJ</strong><span class="meta">Autores: Reinaldo Z. Wendt; Élder Rodrigues; Ana Carolina P. Rodrigues — Fórum: Graduação</span></td></tr>
     <tr><td>17:00</td><td><strong>Uma Interface Web 3.0 Amigável para Rastreabilidade de Produtos da Agricultura Familiar Usando Contratos Inteligentes</strong><span class="meta">Autores: Rafael Nogueira; Nykolas F. dos Santos; Henrique Fan da Silva; Bruno B. Neves; Roben C. Lunardi; Diego Kreutz; Rodrigo B. Mansilha — Fórum: Graduação</span></td></tr>
-    <tr><td>17:15</td><td><strong>Towards a Web Portal for Teaching and Practicing of Software Engineering Controlled Experiments</strong><span class="meta">Autores: Fernando Grande; André F. R. Cordeiro; Edson Oliveira Jr — Fórum: Graduação</span></td></tr>
   </tbody>
 </table>
 
