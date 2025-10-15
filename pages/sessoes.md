@@ -1,7 +1,6 @@
 ---
 layout: page-fullwidth
 title: "Sessões Técnicas"
-subheadline: ""
 permalink: "/programacao/sessoes/"
 header:
   image_fullwidth: BannerERES2023.png
@@ -15,254 +14,140 @@ header:
   .sbc-table th, .sbc-table td { padding: 8px; text-align: left; vertical-align: top; }
   .sbc-table th { background-color: #f9f181; font-weight: bold; text-align: center; }
   .sbc-table td { background-color: #FFFFFF; }
-  .sbc-table .gray { background-color: #d3d3d3; }
-  .sbc-table .separator { background-color: #eaeaea; height: 15px; border: none; }
-  .sbc-table .category { font-weight: bold; }
+  .separator { background: #eee; text-align:center; font-style: italic; }
 </style>
 
 <hr>
-<!-- 
-<h3>Segunda-Feira (11/Nov/2024)</h3>
+
+<h3>29/Out</h3>
+
 <table id="sessao1" class="sbc-table">
   <thead>
-    <tr>
-      <th colspan="2"><strong>Sessão Técnica 1 - Métodos e Ferramentas para Ensino e Pesquisa</strong><br><i>Chair: Carla Castanho (URI)</i></th>
-    </tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 1 – Engenharia de Software Experimental e Qualidade</strong></th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td>14:00</td>
-      <td><strong>[PÓS] Evolução Pós-MVP: Avanços e Melhorias em uma Solução de Suporte à Gestão Ambiental</strong><br>
-          <i>Autores: Rafael Ribeiro (UNIPAMPA), Willian Clemente (UNIPAMPA), Iago Mendes (UNIPAMPA), Felipe Scherer (UNIPAMPA), Darwin Dias Fagundes (Ecoeficiência), Maicon Bernardino (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:15</td>
-      <td><strong>[GRAD] Sistema Integrado para Gerenciamento de Trabalhos de Conclusão de Curso</strong><br>
-          <i>Autores: Rômulo Cadó Dorneles (UFSM), Carla Lisiane de Oliveira Castanho (URI Santiago), Pedro Denardi Minuzzi (URI), Bruno Oliveira Cavalheiro (URI Campus Santiago)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:30</td>
-      <td><strong>[GRAD] Inovação no Acompanhamento de Egressos: avaliação do SAVE a partir da perspectiva dos gestores</strong><br>
-          <i>Autores: Marcos Eduardo Lopes Silva (UNIPAMPA), Milena Soares Ferreira, Bianca Maia Ribeiro (UNIPAMPA), Camilla Borchhardt (UNIPAMPA), Aline Mello (UNIPAMPA), Alice Finger (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:45</td>
-      <td><strong>[GRAD] RFPG - Game Design e Avaliação Preliminar de um Jogo para Apoiar o Ensino de Algoritmos e Programação</strong><br>
-          <i>Autores: Eduardo Carvalho (UNIPAMPA), Jean F. P. Cheiran (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>15:00</td>
-      <td><strong>[GRAD] Jarvas: um Chatbot Assistente via Aplicativos de Mensagens Instantâneas para Aplicações Científicas</strong><br>
-          <i>Autores: Rafael Nogueira (UNIPAMPA), Lucas Soares (UNIPAMPA), Yang da Fontoura Rodrigues (Unipampa/Campus de Alegrete), Luiz Felipe Laviola (UNIPAMPA), Diego Kreutz (UNIPAMPA), Rodrigo Brandão Mansilha (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>15:15</td>
-      <td><strong>[GRAD] Ferramentas para Snowballing: Uma Revisão Sistemática e Comparativa da Literatura</strong><br>
-          <i>Autores: Cassiano Pinheiro Valença (UNIPAMPA), Diego dos Santos Comis (UNIPAMPA), Elder Macedo Rodrigues (UNIPAMPA)</i>
-      </td>
-    </tr>
+    <tr><td>14:00</td><td><strong>Engenharia Experimental de Software Aplicada à Detecção Inteligente de Fraudes Financeiras</strong></td></tr>
+    <tr><td>14:15</td><td><strong>DCEP-SE: A Dublin Core Application Profile for Experimental Software Engineering</strong></td></tr>
+    <tr><td>14:30</td><td><strong>Uma Abordagem de Engenharia de Software Experimental para Avaliação de Modelos Preditivos em Marketing Bancário</strong></td></tr>
+    <tr><td>14:45</td><td><strong>Uma Revisão Sistemática da Literatura em Processos de Implantação de Software: Resultados Preliminares</strong></td></tr>
+    <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
   </tbody>
 </table>
 
 <table id="sessao2" class="sbc-table">
   <thead>
-    <tr>
-      <th colspan="2"><strong>Sessão Técnica 2 - Segurança e Cloud</strong><br><i>Chair: Leonardo Lima Carvalho (URI)</i></th>
-    </tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 2 – Processos e Práticas de Desenvolvimento de Software</strong></th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td>16:00</td>
-      <td><strong>[PÓS] Especificação de Requisitos de Segurança em Firewalls de Próxima Geração: Abordagens e Desafios</strong><br>
-          <i>Autores: Tiago William De Morais (UNIPAMPA), Felipe Scherer (UNIPAMPA), Felipe Dresch (UNIPAMPA), Vagner Ereno Quincozes (UFF), Silvio Quincozes (UNIPAMPA), Diego Kreutz (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:15</td>
-      <td><strong>[PÓS] Kernel for IoT Systems Software (KISS)</strong><br>
-          <i>Autores: Santiago Martin Pereira (UNIPAMPA), Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:30</td>
-      <td><strong>[PÓS] Modelagem de Ameaças no Desenvolvimento de Software: Uma Análise Comparativa das Metodologias</strong><br>
-          <i>Autores: Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Santiago Martin Pereira (UNIPAMPA), Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:45</td>
-      <td><strong>[GRAD] CANEDA-IDS: Uma Arquitetura Orientada a Eventos Para Detecção de Intrusão em Redes CAN - Proposta e Avaliação</strong><br>
-          <i>Autores: Felipe Dresch (UNIPAMPA), Felipe Scherer (UNIPAMPA), Silvio Quincozes (UNIPAMPA), Diego Kreutz (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>17:00</td>
-      <td><strong>[PÓS] Uma Análise Prática dos Frameworks Serverless AWS SAM, Pulumi e Serverless Framework</strong><br>
-          <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>17:15</td>
-      <td><strong>[PÓS] Strategies for Mitigating Microservice Anti-Patterns in the Pre-Migration of Monolithic Legacy Systems</strong><br>
-          <i>Autores: Guilherme L. D. Villaca (UNIOESTE), Ivonei Freitas Silva (UNIOESTE), Wesley K. G. Assunção (North Carolina State University), Rodrigo Brickmann Rocha, Gabriel Caetano Fermino</i>
-      </td>
-    </tr>
+    <tr><td>15:00</td><td><strong>Implantação de Padrões e Práticas de Qualidade de Software: um estudo de caso</strong></td></tr>
+    <tr><td>15:15</td><td><strong>Desafios da Agilidade Distribuída: Uma Análise da Implementação de Metodologias Ágeis em PMEs com Times Híbridos</strong></td></tr>
+    <tr><td>15:30</td><td><strong>Dívida Técnica de Requisitos de Software na Prática vs Academia: Um estudo preliminar sobre Causas, Impactos e Estratégias de Mitigação</strong></td></tr>
+    <tr><td>15:45</td><td><strong>Em Direção à Modelagem de um Processo de Implantação de Software com base no Metamodelo SPEM</strong></td></tr>
   </tbody>
 </table>
-
-<h3>Terça-Feira (12/Nov/2024)</h3>
 
 <table id="sessao3" class="sbc-table">
   <thead>
-    <tr>
-      <th colspan="2"><strong>Sessão Técnica 3 - Arquiteturas Computacionais</strong><br><i>Chair: Carla Castanho (URI)</i></th>
-    </tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 3 – IA e Aprendizado de Máquina em Engenharia de Software</strong></th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td>14:00</td>
-      <td><strong>[GRAD] Uma GUI para hackers do bem aprenderem sobre malwares sintéticos</strong><br>
-          <i>Autores: Leonardo Sonco (UNIPAMPA), Rodrigo Brandão Mansilha (UNIPAMPA), Diego Kreutz (UNIPAMPA), Angelo Nogueira</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:15</td>
-      <td><strong>[PÓS] Cloud AutoDroid: uma Arquitetura de Backend para Executar Serviços IA Generativa na Nuvem</strong><br>
-          <i>Autores: Luiz Felipe Laviola (UNIPAMPA), Angelo Gaspar Diniz Nogueira (UNIPAMPA), Diego Kreutz (UNIPAMPA), Rodrigo Brandão Mansilha (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:30</td>
-      <td><strong>[GRAD] Arquitetura de Comunicação Automotiva Aplicada para Veículos</strong><br>
-          <i>Autores: Matheus Nunes Franco (UFSC), Gian Ricardo Berkenbrock (UFSC), Eryk K. Suguiura (UFSC)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:45</td>
-      <td><strong>[PÓS] Avaliação de Desempenho de API Gateways para o Gerenciamento de Acessos a Microsserviços</strong><br>
-          <i>Autores: Rodrigo Cargnelutti (UNIPAMPA), Giulliano Minuzzi (UNIPAMPA), Everton de Vargas Agilar (UFSM), Fábio Paulo Basso (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>15:00</td>
-      <td><strong>[PÓS] Desempenho e Eficiência de HPC em Ambientes Serverless: Uma Revisão Integrativa</strong><br>
-          <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
-      </td>
-    </tr>
+    <tr><td>16:30</td><td><strong>Identificação de Esforço Cognitivo com Auxílio de Dispositivos Vestíveis e Inteligência Artificial</strong></td></tr>
+    <tr><td>16:45</td><td><strong>Engenharia de Software Inteligente: Um Panorama Sistemático do Uso de Aprendizagem de Máquina nos Anais da ERES</strong></td></tr>
+    <tr><td>17:00</td><td><strong>Avaliação de Qualidade de Código Java gerado por Large Language Models</strong></td></tr>
   </tbody>
 </table>
+
+<table id="sessao9" class="sbc-table">
+  <thead>
+    <tr><th colspan="2"><strong>Sessão Técnica 9 – Arquitetura e Microsserviços</strong></th></tr>
+  </thead>
+  <tbody>
+    <tr><td>17:15</td><td><strong>Segurança Proativa em Arquitetura de Microsserviços e Container: um estudo de caso</strong></td></tr>
+    <tr><td>17:30</td><td><strong>Arquitetura de Microsserviços: Uma Revisão Multivocal</strong></td></tr>
+    <tr><td>17:45</td><td><strong>Arquitetura de Software para Identidades Digitais Descentralizadas em Cidades Inteligentes: Um Relato de Experiência com a Trustchain</strong></td></tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h3>30/Out</h3>
 
 <table id="sessao4" class="sbc-table">
   <thead>
-    <tr>
-      <th colspan="2"><strong>Sessão Técnica 4 - Design, Usabilidade, Acessibilidade, Experiência do Usuário e Diversidade</strong><br><i>Chair: Paulo Silas Severo de Souza (Unipampa)</i></th>
-    </tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 4 – Testes e Validação de Software</strong></th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td>16:15</td>
-      <td><strong>[GRAD] Diversidade em Equipes de Software: uma análise em empresas gaúchas</strong><br>
-          <i>Autores: Maicon Fernando Backes (FEEVALE), Adriana Neves dos Reis (FEEVALE)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:30</td>
-      <td><strong>[GRAD] Vieses Cognitivos Aplicados ao Design: Influência na Experiência do Usuário</strong><br>
-          <i>Autores: Lucas Martinez (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:45</td>
-      <td><strong>[GRAD] Celine: um chatbot no Whatsapp para idosos</strong><br>
-          <i>Autores: Saimon Martins Cabrera (UNIPAMPA), Jean F. P. Cheiran (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>17:00</td>
-      <td><strong>[GRAD] Avaliação Preliminar da Acessibilidade de Sites de Prefeituras dos Municípios em que estão situados os Campi da SAVE</strong><br>
-          <i>Autores: Julielen Arnoud Dorneles, Amanda Meincke Melo</i>
-      </td>
-    </tr>
+    <tr><td>14:00</td><td><strong>Implementação de Testes de Integração nos Frameworks de Desenvolvimento Mobile Flutter e React Native: um estudo comparativo</strong></td></tr>
+    <tr><td>14:15</td><td><strong>A Differential Testing Pipeline for Validating Lambda Expression Handling in Java Compilers Through LLM-Generated Test Cases</strong></td></tr>
+    <tr><td>14:30</td><td><strong>Differential Fuzzing Go Compilers using LLMs: A Methodological Proposal</strong></td></tr>
+    <tr><td>14:45</td><td><strong>Explorando o Uso de LLMs para Fuzzing de Código Lua: Metodologia e Primeiras Etapas</strong></td></tr>
   </tbody>
 </table>
 
-<h3>Quarta-Feira (13/Nov/2024)</h3>
-
 <table id="sessao5" class="sbc-table">
   <thead>
-    <tr>
-      <th colspan="2"><strong>Sessão Técnica 5 - Aspectos do Ciclo de Vida do Software</strong><br><i>Chair: Elvys Soares (UFAL)</i></th>
-    </tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 5 – Requisitos e Usabilidade</strong></th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td>14:00</td>
-      <td><strong>[EXT] Especificação de Requisitos de um Software de Apoio à Enfermagem no Tratamento de Lesão por Pressão: Um Relato de Experiência</strong><br>
-          <i>Autores: Sabrina Rodrigues Fernandes (UNIPAMPA), Maicon Bernardino (UNIPAMPA), Fábio Paulo Basso (UNIPAMPA), Williamson Silva (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:15</td>
-      <td><strong>[PÓS] What is Beyond the Box? A Survey on the Human Perspective in Design Thinking Activities in Software Development</strong><br>
-          <i>Autores: Vander Magalhães Nicácio (UFAC), Enzo Kleinpaul (IFFarroupilha), Regis Soares (IFFarroupilha), Laura Costa Sarkis (UFAC), Rafael Parizi (IFFar)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:30</td>
-      <td><strong>[PÓS] Implementação de Testes Automatizados Mobile em Servidores Linux: Um Relato de Experiência em um Banco Público</strong><br>
-          <i>Autores: Jonnathan Riquelmo Lopes (UNIPAMPA), Elder Macedo Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:45</td>
-      <td><strong>[GRAD] Uma Abordagem para Avaliação de Desempenho das Equipes no Ensino de Gerenciamento de Projetos de Software</strong><br>
-          <i>Autores: Dionas Luan Müller (UNIPAMPA), Raul Neves, Matheus Boeira, Thiago Araújo, Maicon Bernardino (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>15:00</td>
-      <td><strong>[GRAD] Geração de Códigos usando Diagramas de Atividade para Sistemas Embarcados</strong><br>
-          <i>Autores: Matheus Nunes Franco (UFSC), Gian Ricardo Berkenbrock (UFSC), Jean Marcelo Mira Junior (UFSC), Lucas Piana (UFSC)</i>
-      </td>
-    </tr>
+    <tr><td>15:00</td><td><strong>Ver, Ouvir e Anotar: Técnicas Etnográficas e Contextuais Aplicadas à Engenharia de Requisitos</strong></td></tr>
+    <tr><td>15:15</td><td><strong>Interfaces que Facilitam ou que Dificultam? Um Estudo sobre Usabilidade e Acessibilidade em um Sistema Educacional</strong></td></tr>
+    <tr><td>15:30</td><td><strong>Elicitação de Requisitos e Percepções do Público-Alvo para um Software de Nutrição Clínica: Resultados Preliminares de Um Survey</strong></td></tr>
+    <tr><td>15:45</td><td><strong>Vinte Anos Depois do Decreto de Acessibilidade: O Caso do Novo Portal da Prefeitura de [OMITIDO]</strong></td></tr>
+    <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
   </tbody>
 </table>
 
 <table id="sessao6" class="sbc-table">
   <thead>
-    <tr>
-      <th colspan="2"><strong>Sessão Técnica 6 - Engenharia de Software Aplicada</strong><br><i>Chair: Silvio Quincozes (Unipampa)</i></th>
-    </tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 6 – Aplicações Web e Full Stack</strong></th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td>16:00</td>
-      <td><strong>[GRAD] X-Ray Covid19: Um Aplicativo Móvel para Diagnóstico através de Radiografias do Tórax</strong><br>
-          <i>Autores: Michael Luis de Nazare Martins (UNIPAMPA), Diego Kreutz (UNIPAMPA), Fábio Paulo Basso (UNIPAMPA), Silvio Quincozes (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:15</td>
-      <td><strong>[GRAD] Tell Me What You See: On a Proposal for a Computer Vision and Sentiment Analysis Tool to Support User Feedback Collection in Software Development</strong><br>
-          <i>Autores: Regis Soares (IFFarroupilha), Leonardo Messa, Enzo Kleinpaul (IFFarroupilha), Rafael Parizi (IFFar)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:30</td>
-      <td><strong>[GRAD] Desenvolvimento de uma Ferramenta para a Identificação de Riscos em uma Empresa do Ramo Submarino</strong><br>
-          <i>Autores: Breno Vergopolan (UTFPR Dois Vizinhos), Gustavo Santos (UTFPR)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:45</td>
-      <td><strong>[GRAD] Investigating Computational Solutions for Metadata Processing in Software Engineering Experiments</strong><br>
-          <i>Autores: Filipe Amadeu Santana (UEM), André F. R. Cordeiro (UEM), Edson OliveiraJr (UEM)</i>
-      </td>
-    </tr>
+    <tr><td>16:30</td><td><strong>Padrões de Projeto no Desenvolvimento de Solução de Software Full Stack: Um Relato de Experiência</strong></td></tr>
+    <tr><td>16:45</td><td><strong>Explorando a Program Structure Interface (PSI): Fundamentos da Construção de Plugins no IntelliJ</strong></td></tr>
+    <tr><td>17:00</td><td><strong>Uma Interface Web 3.0 Amigável para Rastreabilidade de Produtos da Agricultura Familiar Usando Contratos Inteligentes</strong></td></tr>
+    <tr><td>17:15</td><td><strong>Towards a Web Portal for Teaching and Practicing of Software Engineering Controlled Experiments</strong></td></tr>
+    <tr><td>17:30</td><td><em>Janela / encerramento do dia</em></td></tr>
   </tbody>
-</table> -->
+</table>
+
+<hr>
+
+<h3>31/Out</h3>
+
+<table id="sessao7" class="sbc-table">
+  <thead>
+    <tr><th colspan="2"><strong>Sessão Técnica 7 – Educação em Computação e Extensão Universitária</strong></th></tr>
+  </thead>
+  <tbody>
+    <tr><td>14:00</td><td><strong>Turma Lovelace: O ensino de programação competitiva com foco em mulheres e não binário</strong></td></tr>
+    <tr><td>14:15</td><td><strong>Proposta da Metodologia [Omitido]: Aprendizagem Colaborativa e Criativa no Ensino de Programação</strong></td></tr>
+    <tr><td>14:30</td><td><strong>Estudantes de Engenharia de Software retornam ao Ensino Fundamental: uma experiência extensionista</strong></td></tr>
+    <tr><td>14:45</td><td><strong>Cidades Inteligentes e Tecnologia da Informação: Uma Revisão Terciária da Produção Acadêmica Brasileira</strong></td></tr>
+  </tbody>
+</table>
+
+<table id="sessao8" class="sbc-table">
+  <thead>
+    <tr><th colspan="2"><strong>Sessão Técnica 8 – Aplicações em Engenharia de Software</strong></th></tr>
+  </thead>
+  <tbody>
+    <tr><td>15:00</td><td><strong>Realidade Virtual na Reabilitação Cardíaca: Um Mapeamento Sistemático da Literatura</strong></td></tr>
+    <tr><td>15:15</td><td><strong>Implementação de uma Intervenção Digital Baseada em Mindfulness para Estudantes Universitários</strong></td></tr>
+    <tr><td>15:30</td><td><strong>SpeakUp: Aplicação Web para a Aprendizagem de Idiomas Apoiada por Inteligência Artificial</strong></td></tr>
+    <tr><td>15:45</td><td><strong>Ecotrash: Protótipo Web para Promover o Descarte Sustentável de Lixo Eletrônico apoiado por Gamificação e Engajamento do Usuário</strong></td></tr>
+    <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
+  </tbody>
+</table>
+
+<table id="sessao10" class="sbc-table">
+  <thead>
+    <tr><th colspan="2"><strong>Sessão Técnica 10 – Desenvolvimento de APIs e Ontologias</strong></th></tr>
+  </thead>
+  <tbody>
+    <tr><td>16:30</td><td><strong>Desenvolvimento de uma API REST para Manipulação de Ontologias utilizando Python e OWLReady2: Um Relato de Experiência</strong></td></tr>
+    <tr><td>16:45</td><td><strong>Em Direção ao Desenvolvimento de uma Ferramenta de Gerenciamento de Rubricas de Avaliação</strong></td></tr>
+    <tr><td>17:00</td><td><strong>Projeto ARCA - Ambiente de Relacionamento Comercial do Agronegócio: Uma Proposta de Plano de Inovação</strong></td></tr>
+    <tr><td>17:15</td><td><strong>Smart Agro RAF API</strong></td></tr>
+    <tr><td>17:30</td><td><em>Encerramento do evento / avisos finais</em></td></tr>
+  </tbody>
+</table>
