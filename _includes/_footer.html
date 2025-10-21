@@ -98,6 +98,59 @@
     width: 100%;
     max-width: 800px;
   }
+
+  .column.sponsorship {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .sponsorship-images {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 24px;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    max-width: 1000px; /* limita a largura total do grid */
+    margin-top: 20px;
+  }
+
+  /* Cada logo dentro do grid */
+  .sponsorship-images a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 12px;
+  }
+
+  /* Padroniza o tamanho visual, sem distorcer */
+  .sponsorship-images a img {
+    max-width: 220px;     /* controla a largura máxima */
+    max-height: 80px;     /* uniformiza a altura visual */
+    width: auto;
+    height: auto;
+    object-fit: contain;  /* evita distorção */
+  }
+
+  /* Hover suave nos logos de patrocinadores */
+  .sponsorship-images a img:hover {
+    transform: scale(1.05);
+    transition: transform 0.25s ease;
+  }
+
+  /* Ajustes mobile */
+  @media (max-width: 768px) {
+    .sponsorship-images {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+    }
+    .sponsorship-images a img {
+      max-width: 180px;
+      max-height: 70px;
+    }
+  }
 </style>
 
 <hr>
@@ -123,21 +176,21 @@
   <div class="column sponsorship">
     <h4 class="title">Patrocínio</h4>
     <div class="sponsorship-images">
-      <a href="https://cloud.optidata.com/" target="_blank">
+      <a href="https://cloud.optidata.com/" target="_blank" rel="noopener">
         <img src="{{ site.urlimg }}/patrocinadores/logo_optidata.png" alt="Optidata Logo" class="logo">
       </a>
-      <a href="https://ixcsoft.com/" target="_blank">
+      <a href="https://ixcsoft.com/" target="_blank" rel="noopener">
         <img src="{{ site.urlimg }}/patrocinadores/logo_ixc.png" alt="IXC Soft Logo" class="logo">
       </a>
-      <a href="https://www.acichapeco.com.br/nucleos/nucleo-de-tecnologia-da-informacao-e-comunicacao" target="_blank">
+      <a href="https://www.acichapeco.com.br/nucleos/nucleo-de-tecnologia-da-informacao-e-comunicacao" target="_blank" rel="noopener">
         <img src="{{ site.urlimg }}/patrocinadores/logo_acic.png" alt="Acic Logo" class="logo">
       </a>
-      <a href="https://www.ogochi.com.br/" target="_blank">
+      <a href="https://www.ogochi.com.br/" target="_blank" rel="noopener">
         <img src="{{ site.urlimg }}/patrocinadores/logo_og.png" alt="Ogochi Logo" class="logo">
       </a>
-
     </div>
   </div>
+  
 </div>
 
 <footer id="footer-content" class="bg-grau">
