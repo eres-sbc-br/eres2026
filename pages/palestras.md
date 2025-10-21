@@ -66,68 +66,25 @@ header:
 
 <hr>
 
-<h3>Em breve!</h3>
+<!-- <h3>Em breve!</h3> -->
 
-<!-- 
+
 <div id="palestra1" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/Dr. Lisandra Manzoni Fontoura.jpg" alt="Dr. Lisandra Manzoni Fontoura">
+  <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior">
 
   <div class="palestra-content">
-    <h3>Dra. Lisandra Manzoni Fontoura</h3>
-    <a href="http://lattes.cnpq.br/8979575031016933" target="_blank">Currículo Lattes</a><br>
+    <h3>Prof. Edson Oliveira Junior</h3>
+    <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>
 
-    <h4>Título: Processos de Software em Parcerias Acadêmicas: Desafios e Lições Aprendidas</h4>
+    <h4>Título: Towards Open Software Engineering: Insights and Lessons Learned from Recent Years</h4>
 
     <p>
-      <strong>Data:</strong> 11/Nov/2024 (Segunda-Feira)<br>
+      <strong>Data:</strong> 29/Out/2025 (Quarta-Feira)<br>
       <strong>Hora:</strong> 19:00
     </p>
 
     <p>
-      <strong>Resumo:</strong> Projetos de inovação tecnológica desenvolvidos por universidades em parceria com empresas e/ou o governo exigem a adoção de processos de software que consigam equilibrar as particularidades de cada instituição envolvida. Embora no ambiente acadêmico exista a preferência de metodologias dinâmicas e ágeis, muitas vezes os contratos impõem a necessidade de processos mais estruturados e planejados. Nesta palestra, discutiremos os desafios enfrentados no desenvolvimento de um simulador em um projeto entre a UFSM e parceiros externos. Serão abordadas as principais lições aprendidas e práticas aplicadas para adaptar os processos de software ao contexto acadêmico.
-    </p>
-
-    <p>
-      <strong>Bio:</strong> Doutora em Ciência da Computação e mestre em Computação, ambos pela Universidade Federal do Rio Grande do Sul; graduação em Informática pela Universidade Federal de Santa Maria (1997). Atua como professora e pesquisadora na Universidade Federal de Santa Maria e como professor permanente do Programa de Pós-Graduação em Ciência da Computação. Trabalhou como analista de sistemas e como membro do Grupo de Qualidade de Software no Serviço Federal de Processamento de Dados. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software, principalmente nos seguintes temas: Processos de Software, Gerência de Projetos, Segurança da Informação e Qualidade de Software. Atuou como coordenadora geral do projeto Sistema Integrado de Simulação ASTROS (SIS-ASTROS) e atua como coordenadora técnica do projeto Sistema Integrado de Simulação ASTROS – Grupo de Mísseis e Foguetes (SIS-ASTROS GMF), ambos desenvolvidos em parceria da UFSM com o Exército Brasileiro.
-    </p>
-
-  </div>
-</div>
-
-<hr class="divisor">
-
-<div id="palestra2" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/Dr. Leopoldo Motta Teixeira.jpg" alt="Dr. Leopoldo Motta Teixeira">
-
-  <div class="palestra-content">
-    <h3>Dr. Leopoldo Motta Teixeira</h3>
-    <a href="http://lattes.cnpq.br/2117651910340729" target="_blank">Currículo Lattes</a><br>
-
-    <h4>Título: De Produtos a Linhas de Produtos: Um Panorama de Teorias Formais para Análise e Evolução de Linhas de Produtos</h4>
-
-    <p>
-      <strong>Data:</strong> 11/Nov/2024 (Segunda-Feira)<br>
-      <strong>Hora:</strong> 20:30
-    </p>
-
-    <p>
-      <strong>Resumo:</strong> Linhas de produtos de software (SPLs) geralmente são construídas a partir de diferentes artefatos, como modelos de variabilidade e configuração, além do código para a implementação de funcionalidades. Isso gera desafios para as técnicas de análise, já que muitas configurações podem ser derivadas de uma SPL. Além disso, essas linhas de produtos também evoluem ao longo do tempo, o que pode trazer desafios adicionais para as técnicas de análise. Em trabalhos anteriores, estabelecemos teorias de refinamento de linhas de produtos de software, que ampliam as noções de refinamento de produtos individuais para linhas de produtos como um todo, formando a base para a noção de evolução segura e parcialmente segura de SPLs. A evolução segura considera cenários de evolução que preservam o comportamento de todo o conjunto de produtos da SPL. No entanto, muitos cenários não se adequam a essa definição, como remoções de funcionalidades e correções de bugs. Por isso, desenvolvemos uma extensão dessa teoria, que introduz a noção de evolução parcialmente segura de SPLs, onde apenas um subconjunto dos produtos existentes tem seu comportamento preservado. Vamos apresentar os principais aspectos da teoria e, em seguida, ilustrar uma de suas aplicações: o uso de templates para apoiar a evolução de SPLs. Além disso, também apresentaremos resultados recentes relacionados a um framework formal para análise de linhas de produtos, formalização de linguagens para descrever variabilidade, e um procedimento para demonstrar a observabilidade de interações entre funcionalidades.
-    </p>
-
-    <p>
-      <strong>Bio:</strong> Leopoldo é professor adjunto no Centro de Informática (CIn) da Universidade Federal de Pernambuco, onde lidera o grupo de Pesquisa em Teste e Análise de Software, e também é afiliado ao Software Productivity Group e ao CIn-Trust. Desde maio de 2023, é coordenador da pós-graduação do departamento.
-    </p>
-
-    <p>
-      Em 2022, foi bolsista CAPES-Alexander von Humboldt para pesquisadores experientes na Cátedra de Engenharia de Software da Universität des Saarlandes, onde trabalhou com Sven Apel no tópico de análise de variabilidade ao longo das dimensões de tempo e espaço.
-    </p>
-
-    <p>
-      Seus interesses de pesquisa envolvem Engenharia de Software, com foco em fornecer bases sólidas para a melhoria da qualidade e produtividade de software. Em particular, tem trabalhado nos seguintes temas e sua integração: linhas de produtos de software e sistemas configuráveis, refatoração, métodos formais, testes de software e desenvolvimento móvel.
-    </p>
-
-    <p>
-      Leopoldo obteve o doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (CIn-UFPE) em 2014, sob a orientação de Paulo Borba e Rohit Gheyi. Durante o doutorado, passou um período na Universidade de Waterloo, trabalhando com Krzysztof Czarnecki. Seu mestrado em Ciência da Computação também foi obtido no CIn-UFPE (2010), e antes disso, graduou-se em Engenharia da Computação pela Escola Politécnica de Pernambuco (2007).
+      <strong>Bio:</strong> Edson Oliveira Junior é professor associado do Departamento de Informática da Universidade Estadual de Maringá (UEM) e pesquisador nas áreas de Engenharia de Software e Ciência Aberta. Atua no Programa de Pós-Graduação em Ciência da Computação da UEM e coordena iniciativas voltadas à reprodutibilidade, proveniência e transparência em experimentos controlados de engenharia de software. É criador e coordenador do workshop Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE), realizado junto ao Congresso Brasileiro de Software (CBSoft) em 2021 e 2022, e membro do Grupo de Trabalho em Ciência Aberta da Sociedade Brasileira de Computação (SBC). Desde 2022, é membro do Comitê Diretivo de Ciência Aberta do CBSoft, contribuindo para consolidar diretrizes e boas práticas de abertura na comunidade de Engenharia de Software. Sua atuação busca aproximar a pesquisa em software dos princípios da Ciência Aberta, em consonância com as recomendações da UNESCO e os Objetivos de Desenvolvimento Sustentável (ODS) da ONU. Além disso, tem atuado na área de Forense Digital baseada em Evidência, investigando formas de promover maior abertura e rigor em experimentos controlados, bem como o fortalecimento da força probatória da evidência digital para seu uso seguro em processos criminais.
     </p>
 
   </div>
@@ -136,25 +93,21 @@ header:
 <hr class="divisor">
 
 <div id="palestra3" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/Dr. Marco Tulio Valente.jpg" alt="Dr. Marco Tulio Valente">
+  <img src="{{ site.urlimg }}/palestras/raul.jpeg" alt="Prof. Raul Sidnei Wazlawick">
 
   <div class="palestra-content">
-    <h3>Dr. Marco Tulio Valente</h3>
-    <a href="http://lattes.cnpq.br/2147157840592913" target="_blank">Currículo Lattes</a><br>
+    <h3>Prof. Raul Sidnei Wazlawick</h3>
+    <a href="http://lattes.cnpq.br/7541399131195077" target="_blank">Currículo Lattes</a><br>
 
-    <h4>Título: O que eu preciso para ser um excelente Engenheiro de Software?</h4>
+    <h4>Título: Desenvolvimento de software Centrado no Usuário: Construindo produtos com b_thinking, UX e Agile</h4>
 
     <p>
-      <strong>Data:</strong> 12/Nov/2024 (Terça-Feira)<br>
+      <strong>Data:</strong> 30/Out/2025 (Quinta-Feira)<br>
       <strong>Hora:</strong> 19:00
     </p>
 
     <p>
-      <strong>Resumo:</strong> Atualmente, toda empresa está se transformando em uma empresa de software. Então, não é surpresa que Engenheiros de Software estejam no topo das profissões mais demandadas do mercado. Nesta palestra, vamos discorrer sobre as diferentes habilidades que são exigidas de um Engenheiro de Software, bem como comentar sobre as principais técnicas usadas no dia a dia da profissão.
-    </p>
-
-    <p>
-      <strong>Bio:</strong> Marco Tulio Valente é doutor em Ciência da Computação (2002) pela Universidade Federal de Minas Gerais, onde atualmente é Professor Associado do Departamento de Ciência da Computação. Em 2020, publicou o livro "Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade", que está se transformando na obra de referência para ensino de Engenharia de Software no Brasil, sendo usado por mais de 400 professores. Em 2024, o livro ganhou uma versão em inglês.
+      <strong>Bio:</strong> Professor Titular da UFSC, onde trabalha desde 1992. Possui Bacharelado em Ciência da Computação pela Universidade Federal de Santa Catarina (UFSC, 1988), Mestrado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS, 1990), Doutorado em Engenharia de Produção (UFSC, 1993) e Pós-Doutorado pela Universidade Nova de Lisboa (UNL, 1998). Ministra Engenharia de Software II e Informática e Sociedade no Bacharelado em Ciência da Computação e Algoritmos e Programação e Análise de Sistemas no Mestrado Profissional em Informática e Saúde da UFSC. Recebeu o Prêmio Francisco Romeu Landi - Pesquisador Inovador no Setor Público - etapa Santa Catarina, CONFAP - Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa, 2021; Prêmio Labutantes - Melhor Laboratório de Inovação da Região Sul, Conexão Inovação Pública do Rio de Janeiro, 2021; Menção honrosa no Prêmio Luiz Fernando Gomes Soares com o aplicativo e-SUS Vacinação, SBC - WebMedia WTC, 2021; Top 20 downloaded article 2017-2018, Wiley ed., 2019; Finalista do 59 Prêmio Jabuti (Excelência em Produção Literária Nacional) com o livro "História da Computação", CBL - Câmara Brasileira do Livro, 2017; Professor Honoris Causa, Centro de Instrução de Guerra Eletrônica - Exército Brasileiro, 2013; Best Paper Award no XIV Iberoamerican Conference on Software Engineering - CIbSE, PUC-Rio, 2011; Professor Honorário, Universidad Privada Antenor Orrego, Trujillo, Peru, 2004; Artigo premiado no V Workshop de Informática na Escola, Sociedade Brasileira de Computação, 1999; Professor Honorário, Universidad del Altiplano, Puno, Peru, 1999; Menção Honrosa (best paper) no Congresso Argentino de Ciência da Computação, Universidade de la Plata, 1997.Na UFSC ocupou os seguintes cargos: Coordenador do Bacharelado em Ciência da Computação, Coordenador do Programa de Pós-Graduação (Mestrado) em Ciência da Computação, Conselheiro da Câmara de Pós-Graduação e Diretor Acadêmico do Campus de Araranguá. Na Sociedade Brasileira de Computação (SBC) foi Conselheiro Suplente por quatro mandatos e Conselheiro Titular por um mandato, além de Coordenador do Comitê Especial de Informática na Educação entre 1995 e 1997. Criou e foi editor da Revista Brasileira de Informática na Educação da SBC entre 1997 e 2001. Na International Federation for Information Processing (IFIP) foi representante do Brasil no Comitê Técnico de Educação (TC3) por 11 anos e Chair do Working Group on ICT and Higher Education (WG3.2) por 2 anos. Coordenou vários eventos nacionais e internacionais, incluindo o Congresso da SBC (2002), Simpósio Brasileiro de Engenharia de Software (SBES, 2006) e, juntamente com Rosa Maria Vicari, a IX IFIP World Conference on Computers in Education (2009). É autor dos seguintes livros: Análise e Design Orientados a Objetos para Sistemas de Informação: Modelagem com UML, OCL e IFML, (Elsevier, 2004; 3 edição em 2015; Duas Edições em Inglês pela Morgan Kaufman em 2014 e 2025), uma edição em Chinês em 2018, Metodologia de Pesquisa para Ciência da Computação (Elsevier, 2009; 2 edição em 2014, 3 edição pela LTC em 2020), Engenharia de Software: Conceitos e Práticas (Elsevier, 2012; 2 edição em 2018), História da Computação (Elsevier, 2016) e Introdução a Algoritmos e Programação em Python: Uma abordagem dirigida por testes (Elsevier, 2017). No Ministério da Educação (MEC) foi membro do Comitê de Especialistas de Ensino em Ciência da Computação (CEEInf) por 4 anos e da Comissão Assessora da Área de Sistemas de Informação para o ENADE entre 2014 e 2016. É Coordenador Geral do Laboratório Bridge, com cerca de 220 colaboradores, que entre outros projetos desenvolve o sistema e-SUS APS, parceria da UFSC com o Ministério da Saúde para a reestruturação do sistema de informação da atenção primária à saúde.
     </p>
 
   </div>
@@ -163,33 +116,22 @@ header:
 <hr class="divisor">
 
 <div id="palestra4" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/Jonathan Emir Silva Martins.jpeg" alt="Jonathan Emir Silva Martins">
+  <img src="{{ site.urlimg }}/palestras/guilherme.jpeg" alt="Prof. Guilherme Henrique Piasson">
 
   <div class="palestra-content">
-    <h3>Jonathan Emir Silva Martins</h3>
-    <a href="http://lattes.cnpq.br/9725631814888000" target="_blank">Currículo Lattes</a><br>
+    <h3>Prof. Guilherme Henrique Piasson</h3>
+    <a href="http://lattes.cnpq.br/8676979850309270" target="_blank">Currículo Lattes</a><br>
 
-    <h4>Título: Como buscamos ser o laboratório referência em tecnologia e inovação por meio de práticas ágeis</h4>
+    <h4>Título: Do Código à Cabine: Engenharia de Software na Aviação</h4>
 
     <p>
-      <strong>Data:</strong> 12/Nov/2024 (Terça-Feira)<br>
+      <strong>Data:</strong> 30/Out/2024 (Quinta-Feira)<br>
       <strong>Hora:</strong> 20:30
     </p>
 
     <p>
-      <strong>Resumo:</strong> A palestra irá abordar a trajetória do Laboratório Bridge na implementação e evolução de metodologias ágeis, com o objetivo de se tornar um centro de excelência em tecnologia e inovação. A apresentação será dividida em três tópicos principais: introdução à empresa, explicação sobre o conceito de agilidade e sua importância na cultura organizacional e apresentação da b_agile, nossa ferramenta desenvolvida para medir a maturidade das equipes ágeis.
-    </p>
-
-    <p>
-      <strong>Bio:</strong> Jonathan Emir Silva Martins, 32 anos, nascido em Guaíba e atualmente residente em Cachoeirinha, encontrou na agilidade a verdadeira inovação e como as empresas podem gerar resultados verdadeiros. Com formação em Análise e Desenvolvimento de Sistemas, sua jornada profissional começou como desenvolvedor backend, passando para analista de testes (QA), e posteriormente como analista de projetos impulsionando a inovação nos processos de BackOffice.
-    </p>
-
-    <p>
-      A experiência em equipes ágeis despertou sua curiosidade e admiração pela agilidade, motivando-o a buscar certificações e aprofundar-se nessa área. Neste seguimento, atuou como Scrum Master e Agile Master, assim acumulando um vasto conhecimento prático no processo de desenvolvimento de software.
-    </p>
-
-    <p>
-      Atualmente, Jonathan é Agilista no Bridge, apoiando a transformação ágil da organização e sendo responsável por três equipes em dois projetos estratégicos: o Prontuário do Cidadão Eletrônico (PEC) e o Cadastro Base de Programas Educacionais (CBPE).
+      <strong>Bio:</strong> Guilherme Henrique Piasson é Team Lead na VistaJet e Professor na Unoesc, com mais de 15 anos de experiência em arquitetura distribuída, engenharia de software e gestão de projetos.
+      É graduado em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (Campus Passo Fundo). Possui especialização em Arquitetura de Software Distribuído pela PUC Minas e MBA em Gestão de Negócios pela USP/Esalq.
     </p>
 
   </div>
@@ -198,29 +140,23 @@ header:
 <hr class="divisor">
 
 <div id="palestra5" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/Dr. Paulo Borba.jpg" alt="Dr. Paulo Borba">
+  <img src="{{ site.urlimg }}/palestras/graziela.jpeg" alt="Prof. Graziela Simone Tonin">
 
   <div class="palestra-content">
-    <h3>Dr. Paulo Borba</h3>
-    <a href="http://lattes.cnpq.br/9395715443254344" target="_blank">Currículo Lattes</a><br>
+    <h3>Prof. Graziela Simone Tonin</h3>
+    <a href="http://lattes.cnpq.br/3139277548977541" target="_blank">Currículo Lattes</a><br>
 
-    <h4>Título: O fim da programação, de novo!</h4>
+    <h4>Título: Engenharia de Software em Transição: entre Sistemas Legados, IA e Sustentabilidade</h4>
 
     <p>
-      <strong>Data:</strong> 13/Nov/2024 (Quarta-Feira)<br>
+      <strong>Data:</strong> 31/Out/2024 (Quarta-Feira)<br>
       <strong>Hora:</strong> 19:00
     </p>
 
     <p>
-      <strong>Resumo:</strong> O fim da programação já foi anunciado várias vezes. Dessa vez, o fim é sugerido pelo surgimento dos LLMs (Large Language Models) e de suas variações para código, disponibilizados através de ferramentas como ChatGPT e GitHub Copilot, que mostram significativa capacidade de gerar código a partir de descrições em linguagem natural. Nesta palestra, vamos apresentar a ideia geral dessas ferramentas, comparar com abordagens anteriores para geração de código, discutir como as mesmas podem ser usadas, e se o fim da programação está de fato próximo.
-    </p>
-
-    <p>
-      <strong>Bio:</strong> Paulo Borba é Professor Titular de Engenharia de Software do Centro de Informática da Universidade Federal de Pernambuco, onde lidera o Grupo de Produtividade de Software. Ele pesquisa e desenvolve ferramentas e técnicas para melhorar os níveis de qualidade e produtividade em software, especialmente através da redução de frustrações e esforços desnecessários nas atividades realizadas por desenvolvedores de software. Ele busca a mistura entre excelência em pesquisa e relevância industrial. Seus principais interesses de pesquisa são nos seguintes temas e na integração entre eles: conflitos e ferramentas de integração de código, integração e implantação contínuas, modularidade de software, linhas de produtos de software, e refatoração.
-    </p>
-
-    <p>
-      Paulo é Doutor em Computação pela Universidade de Oxford, e Mestre e Bacharel em Ciência da Computação pela Universidade Federal de Pernambuco. Ele foi sócio-fundador da Qualiti Software Processes.
+      <strong>Bio:</strong> Graziela S. Tonin é professora e coordenadora do curso de Engenharia da Computação no Insper, onde também atua como pesquisadora do Núcleo de Estudos de Gênero (NEG). Doutora em Ciência da Computação pelo IME-USP, com período sanduíche na University of Maryland, Baltimore County (EUA), mestre pelo CIN-UFPE e graduada pela URI-Erechim, possui formação executiva em Venture Finance pela Universidade de Oxford.
+      Com mais de 20 anos de atuação no mercado de tecnologia e 16 anos dedicados à pesquisa e à docência, Graziela recebeu o Prêmio Mundial IBM Ph.D. Fellowship Award e é Co-Chair da XP 2026 (E passou a integrar o Steering Committee), a principal conferência mundial sobre metodologias ágeis, e Co-Chair da São Paulo School of Advanced Science in Systems Change and Sustainability.
+      É também líder do Comitê Mundo Digital do Grupo Mulheres do Brasil, cofundadora da EVSE, foi convidada para palestrar em mais de 9 países sobre tecnologia, inovação, agilidade, equidade de gênero e dívida técnica — conectando academia, mercado e impacto social.
     </p>
 
   </div>
@@ -229,26 +165,23 @@ header:
 <hr class="divisor">
 
 <div id="palestra6" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/Dr. Elvys Soares.jpg" alt="Dr. Elvys Soares">
+  <img src="{{ site.urlimg }}/palestras/ana.jpeg" alt="Prof. Ana Márcia Debiasi Duarte">
 
   <div class="palestra-content">
-    <h3>Dr. Elvys Soares</h3>
-    <a href="http://lattes.cnpq.br/6415531537733982" target="_blank">Currículo Lattes</a><br>
+    <h3>Prof. Ana Márcia Debiasi Duarte</h3>
+    <a href="http://lattes.cnpq.br/3053985067191096" target="_blank">Currículo Lattes</a><br>
 
     <h4>Título: Testes têm cheiro, e não é bom!</h4>
 
     <p>
-      <strong>Data:</strong> 13/Nov/2024 (Quarta-Feira)<br>
+      <strong>Data:</strong> 31/Out/2025 (Sexta-Feira)<br>
       <strong>Hora:</strong> 20:30
     </p>
 
     <p>
-      <strong>Resumo:</strong> Test smells são indicações de possíveis problemas de escrita, projeto ou implementação de testes. Eles podem representar dificuldades na compreensão, reprodução, manutenção, confiabilidade e até mesmo na capacidade que um teste deveria ter de identificar defeitos de software. Nesta palestra, mergulharemos no mundo dos testes que poderiam ter sido melhor implementados! Falaremos sobre pesquisas recentes na área, sobre como novas tecnologias têm ajudado a ampliar o conhecimento sobre test smells e também do que está por vir.
-    </p>
-
-    <p>
-      <strong>Bio:</strong> Elvys é professor no Instituto Federal de Alagoas desde 2009. Trabalha com testes de software há 20 anos. É testador certificado pela British Computer Society (BCS/ISQTB) e já trabalhou por aí em projetos como o Brazil Test Center (CIN-UFPE/Motorola) e na Urna Eletrônica (CIn-UFPE/TSE). Recentemente, terminou o doutorado no CIn-UFPE, onde decidiu variar radicalmente sua atuação e pesquisar testes de software (rsrs), em especial os test smells. Ele descreve sua pesquisa como "de caráter prático", tendo sido publicada e premiada em eventos e periódicos nacionais e internacionais na área.
+      <strong>Bio:</strong> Ana Márcia Debiasi Duarte, Head de PMO na NSTECH 
+      Experiência de mais de 30 anos em desenvolvimento, gestão de projetos e gestão de processos de software. Responsável pela estruturação de uma área de projetos em uma grande empresa de logística. Empreendedora há mais de 10 anos, construindo soluções de software para a área da saúde. Doutora em administração, com mestrado em computação e master na Université de Tours - França em Qualidade de serviços, atua como professora na área de engenharia de software. Atuou como consultora em mais de 100 empresas de desenvolvimento de software, com foco em otimização de processos e resultados. Atualmente pesquisa e trabalha com gestão de projetos de software, membro do PMI/SC e do MGPDI.
     </p>
 
   </div>
-</div> -->
+</div> 
