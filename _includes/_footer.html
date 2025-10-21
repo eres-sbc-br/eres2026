@@ -1,5 +1,5 @@
 <style>
-  /* Área superior com logos */
+  /* ===== Layout base das seções de logos ===== */
   #achievements {
     display: flex;
     justify-content: space-around;
@@ -19,22 +19,28 @@
     margin: 1rem;
   }
 
-  /* ===== Normalização dos LOGOS (mesmo tamanho visual) ===== */
-  #achievements .logo {
-    width: auto !important;     /* neutraliza larguras forçadas */
-    height: auto !important;    /* neutraliza alturas forçadas */
-    max-height: 80px;           /* ajuste fino: 70–100px conforme desejar */
-    max-width: 220px;           /* impede logos muito largos */
-    object-fit: contain;        /* evita distorção */
-    margin-bottom: 1rem;
+  /* ===== Normalização por "tile": todos com a MESMA área ===== */
+  .logo-tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 280px;     /* ajuste fino da largura do tile */
+    height: 120px;    /* ajuste fino da altura do tile */
+    padding: 8px 12px;
+  }
+
+  .logo {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;           /* encaixa a arte sem distorcer */
     transition: transform 0.25s ease;
   }
 
-  .column a img.logo:hover {
+  .logo:hover {
     transform: scale(1.05);
   }
 
-  /* Grids para Organização e Apoio */
+  /* ===== Grids para Organização / Apoio ===== */
   .column.organization,
   .column.support {
     display: flex;
@@ -44,14 +50,14 @@
 
   .logos-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 16px 24px;
     justify-items: center;
     width: 100%;
-    max-width: 800px;
+    max-width: 1000px;
   }
 
-  /* ----- PATROCÍNIO: grid lado a lado e responsivo ----- */
+  /* ===== Patrocínio: grid responsivo ===== */
   .column.sponsorship {
     display: flex;
     flex-direction: column;
@@ -61,27 +67,16 @@
 
   .sponsorship-images {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 24px;
     align-items: center;
     justify-items: center;
     width: 100%;
-    max-width: 1000px;
+    max-width: 1100px;
     margin-top: 20px;
   }
 
-  .sponsorship-images a {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 8px 12px;
-  }
-
-  .sponsorship-images a img {
-    /* herda o .logo: max-height/max-width/object-fit */
-  }
-
-  /* Mobile */
+  /* ===== Mobile ===== */
   @media (max-width: 768px) {
     #achievements {
       flex-direction: column;
@@ -92,9 +87,9 @@
       max-width: 100%;
     }
 
-    #achievements .logo {
-      max-height: 150px;
-      max-width: 360px;
+    .logo-tile {
+      width: 200px;
+      height: 90px;
     }
 
     .logos-grid,
@@ -111,11 +106,11 @@
   <div class="column organization">
     <h4 class="title">Organização</h4>
     <div class="logos-grid">
-      <a href="https://uno.edu.br/" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/logo-uno.png" alt="Unochapecó Logo" class="logo">
+      <a class="logo-tile" href="https://uno.edu.br/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/logo-uno.svg" alt="Unochapecó" class="logo">
       </a>
-      <a href="https://uffs.edu.br/" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/logo-uffs.png" alt="UFFS Logo" class="logo">
+      <a class="logo-tile" href="https://uffs.edu.br/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/logo-uffs.png" alt="UFFS" class="logo">
       </a>
     </div>
   </div>
@@ -123,8 +118,8 @@
   <div class="column support">
     <h4 class="title">Apoio</h4>
     <div class="logos-grid">
-      <a href="https://fapesc.sc.gov.br/" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/patrocinadores/logo-fapesc.png" alt="FAPESC Logo" class="logo">
+      <a class="logo-tile" href="https://fapesc.sc.gov.br/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/patrocinadores/logo-fapesc.png" alt="FAPESC" class="logo">
       </a>
     </div>
   </div>
@@ -132,17 +127,17 @@
   <div class="column sponsorship">
     <h4 class="title">Patrocínio</h4>
     <div class="sponsorship-images">
-      <a href="https://cloud.optidata.com/" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/patrocinadores/logo_optidata.png" alt="Optidata Logo" class="logo">
+      <a class="logo-tile" href="https://cloud.optidata.com/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_optidata.png" alt="Optidata" class="logo">
       </a>
-      <a href="https://ixcsoft.com/" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/patrocinadores/logo_ixc.png" alt="IXCSoft Logo" class="logo">
+      <a class="logo-tile" href="https://ixcsoft.com/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_ixc.png" alt="IXCSoft" class="logo">
       </a>
-      <a href="https://www.acichapeco.com.br/nucleos/nucleo-de-tecnologia-da-informacao-e-comunicacao" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/patrocinadores/logo_acic.png" alt="ACIC Logo" class="logo">
+      <a class="logo-tile" href="https://www.acichapeco.com.br/nucleos/nucleo-de-tecnologia-da-informacao-e-comunicacao" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_acic.png" alt="ACIC TIC" class="logo">
       </a>
-      <a href="https://www.ogochi.com.br/" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/patrocinadores/logo_og.png" alt="Ogochi Logo" class="logo">
+      <a class="logo-tile" href="https://www.ogochi.com.br/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_og.png" alt="Ogochi" class="logo">
       </a>
     </div>
   </div>
