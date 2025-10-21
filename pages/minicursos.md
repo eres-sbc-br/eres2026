@@ -158,24 +158,114 @@ header:
     <div>
       <h2 class="minicurso-title">Minicurso 2: Da Ideia ao Deploy — Construindo e Publicando Aplicações Web Modernas</h2>
       <p class="minicurso-resumo">
-        <strong>Resumo:</strong> Do planejamento ao deploy em produção, passando por boas práticas de frontend, backend, integração/entrega contínua e observabilidade. Abordagem prática e atualizada do ciclo completo de desenvolvimento web.
+        <strong>Resumo:</strong> Visão prática e integrada do ciclo completo de desenvolvimento web — da concepção à publicação — cobrindo modelagem, back-end com Node.js/Express/Sequelize (PostgreSQL), front-end com React/Nuxt, boas práticas de autenticação, dockerização, CI/CD e deploy em nuvem. O foco é hands-on: os participantes saem com uma aplicação funcional publicada.
       </p>
       <p><strong>📅 Data e horário:</strong> 30 de Outubro (quinta-feira), das 08h às 12h</p>
-      <p><em>Programação detalhada: anexa pelo proponente.</em></p>
+
+      <h3>Objetivos do Minicurso</h3>
+      <ul>
+        <li>Apresentar o ciclo completo de desenvolvimento de uma aplicação web moderna, da ideia ao deploy.</li>
+        <li>Capacitar o uso de ferramentas e boas práticas em back-end, front-end, bancos de dados e publicação.</li>
+        <li>Demonstrar um fluxo integrado com Node.js, Express, Sequelize, PostgreSQL, React/Nuxt, Docker e CI/CD.</li>
+        <li>Estimular a prática hands-on para que os participantes publiquem uma aplicação funcional.</li>
+      </ul>
+
+      <h3>Sumário dos Tópicos</h3>
+      <ul>
+        <li><strong>Introdução ao Desenvolvimento Web Moderno</strong>
+          <ul>
+            <li>Conceitos gerais de cliente/servidor.</li>
+            <li>Arquiteturas: monolito vs microsserviços.</li>
+            <li>Visão geral do projeto do minicurso.</li>
+          </ul>
+        </li>
+        <li><strong>Planejamento e Modelagem</strong>
+          <ul>
+            <li>Definição da ideia do sistema.</li>
+            <li>Modelagem simples de banco (PostgreSQL).</li>
+            <li>Versionamento com Git/GitHub.</li>
+          </ul>
+        </li>
+        <li><strong>Back-end com Node.js e Express</strong>
+          <ul>
+            <li>Estruturação da API.</li>
+            <li>Conexão ao banco com Sequelize.</li>
+            <li>Boas práticas de autenticação (JWT).</li>
+          </ul>
+        </li>
+        <li><strong>Front-end com React/Nuxt</strong>
+          <ul>
+            <li>Estrutura inicial do projeto.</li>
+            <li>Comunicação com a API.</li>
+            <li>Componentização e usabilidade.</li>
+          </ul>
+        </li>
+        <li><strong>Dockerização e Deploy</strong>
+          <ul>
+            <li>Containers para back-end e banco de dados.</li>
+            <li>Configuração de <code>docker-compose</code>.</li>
+            <li>Deploy cloud/local (ex.: Vercel, Render, DigitalOcean).</li>
+          </ul>
+        </li>
+        <li><strong>Boas Práticas de Engenharia de Software</strong>
+          <ul>
+            <li>Testes básicos e logs.</li>
+            <li>CI/CD e monitoramento.</li>
+            <li>Segurança, escalabilidade e manutenção.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h3>Público-alvo</h3>
+      <ul>
+        <li>Estudantes de graduação em Computação e áreas afins.</li>
+        <li>Profissionais iniciantes que desejam entender o ciclo completo de desenvolvimento.</li>
+        <li>Interessados em criar, integrar e publicar aplicações modernas na prática.</li>
+      </ul>
+
+      <h3>Relevância, Impacto e Benefícios</h3>
+      <ul>
+        <li>Conecta teoria (modelagem, arquitetura) à prática (deploy real) alinhada ao mercado.</li>
+        <li>Estímulo à cultura DevOps e à entrega contínua.</li>
+        <li>Entrega um produto funcional publicado, aplicável a projetos acadêmicos e profissionais.</li>
+      </ul>
+
+      <h3>Duração e Roteiro</h3>
+      <p>3h30 a 4h</p>
+      <ul>
+        <li>30 min — Introdução e modelagem</li>
+        <li>1h30 — Implementação back-end e front-end</li>
+        <li>1h — Dockerização e deploy</li>
+        <li>30 min — Encerramento e boas práticas</li>
+      </ul>
+
+      <h3>Recursos Necessários</h3>
+      <ul>
+        <li>Laboratório com computadores e internet.</li>
+        <li>Projeção multimídia.</li>
+        <li>Pré-instalações: Node.js (18), Docker, Git, VSCode (ou similar).</li>
+      </ul>
     </div>
   </div>
 
   <h3 class="instrutor-h3">Instrutor:</h3>
   <div class="instrutor">
+    <!-- Opcional: adicione uma foto em /images/minicursos/bernardo.jpg -->
     <img src="{{ site.urlimg }}/minicursos/bernardo.png" alt="Bernardo Zanetti">
     <div class="instrutor-content">
       <h3>Bernardo Zanetti</h3>
       <p>
-        <strong>Vínculo:</strong> Programador – CRS<br>
-        <strong>Contato:</strong> 📧 <a href="mailto:Bernardo.zanetti@unochapeco.edu.br">Bernardo.zanetti@unochapeco.edu.br</a> &nbsp;|&nbsp; 📞 (49) 9 8921-4727
+        <strong>Vínculo:</strong> Unochapecó (Acadêmico de Ciência da Computação) / Desenvolvedor de Sistemas<br>
+        <strong>Local:</strong> Chapecó – SC
       </p>
       <p>
-        <strong>Mini bio:</strong> Programador full stack focado em desenvolvimento e publicação de aplicações web modernas, com experiência em práticas de CI/CD e operação em nuvem. Entusiasta de arquitetura simples, performance e automação.
+        <strong>Contato:</strong>
+        📧 <a href="mailto:Bernardo.zanetti@unochapeco.edu.br">Bernardo.zanetti@unochapeco.edu.br</a> &nbsp;|&nbsp;
+        📞 (49) 9 8921-4727 &nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/in/bernardo-zanetti-378928233/" target="_blank" rel="noopener">LinkedIn</a>
+      </p>
+      <p>
+        <strong>Breve currículo:</strong> Estudante de Ciência da Computação na Unochapecó, com experiência prática em desenvolvimento full stack, bancos de dados e infraestrutura. Atua com Engenharia de Software, DevOps, migração de legados, APIs REST, dockerização e UI/UX. Participou de projetos com Sequelize (PostgreSQL e Oracle), React, Nuxt.js, Express, Docker, CI/CD e integrações corporativas, unindo teoria e prática para soluções modernas em contextos acadêmicos e corporativos.
       </p>
     </div>
   </div>
