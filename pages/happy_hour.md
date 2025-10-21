@@ -63,39 +63,79 @@ header:
     }
   }
 </style>
-<!-- 
-<p class="text">Participe de um momento descontraído e de networking com outros participantes e organizadores da ERES 2025. O Happy Hour será uma excelente oportunidade para relaxar, trocar ideias e fortalecer os laços.</p>
+<p class="text">
+  Participe de momentos descontraídos de networking com outros participantes e organizadores da ERES 2025. 
+  Serão dois Happy Hours em Chapecó — ótimas oportunidades para relaxar, trocar ideias e fortalecer conexões.
+</p>
 
-<p class="text">Nosso encontro será na <strong>Dom Carlos Cervejaria</strong>, localizada em Santiago, RS, em um ambiente acolhedor e ideal para celebrar mais um dia de evento.</p>
-
-<div class="badge-discount">
-  🎟️ Desconto Exclusivo: Apresente seu crachá da ERES 2025 para obter descontos especiais no local!
-</div>
-
-<h3>Localização</h3>
-
-<div class="text">Endereço: Av. Getúlio Vargas, 1470 - Centro, Santiago - RS, 97700-000</div>
+<!-- =========================
+     PRIMEIRA NOITE — 29/10
+========================= -->
+<h3>Happy Hour – Primeira Noite (29/10)</h3>
+<p class="text">
+  <strong>Local:</strong> <em>Sose7e</em> (em frente à Unochapecó) — Pão com linguiça especial para os participantes. <br>
+  <strong>Endereço:</strong> R. Itaboraí, 195 - Efapi, Chapecó - SC, 89809-502
+</p>
 
 <div class="map-container">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3483.188663521745!2d-54.87359152447885!3d-29.188571975365676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ffd201b201e93f%3A0x22f4772baa837c72!2sDom%20Carlos%20Cervejaria!5e0!3m2!1spt-BR!2sbr!4v1730732435431!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe 
+    src="https://www.google.com/maps?q=R.%20Itabora%C3%AD%2C%20195%20-%20Efapi%2C%20Chapec%C3%B3%20-%20SC%2C%2089809-502&output=embed" 
+    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<h3>Conheça o Local</h3>
+<!-- Galeria de imagens (opcional) -->
 
+<h4>Conheça o Local</h4>
 <div class="image-gallery">
-  <img src="{{ site.urlimg }}/dom-carlos/01.jpg" alt="Imagem 1 da Dom Carlos Cervejaria">
-  <img src="{{ site.urlimg }}/dom-carlos/02.jpg" alt="Imagem 2 da Dom Carlos Cervejaria">
-  <img src="{{ site.urlimg }}/dom-carlos/03.jpg" alt="Imagem 3 da Dom Carlos Cervejaria">
-  <img src="{{ site.urlimg }}/dom-carlos/04.jpg" alt="Imagem 4 da Dom Carlos Cervejaria">
+  <img src="{{ site.urlimg }}/happyhour/sose7e.jpg" alt="Sose7e - imagem 1">
 </div>
 
-<h3>Horário</h3>
 
-<p class="text">Data: 11 de Novembro de 2024<br>
-Horário: A partir das 21:30h</p>
+<hr class="divisor">
+
+<!-- =========================
+     SEGUNDA NOITE — 30/10
+========================= -->
+<h3>Happy Hour – Segunda Noite (30/10)</h3>
+<p class="text">
+  <strong>Local:</strong> <em>Saudoso</em> — Apresentando o <strong>crachá da ERES 2025</strong>, você ganha <strong>um chopp cortesia</strong>!<br>
+  <strong>Endereço:</strong> Av. Getúlio Dorneles Vargas, 1520N - Centro, Chapecó - SC, 89805-000
+</p>
+
+<div class="badge-discount">
+  🍺 Cortesia: Apresente seu crachá da ERES 2025 e ganhe <strong>1 chopp</strong> no Saudoso (30/10).
+</div>
+
+<div class="map-container">
+  <iframe 
+    src="https://www.google.com/maps?q=Av.%20Get%C3%BAlio%20Dorneles%20Vargas%2C%201520N%20-%20Centro%2C%20Chapec%C3%B3%20-%20SC%2C%2089805-000&output=embed" 
+    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<!-- Galeria de imagens (opcional) -->
+
+<h4>Conheça o Local</h4>
+<div class="image-gallery">
+  <img src="{{ site.urlimg }}/happyhour/saudoso.webp" alt="Saudoso - imagem 1">
+</div>
+
+
+<hr class="divisor">
+
+<h3>Horários</h3>
+<p class="text">
+  Datas: <strong>29 e 30 de outubro de 2025</strong><br>
+  Início: após o encerramento das atividades do dia.
+</p>
 
 <h3>Como Chegar</h3>
+<p class="text">
+  Sose7e fica em frente à Unochapecó, podemos nos deslocar do evento para a confraternização.
+  O Saudoso fica na área central de Chapecó, com fácil acesso por transporte por aplicativo ou veículo próprio.
+</p>
 
-<p class="text">A Dom Carlos Cervejaria está bem localizada no centro de Santiago. É possível chegar de transporte público ou através de serviços de transporte por aplicativo. Aproveite a localização central para fazer parte desta confraternização!</p>
-
-<p class="text">Não perca esta oportunidade de criar novas conexções e celebrar com a comunidade da ERES 2025!</p> -->
+<p class="text">
+  Não perca a chance de criar novas conexões e celebrar com a comunidade da ERES 2025!
+</p>
