@@ -88,193 +88,94 @@ header:
       max-width: 100%;
     }
   }
-
-  
 </style>
 
-<h1>Chamada de Minicursos - ERES 2025</h1>
-
-<p>Estão abertas as inscrições para chamadas de Minicursos na Escola Regional de Engenharia de Software (ERES), que será realizada entre os dias 29 a 31/10/2025, como parte da Escola Regional de Engenharia de Software em Chapecó/SC.</p>
-
-<p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2025 é um espaço regional para que possam ser apresentados os resultados de pesquisas e extensão em nível de graduação e pós-graduação e relatos de experiência na indústria. Além disso, possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES.</p>
-
-<p>O público-alvo serão estudantes de graduação, pós-graduação e profissionais da área em geral.</p>
-
-<h2>Temas de Interesse</h2>
-<p>Para a edição 2025, temos interesse em receber propostas de minicursos nos seguintes temas:</p>
-
-<ul>
-    <li>Aplicações industriais da Engenharia de Software</li>
-    <li>Arquitetura de software</li>
-    <li>Aspectos Humanos e Sociais da Engenharia de Software</li>
-    <li>Engenharia de Software Quântica</li>
-    <li>Engenharia de Requisitos e modelagem de software</li>
-    <li>Engenharia de software baseada em Busca</li>
-    <li>Engenharia de software para Ciência de Dados</li>
-    <li>Engenharia de Software Contínua (DevOps, Entrega Contínua, Integração Contínua)</li>
-    <li>Engenharia de Software para Forense Digital</li>
-    <li>Engenharia de Software Experimental</li>
-    <li>Engenharia de Software Orientada a Agentes</li>
-    <li>Modularidade de Software</li>
-    <li>Fundamentos teóricos e métodos formais</li>
-    <li>Linguagem Específica de Domínio</li>
-    <li>Processo de Software</li>
-    <li>Manutenção e Evolução de Software</li>
-    <li>Verificação e Validação de Software</li>
-    <li>Práticas de Ciência Aberta para Engenharia de Software</li>
-    <li>Qualidade de Software</li>
-    <li>Métricas e medidas de software</li>
-    <li>Reengenharia de Software</li>
-    <li>Reutilização de Software</li>
-    <li>Mineração e repositório de software</li>
-    <li>Educação e Treinamento em Engenharia de Software</li>
-    <li>Engenharia de Software aplicada à Segurança da Informação</li>
-</ul>
-
-<p><em>Lista não exclusiva, aberto a outros temas relacionados à temática e de interesse do público alvo.</em></p>
-
-<div class="dates">
-    <h2>DATAS IMPORTANTES</h2>
-    <ul>
-        <li><strong>Submissão da proposta de minicurso:</strong> 31 de agosto</li>
-        <li><strong>Notificação aos autores:</strong> 08 de setembro</li>
-        <li><strong>Versão final:</strong> 28 de setembro</li>
-    </ul>
-</div>
-
-<h2>INSTRUÇÕES DE SUBMISSÃO</h2>
-<p>As propostas devem conter exatamente as seguintes informações:</p>
-
-<ul>
-    <li>Título do minicurso</li>
-    <li>Autor(es): instituição(ções), endereço(s), telefone(s), e-mail(s)</li>
-    <li>Objetivos do minicurso</li>
-    <li>Sumário dos tópicos a serem apresentados, e descrição de cada tópico</li>
-    <li>Audiência - público alvo</li>
-    <li>Relevância, impacto ou benefício</li>
-    <li>Duração: 4 ou 8 horas</li>
-    <li>Recursos necessários (materiais didáticos, sala de aula ou laboratório, audiovisual)</li>
-    <li>Breve currículo dos autores</li>
-    <li>Indicação do(s) autor(es) que irá ministrar o minicurso</li>
-</ul>
-
-<div class="highlight">
-    <p><strong>Link para submissão das propostas de minicursos:</strong> <a href="https://forms.gle/THFkvYrjJ18ZL9qR9">&lt;Clicar aqui&gt;</a></p>
-</div>
-
-<h2>Critérios de Avaliação</h2>
-<p>As propostas serão avaliadas através da análise de:</p>
-
-<ul>
-    <li>Relevância da proposta diante dos temas de interesse do evento e do público-alvo</li>
-    <li>Qualidade técnica da proposta</li>
-    <li>Originalidade</li>
-    <li>Experiência dos proponentes no tema proposto</li>
-    <li>Afinidade com o público-alvo</li>
-</ul>
-
-<!-- <div id="minicurso1" class="minicurso">
+<!-- =========================
+     MINICURSO 1 – RENATO
+========================= -->
+<div id="minicurso1" class="minicurso">
   <div class="minicurso-content">
     <div>
-      <h2 class="minicurso-title">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning: Protegendo Redes com Inteligência Artificial Explicável</h2>
+      <h2 class="minicurso-title">Minicurso 1: Guia de IA para o empreendedor-programador (RÁPIDO | ATUALIZADO 2025)</h2>
       <p class="minicurso-resumo">
-        <strong>Resumo:</strong> Este minicurso aborda como a utilização de Machine Learning (ML) pode revolucionar a detecção de intrusões, tornando os sistemas de segurança cibernética mais robustos e eficientes na identificação de ataques sofisticados. 
-        Demonstraremos como algoritmos de ML, como o XGBoost, podem ser usados para classificar comportamentos como benignos ou intrusões em uma rede. 
-        Além disso, será explorado como a Inteligência Artificial Explicável (XAI), com ênfase no uso de ferramentas como SHAP, pode aumentar a transparência e confiança nos modelos de detecção. 
-        Com atividades práticas, os participantes aprenderão a implementar pipelines de segurança cibernética utilizando ML, desde a preparação dos dados até a análise explicativa de ataques.
+        <strong>Resumo:</strong> Um guia direto ao ponto para programadores que querem empreender usando IA. Discutiremos como a profissão está mudando, por que o momento é favorável ao empreendedorismo, um passo a passo prático para tirar a ideia do papel com apoio de ferramentas de IA e, principalmente, como manter a experiência humana no atendimento enquanto a automação cuida do operacional.
       </p>
+
+      <p><strong>📅 Data e horário:</strong> 29 de Outubro (quarta-feira), das 08h às 12h</p>
+
+      <h3>Objetivos do minicurso</h3>
+      <ul>
+        <li>Discutir sobre o futuro da carreira de programador;</li>
+        <li>Argumentar que estamos na melhor era para programadores investirem no empreendedorismo;</li>
+        <li>Demonstrar como usar as novas ferramentas de IA para acelerar o processo de criação de uma startup;</li>
+        <li>Argumentar que, na era da automação, delegar o operacional para as máquinas e focar no atendimento humano é o melhor caminho.</li>
+      </ul>
+
+      <h3>Sumário dos tópicos</h3>
+      <p><strong>Seção 1 –</strong> Como a profissão do programador deve mudar nos próximos anos: impacto atual da IA e cenários próximos.</p>
+      <p><strong>Seção 2 –</strong> Por que o empreendedorismo é uma opção cada vez mais atrativa para programadores.</p>
+      <p><strong>Seção 3 –</strong> Decidi pular no barco: etapas, estratégias e ferramentas para começar.</p>
+      <p><strong>Seção 4 –</strong> O novo diferencial: deixar a máquina no operacional e focar no humano.</p>
+      <p><strong>Seção 5 –</strong> Avisos, promessas, situações inesperadas e dicas para a jornada empreendedora.</p>
+
+      <h3>Público-alvo</h3>
+      <p>Programadores que almejam empreender ou têm curiosidade sobre a área.</p>
+
+      <h3>Relevância</h3>
+      <p>Na nova era da IA, a profissão de programador está mudando rapidamente. Este curso mostra como aproveitar o momento para migrar (ou complementar a carreira) com empreendedorismo, unindo teoria e prática.</p>
+
+      <h3>Duração</h3>
+      <p>4 horas</p>
+
+      <h3>Recursos necessários</h3>
+      <p>Apenas uma sala com projetor (de preferência sem computadores).</p>
     </div>
   </div>
 
-  <h3 class="instrutor-h3">Instrutores:</h3>
-
+  <h3 class="instrutor-h3">Instrutor:</h3>
   <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/01/Felipe Scherer.jpg" alt="Felipe H. Scherer">
+    <img src="{{ site.urlimg }}/minicursos/renato.png" alt="Renato Mello Konflanz">
     <div class="instrutor-content">
-      <h3>Felipe H. Scherer</h3>
-      <a href="http://lattes.cnpq.br/0515811498958707" target="_blank">Currículo Lattes</a><br><br>
+      <h3>Renato Mello Konflanz</h3>
       <p>
-        Felipe é estudante de Engenharia de Software na Universidade Federal do Pampa, onde é membro do Laboratório de Estudos Avançados em Computação (LEA) e atua como bolsista no projeto "XAIID - Estratégias Inteligentes e Explicáveis para Detecção de Intrusões em Sistemas Ciber-Físicos". Neste projeto, dedica-se ao estudo de soluções de segurança cibernética baseadas em aprendizado de máquina e inteligência artificial explicável (XAI) com foco na detecção de intrusões em sistemas ciber-físicos. Sua experiência inclui pesquisas sobre a aplicação de XAI em redes intraveiculares, destacando-se em eventos acadêmicos e profissionais. Felipe também foi reconhecido com o prêmio de "Ferramenta Destaque" no maior evento de segurança do país, demonstrando sua relevância na área. Integra o projeto "Codefolio - Construindo Portfólios de Código & Compartilhando Conhecimento de Boas Práticas de Engenharia de Software", onde colabora no desenvolvimento de minicursos e materiais educativos voltados para a computação.
+        <strong>Contato:</strong> 📞 (49) 99171-9309 &nbsp;|&nbsp; 📧 <a href="mailto:renato.konflanz@unochapeco.edu.br">renato.konflanz@unochapeco.edu.br</a><br>
+        <strong>Vínculo:</strong> Sócio da Dimo e Treino.io
+      </p>
+      <p>
+        <strong>Breve currículo:</strong> Apaixonado por tecnologia desde cedo e adepto do empreendedorismo desde a adolescência. Graduado em Sistemas de Informação; após algumas tentativas independentes, tornou-se sócio e tech lead da Dimo, onde atua até hoje. Recentemente cofundou a Treino.io, unindo prática de produto, liderança técnica e educação.
       </p>
     </div>
   </div>
-
-  <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/01/Felipe Dresh.jpg" alt="Felipe N. Dresch">
-    <div class="instrutor-content">
-      <h3>Felipe N. Dresch</h3>
-      <a href="http://lattes.cnpq.br/7173376071216478" target="_blank">Currículo Lattes</a><br><br>
-      <p>
-        Felipe é Técnico em Informática pelo Instituto Federal do Rio Grande do Sul e integrante do Laboratório de Estudos Avançados em Computação (LEA) na Universidade Federal do Pampa, onde cursa Engenharia de Software. Ele também faz parte do projeto XAIID - Estratégias Inteligentes e Explicáveis para Detecção de Intrusões em Sistemas Ciber-Físicos, que desenvolve soluções de Inteligência Artificial Explicável (XAI) para a detecção de intrusões em sistemas digitais. Felipe participa ativamente de projetos de pesquisa e extensão, tendo artigos publicados que foram reconhecidos por suas contribuições inovadoras à aplicação de IA em cibersegurança. Trabalhando de maneira prática com Python e machine learning, Felipe alia seu conhecimento acadêmico à experiência prática no desenvolvimento de sistemas de detecção de intrusão com o foco em criar soluções robustas para desafios de segurança digital.
-      </p>
-    </div>
-  </div>
-
-  <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/01/Matheus.jpg" alt="Matheus M. Ciocca">
-    <div class="instrutor-content">
-      <h3>Matheus M. Ciocca</h3>
-      <a href="http://lattes.cnpq.br/1560440227615511" target="_blank">Currículo Lattes</a><br><br>
-      <p>
-        Técnico em Informática pelo Instituto Federal Farroupilha e integrante do Laboratório de Estudos Avançados em Computação (LEA) na Universidade Federal do Pampa, onde cursa Engenharia de Software. Matheus também é bolsista no projeto “Codefolio - Construindo Portfólios de Código & Compartilhando Conhecimento de Boas Práticas de Engenharia de Software”, onde atua no desenvolvimento da Plataforma Web Codefólio, à gravação de vídeos que disseminam o conhecimento em boas práticas da Engenharia de Software, bem como em organização de minicursos nesta área.
-      </p>
-    </div>
-  </div>
-
-  <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/01/Estefano.jpg" alt="Estefano Ströher Soares">
-    <div class="instrutor-content">
-      <h3>Estefano Ströher Soares</h3>
-      <p>
-        Estefano é estudante de Ciência da Computação na Universidade Federal do Pampa e integrante do LESSE – Laboratório de Estudos Empíricos em Engenharia de Software. Participa do projeto de extensão “Codefolio - Construindo Portfólios de Código & Compartilhando Conhecimento de Boas Práticas de Engenharia de Software” como voluntário e é bolsista no “Projeto e Avaliação de Tecnologias para Apoiar o Desenvolvimento de Aplicações Interativas sob a Perspectiva da Qualidade de Uso”.
-      </p>
-    </div>
-  </div>
-
-  <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/01/Camilla.jpg" alt="Camilla Borchhardt">
-    <div class="instrutor-content">
-      <h3>Camilla Borchhardt</h3>
-      <a href="http://lattes.cnpq.br/5363434164195356" target="_blank">Currículo Lattes</a><br><br>
-      <p>
-        Camilla é estudante de Engenharia de Software e integrante do Laboratório de Estudos Avançados em Computação (LEA) na sua universidade. Ela é bolsista de ensino no projeto Egress@s pela FAPERGS, além de trabalhar em iniciativas de extensão e pesquisa como o Codefólio e o Gurias na Computação. Camilla participa ativamente desses projetos, combinando sua formação acadêmica com a prática em desenvolvimento de software, buscando contribuir para a inclusão e avanço de mulheres na tecnologia, bem como no desenvolvimento de soluções inovadoras na área da engenharia de software.
-      </p>
-    </div>
-  </div>
-
-  <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/01/Silvio.jpg" alt="Silvio E. Quincozes">
-    <div class="instrutor-content">
-      <h3>Silvio E. Quincozes</h3>
-      <a href="http://lattes.cnpq.br/9401130360785458" target="_blank">Currículo Lattes</a><br><br>
-      <p>
-        Professor Silvio Quincozes é Doutor em Computação pela UFF (sanduíche na University of Pittsburgh - EUA), mestre em Ciência da Computação pela UFSM e bacharel em Engenharia de Software pela UNIPAMPA. Atuou como docente no IFRS, UFU e atualmente na UNIPAMPA. É docente nos programas de pós-graduação PPGES/UNIPAMPA e PPGCO/UFU. Coordena os projetos XAIID (com ênfase em aplicações de Inteligência Artificial Explicável em Detecção de Intrusões) e Codefólio (com ênfase em atividades como produção de minicursos, portfólios de código e material audiovisual sobre computação), entre outros projetos.
-      </p>
-    </div>
-  </div>
-
 </div>
 
 <hr class="divisor">
 
+<!-- =========================
+     MINICURSO 2 – BERNARDO
+========================= -->
 <div id="minicurso2" class="minicurso">
   <div class="minicurso-content">
     <div>
-      <h2 class="minicurso-title">Minicurso 2: Cidades Inteligentes: A Construção do Futuro</h2>
+      <h2 class="minicurso-title">Minicurso 2: Da Ideia ao Deploy — Construindo e Publicando Aplicações Web Modernas</h2>
       <p class="minicurso-resumo">
-        <strong>Resumo:</strong> O conceito de cidades inteligentes representa uma abordagem inovadora para o desenvolvimento urbano, integrando tecnologia, sustentabilidade e engajamento comunitário para melhorar a qualidade de vida dos cidadãos. Neste minicurso, exploraremos como a utilização de tecnologias de informação e comunicação pode otimizar a gestão dos recursos urbanos, além de criar uma cidade mais eficiente e resiliente. O curso visa discutir modelos práticos de implementação e o papel de iniciativas locais, possibilitando uma conexão mais forte entre as pessoas e a cidade.
+        <strong>Resumo:</strong> Do planejamento ao deploy em produção, passando por boas práticas de frontend, backend, integração/entrega contínua e observabilidade. Abordagem prática e atualizada do ciclo completo de desenvolvimento web.
       </p>
+      <p><strong>📅 Data e horário:</strong> 30 de Outubro (quinta-feira), das 08h às 12h</p>
+      <p><em>Programação detalhada: anexa pelo proponente.</em></p>
     </div>
   </div>
 
   <h3 class="instrutor-h3">Instrutor:</h3>
-
   <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/sadi.jpg" alt="Sadi Gioda">
+    <img src="{{ site.urlimg }}/minicursos/bernardo.png" alt="Bernardo Zanetti">
     <div class="instrutor-content">
-      <h3>Sadi Gioda</h3>
+      <h3>Bernardo Zanetti</h3>
       <p>
-        Sadi Gioda tem se destacado no fortalecimento do ecossistema de inovação local, promovendo parcerias estratégicas, iniciativas empreendedoras e colaboração entre setores. Com um foco no desenvolvimento sustentável e inovador, seu trabalho gera impactos positivos e avanços significativos no crescimento econômico e tecnológico da região. Atualmente, Gioda é reconhecido por sua atuação exemplar como Secretário de Desenvolvimento Econômico de Santiago.
+        <strong>Vínculo:</strong> Programador – CRS<br>
+        <strong>Contato:</strong> 📧 <a href="mailto:Bernardo.zanetti@unochapeco.edu.br">Bernardo.zanetti@unochapeco.edu.br</a> &nbsp;|&nbsp; 📞 (49) 9 8921-4727
+      </p>
+      <p>
+        <strong>Mini bio:</strong> Programador full stack focado em desenvolvimento e publicação de aplicações web modernas, com experiência em práticas de CI/CD e operação em nuvem. Entusiasta de arquitetura simples, performance e automação.
       </p>
     </div>
   </div>
@@ -282,78 +183,72 @@ header:
 
 <hr class="divisor">
 
+<!-- =========================
+     MINICURSO 3 – JEAN
+========================= -->
 <div id="minicurso3" class="minicurso">
   <div class="minicurso-content">
     <div>
-      <h2 class="minicurso-title">Minicurso 3: Risco em Jogo – Aprendendo Gerenciamento de Riscos de Forma Divertida</h2>
+      <h2 class="minicurso-title">Minicurso 3: Da Ideia ao Deploy — UX para pessoas de TI: criando softwares que as pessoas amam usar</h2>
       <p class="minicurso-resumo">
-        <strong>Resumo:</strong> No minicurso "Risco em Jogo – Aprendendo Gerenciamento de Riscos de Forma Divertida", os participantes irão explorar os principais conceitos de gerenciamento de riscos de forma interativa e prática. A primeira parte do curso abordará os fundamentos teóricos, como identificação, análise e gerenciamento de riscos em projetos de software. Na sequência, os alunos aplicarão esse conhecimento por meio de um jogo de tabuleiro desenvolvido para simular situações reais de gerenciamento de riscos. Ao final, os participantes estarão mais preparados para lidar com riscos de maneira estratégica e eficaz, de forma lúdica e envolvente.
+        <strong>Resumo:</strong> Fundamentos e prática de UX para profissionais de tecnologia: do entendimento do usuário às heurísticas de Nielsen, fluxos centrados no usuário, testes de usabilidade rápidos e a integração UX + Dev no dia a dia de engenharia de software.
       </p>
+      <p><strong>📅 Data e horário:</strong> 31 de Outubro (sexta-feira), das 08h às 12h</p>
+
+      <h3>Objetivos do minicurso</h3>
+      <ul>
+        <li>Introduzir fundamentos de UX e usabilidade para estudantes e profissionais de TI;</li>
+        <li>Mostrar como decisões de experiência impactam adoção e sucesso de sistemas;</li>
+        <li>Ensinar técnicas simples de avaliação de usabilidade aplicáveis por qualquer pessoa da área;</li>
+        <li>Exercitar a colaboração entre desenvolvimento e experiência do usuário.</li>
+      </ul>
+
+      <h3>Conteúdo (sumário e descrição)</h3>
+      <ol>
+        <li><strong>Introdução a UX no contexto da Engenharia de Software</strong><br>
+          O que é UX (além de UI). Relação entre usabilidade e qualidade (ISO 9241; eficiência, eficácia, satisfação). Exemplos práticos de bons e maus designs. <em>Mini exercício:</em> análise de interfaces.
+        </li>
+        <li><strong>Heurísticas de Nielsen aplicadas ao código e produtos</strong><br>
+          As 10 heurísticas com exemplos. Como devs aplicam no dia a dia (mensagens de erro, feedback, consistência). <em>Exercício:</em> análise em duplas ou quiz (Kahoot).
+        </li>
+        <li><strong>Fluxos de usuário vs fluxos técnicos</strong><br>
+          Diferença entre o que o sistema faz e como o usuário percebe. Exemplos (incluindo referências como growth.design). <em>Exercício:</em> fluxo técnico vs fluxo de usuário (cadastro em app de delivery).
+        </li>
+        <li><strong>Testes de usabilidade que qualquer um pode aplicar</strong><br>
+          O que é, técnicas simples e validação sem designer dedicado. <em>Exercício:</em> teste em papel (ex.: redefinir senha/criar playlist).
+        </li>
+        <li><strong>UX como diferencial na carreira</strong><br>
+          Por que profissionais de TI com noção de UX são mais valorizados. Como trabalhar com designers. Pipeline ágil integrando UX + Dev.
+        </li>
+      </ol>
+
+      <h3>Público-alvo</h3>
+      <p>Estudantes de CC, SI, ES e áreas correlatas; desenvolvedores, PMs e QAs que desejam elevar a experiência do usuário.</p>
+
+      <h3>Relevância</h3>
+      <p>Ajuda desenvolvedores a pensar além do código, reduzindo retrabalho e erros de usabilidade; conecta técnica com experiência real e apresenta práticas de UX que cabem no fluxo de ES, além de apresentar trilhas de carreira relacionadas.</p>
+
+      <h3>Recursos necessários</h3>
+      <ul>
+        <li>Projetor e computador;</li>
+        <li>Sala com mesas em grupo (para exercícios);</li>
+        <li>Papel A4 e canetas (prototipagem rápida).</li>
+      </ul>
     </div>
   </div>
 
-  <h3 class="instrutor-h3">Instrutora:</h3>
-
+  <h3 class="instrutor-h3">Ministrante:</h3>
   <div class="instrutor">
-    <img src="{{ site.urlimg }}/palestras/Dr. Lisandra Manzoni Fontoura.jpg" alt="Dra. Lisandra Manzoni Fontoura">
+    <img src="{{ site.urlimg }}/minicursos/jean.png" alt="Jean Carlos da Campo">
     <div class="instrutor-content">
-      <h3>Dra. Lisandra Manzoni Fontoura</h3>
-      <a href="http://lattes.cnpq.br/8979575031016933" target="_blank">Currículo Lattes</a><br>
+      <h3>Jean Carlos da Campo</h3>
       <p>
-        Doutora em Ciência da Computação e mestre em Computação, ambos pela Universidade Federal do Rio Grande do Sul; graduação em Informática pela Universidade Federal de Santa Maria (1997). Atua como professora e pesquisadora na Universidade Federal de Santa Maria e como professor permanente do Programa de Pós-Graduação em Ciência da Computação. Trabalhou como analista de sistemas e como membro do Grupo de Qualidade de Software no Serviço Federal de Processamento de Dados. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software, principalmente nos seguintes temas: Processos de Software, Gerência de Projetos, Segurança da Informação e Qualidade de Software. Atuou como coordenadora geral do projeto Sistema Integrado de Simulação ASTROS (SIS-ASTROS) e atua como coordenadora técnica do projeto Sistema Integrado de Simulação ASTROS – Grupo de Mísseis e Foguetes (SIS-ASTROS GMF), ambos desenvolvidos em parceria da UFSM com o Exército Brasileiro.
+        <strong>Vínculo:</strong> IXCSoft<br>
+        <strong>Contato:</strong> 📧 <a href="mailto:jeancarlosdacampo@gmail.com">jeancarlosdacampo@gmail.com</a>
+      </p>
+      <p>
+        <strong>Breve currículo:</strong> Product Design Manager na IXCSoft, liderando um time de 15 pessoas para elevar a experiência dos produtos do grupo. Focado em organizar equipes, otimizar processos e usar design como ferramenta estratégica. Graduado em Sistemas de Informação (Unochapecó), pós-graduado em UX Design & Learning Experience (IDI) e UX Design & Agilidade (PUC Minas). Iniciou carreira como programador e, há ~5 anos, migrou para UX, unindo visão técnica e foco na experiência do usuário.
       </p>
     </div>
   </div>
 </div>
-
-<hr class="divisor">
-
-<div id="minicurso4" class="minicurso">
-  <div class="minicurso-content">
-    <div>
-      <h2 class="minicurso-title">Minicurso 4: Desenvolvimento de dApps com Ethereum e Smart Contracts</h2>
-      <p class="minicurso-resumo">
-        <strong>Resumo:</strong> Aplicações descentralizadas, ou dApps, são aplicativos que operam em redes blockchain, como a Ethereum, em vez de servidores centralizados. Este curso é para você, profissional e entusiasta de tecnologia que tem conhecimento básico de programação (preferencialmente JavaScript) e deseja aprofundar seus conhecimentos em blockchain e aprender a desenvolver aplicações descentralizadas (dApps). Nele, abordaremos blockchain e Ethereum, smart contracts e as principais ferramentas e frameworks para desenvolvimento e teste de dApps.
-      </p>
-    </div>
-  </div>
-
-  <h3 class="instrutor-h3">Instrutor:</h3>
-
-  <div class="instrutor">
-    <img src="{{ site.urlimg }}/palestras/Dr. Elvys Soares.jpg" alt="Elvys Soares">
-    <div class="instrutor-content">
-      <h3>Elvys Soares</h3>
-      <a href="http://lattes.cnpq.br/6415531537733982" target="_blank">Currículo Lattes</a><br><br>
-      <p>
-        Professor Elvys Soares é docente no Instituto Federal de Alagoas (IFAL) e possui vasta experiência em desenvolvimento de software e segurança da informação. Com uma forte base em testes de software e pesquisa em "test smells," Elvys amplia seus conhecimentos na área de blockchain e aplicações descentralizadas, explorando soluções inovadoras para o futuro da tecnologia digital.
-      </p>
-    </div>
-  </div>
-</div>
-
-<hr class="divisor">
-
-<div id="minicurso5" class="minicurso">
-  <div class="minicurso-content">
-    <div>
-      <h2 class="minicurso-title">Minicurso 5: Criando um App de Tarefas (To-Do) com Kotlin e Android</h2>
-      <p class="minicurso-resumo">
-        <strong>Resumo:</strong> Nesse minicurso, os participantes irão construir do zero uma lista de tarefas, onde poderão adicionar, marcar como concluídas e remover tarefas. A aplicação será desenvolvida em linguagem Kotlin para a plataforma Android, utilizando Room SQL para armazenamento dos dados.
-      </p>
-    </div>
-  </div>
-
-  <h3 class="instrutor-h3">Instrutor:</h3>
-
-  <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/05/Pedro Denardi Minuzzi.jpeg" alt="Pedro Denardi Minuzzi">
-    <div class="instrutor-content">
-      <h3>Pedro Denardi Minuzzi</h3>
-      <p>
-        Pedro Denardi Minuzzi é desenvolvedor Android com mais de 5 anos de experiência na criação de aplicativos móveis. Atualmente trabalha na Mutant, onde contribui para o desenvolvimento de soluções tecnológicas móveis. Formado em Ciência da Computação pela URI - Santiago, traz consigo um forte conhecimento técnico e paixão por criar experiências móveis intuitivas e minimalistas.
-      </p>
-    </div>
-  </div>
-</div>
- -->
