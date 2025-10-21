@@ -128,7 +128,7 @@ header:
       <!-- Intervalo da tarde -->
       <tr>
         <td class="time-cell">16:00 – 16:30</td>
-        <td colspan="3" class="full-row">Intervalo</td>
+        <td colspan="3" class="full-row">Coffee-break</td>
       </tr>
 
       <!-- Tarde: Sessões Técnicas (pós-intervalo) -->
@@ -163,7 +163,7 @@ header:
       <!-- Jantar -->
       <tr>
         <td class="time-cell">18:15 – 19:00</td>
-        <td colspan="3" class="full-row">Jantar</td>
+        <td colspan="3" class="full-row">Intervalo</td>
       </tr>
 
       <!-- Noite: Palestras 19:00 -->
@@ -206,7 +206,7 @@ header:
         </td>
         <td class="lecture">
           <a href="{{ site.baseurl }}/programacao/palestras/#palestra6">
-            Palestra: Prof. Ana Márcia Debiasi Duarte — Testes têm cheiro, e não é bom!
+            Palestra: Prof. Ana Márcia Debiasi Duarte — Aplicação da gerência de Projetos no ciclo de vida do Software!
           </a>
         </td>
       </tr>

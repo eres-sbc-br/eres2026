@@ -171,7 +171,7 @@ header:
     <h3>Prof. Ana Márcia Debiasi Duarte</h3>
     <a href="http://lattes.cnpq.br/3053985067191096" target="_blank">Currículo Lattes</a><br>
 
-    <h4>Título: Testes têm cheiro, e não é bom!</h4>
+    <h4>Título: Aplicação da gerência de Projetos no ciclo de vida do Software!</h4>
 
     <p>
       <strong>Data:</strong> 31/Out/2025 (Sexta-Feira)<br>

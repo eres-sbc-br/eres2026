@@ -1,4 +1,5 @@
 <style>
+  /* Área superior com logos */
   #achievements {
     display: flex;
     justify-content: space-around;
@@ -18,34 +19,38 @@
     margin: 1rem;
   }
 
-  .logo {
-    width: 100%;
-    height: auto;
+  /* ===== Normalização dos LOGOS (mesmo tamanho visual) ===== */
+  #achievements .logo {
+    width: auto !important;     /* neutraliza larguras forçadas */
+    height: auto !important;    /* neutraliza alturas forçadas */
+    max-height: 80px;           /* ajuste fino: 70–100px conforme desejar */
+    max-width: 220px;           /* impede logos muito largos */
+    object-fit: contain;        /* evita distorção */
     margin-bottom: 1rem;
-    transition: transform 0.3s ease;
+    transition: transform 0.25s ease;
   }
 
-  .column a img:hover {
+  .column a img.logo:hover {
     transform: scale(1.05);
   }
 
-
-  @media (max-width: 768px) {
-    #achievements {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .column {
-      max-width: 100%;
-    }
-
-    .logo {
-      width: 50%;
-    }
+  /* Grids para Organização e Apoio */
+  .column.organization,
+  .column.support {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
-  
+  .logos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 16px 24px;
+    justify-items: center;
+    width: 100%;
+    max-width: 800px;
+  }
+
   /* ----- PATROCÍNIO: grid lado a lado e responsivo ----- */
   .column.sponsorship {
     display: flex;
@@ -61,11 +66,10 @@
     align-items: center;
     justify-items: center;
     width: 100%;
-    max-width: 1000px; /* limita a largura total do grid */
+    max-width: 1000px;
     margin-top: 20px;
   }
 
-  /* Cada logo dentro do grid */
   .sponsorship-images a {
     display: flex;
     align-items: center;
@@ -73,34 +77,32 @@
     padding: 8px 12px;
   }
 
-  /* Padroniza o tamanho visual, sem distorcer */
   .sponsorship-images a img {
-    max-width: 220px;     /* controla a largura máxima */
-    max-height: 80px;     /* uniformiza a altura visual */
-    width: auto;
-    height: auto;
-    object-fit: contain;  /* evita distorção */
+    /* herda o .logo: max-height/max-width/object-fit */
   }
 
-  /* Hover suave nos logos de patrocinadores */
-  .sponsorship-images a img:hover {
-    transform: scale(1.05);
-    transition: transform 0.25s ease;
-  }
-
-  /* Ajustes mobile */
+  /* Mobile */
   @media (max-width: 768px) {
+    #achievements {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .column {
+      max-width: 100%;
+    }
+
+    #achievements .logo {
+      max-height: 70px;
+      max-width: 180px;
+    }
+
+    .logos-grid,
     .sponsorship-images {
       grid-template-columns: repeat(2, 1fr);
       gap: 16px;
     }
-    .sponsorship-images a img {
-      max-width: 180px;
-      max-height: 70px;
-    }
   }
-
-  
 </style>
 
 <hr>
@@ -108,19 +110,23 @@
 <div id="achievements" class="row">
   <div class="column organization">
     <h4 class="title">Organização</h4>
-    <a href="https://uno.edu.br/" target="_blank">
-      <img src="{{ site.urlimg }}/logo-uno.svg" alt="Unochapecó Logo" class="logo">
-    </a>
-    <a href="https://uffs.edu.br/" target="_blank">
-      <img src="{{ site.urlimg }}/logo-uffs.png" alt="UFFS Logo" class="logo">
-    </a>
+    <div class="logos-grid">
+      <a href="https://uno.edu.br/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/logo-uno.svg" alt="Unochapecó Logo" class="logo">
+      </a>
+      <a href="https://uffs.edu.br/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/logo-uffs.png" alt="UFFS Logo" class="logo">
+      </a>
+    </div>
   </div>
 
   <div class="column support">
     <h4 class="title">Apoio</h4>
-    <a href="https://fapesc.sc.gov.br/" target="_blank">
-      <img src="{{ site.urlimg }}/patrocinadores/logo-fapesc.png" alt="FAPESC Logo" class="logo" height="100px">
-    </a>
+    <div class="logos-grid">
+      <a href="https://fapesc.sc.gov.br/" target="_blank" rel="noopener">
+        <img src="{{ site.urlimg }}/patrocinadores/logo-fapesc.png" alt="FAPESC Logo" class="logo">
+      </a>
+    </div>
   </div>
 
   <div class="column sponsorship">
@@ -130,17 +136,16 @@
         <img src="{{ site.urlimg }}/patrocinadores/logo_optidata.png" alt="Optidata Logo" class="logo">
       </a>
       <a href="https://ixcsoft.com/" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/patrocinadores/logo_ixc.png" alt="IXC Soft Logo" class="logo">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_ixc.png" alt="IXCSoft Logo" class="logo">
       </a>
       <a href="https://www.acichapeco.com.br/nucleos/nucleo-de-tecnologia-da-informacao-e-comunicacao" target="_blank" rel="noopener">
-        <img src="{{ site.urlimg }}/patrocinadores/logo_acic.png" alt="Acic Logo" class="logo">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_acic.png" alt="ACIC Logo" class="logo">
       </a>
       <a href="https://www.ogochi.com.br/" target="_blank" rel="noopener">
         <img src="{{ site.urlimg }}/patrocinadores/logo_og.png" alt="Ogochi Logo" class="logo">
       </a>
     </div>
   </div>
-  
 </div>
 
 <footer id="footer-content" class="bg-grau">
@@ -161,11 +166,9 @@
         {% endfor %}
         <ul class="no-bullet shadow-black">
           {% for service_item in site.data.services %}
-          {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url
-          }}{{ site.baseurl }}{% endcapture %}{% endif %}
+          {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
           <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
-            <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {%
-              endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
+            <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank"{% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
           </li>
           {% endfor %}
         </ul>
@@ -179,11 +182,9 @@
         {% endfor %}
         <ul class="no-bullet shadow-black">
           {% for network_item in site.data.network %}
-          {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url
-          }}{{ site.baseurl }}{% endcapture %}{% endif %}
+          {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
           <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-            <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {%
-              endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+            <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank"{% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
           </li>
           {% endfor %}
         </ul>
@@ -199,8 +200,9 @@
       <section id="subfooter-right" class="small-12 medium-6 columns">
         <ul class="inline-list social-icons">
           {% for social_item in site.data.socialmedia %}
-          <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}"
-              title="{{ social_item.title }}"></a></li>
+          <li>
+            <a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a>
+          </li>
           {% endfor %}
         </ul>
       </section>
