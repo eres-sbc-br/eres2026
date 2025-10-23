@@ -342,3 +342,71 @@ header:
     </div>
   </div>
 </div>
+
+<hr class="divisor">
+
+<!-- =========================
+     MINICURSO 4 – GEOMAR
+========================= -->
+<div id="minicurso4" class="minicurso">
+  <div class="minicurso-content">
+    <div>
+      <h2 class="minicurso-title">Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados</h2>
+      <p class="minicurso-resumo">
+        <strong>Resumo:</strong> Apresenta os diferentes modelos de dados de bancos NoSQL e os contextos adequados para sua aplicação. O foco é prático: explora técnicas específicas de modelagem para chave-valor, colunar, orientado a documentos e orientado a grafos, visando eficiência e desempenho.
+      </p>
+      <p><strong>📅 Data e horário:</strong> 31 Outubro (sexta), das 14h às 18h</p>
+
+      <h3>Objetivos do Minicurso</h3>
+      <ul>
+        <li>Apresentar os modelos de dados NoSQL e os cenários em que cada um é mais apropriado;</li>
+        <li>Explorar técnicas práticas de modelagem específicas para cada modelo de dados;</li>
+        <li>Discutir o papel dos BDs NoSQL diante dos desafios do Big Data;</li>
+        <li>Capacitar os participantes a tomar decisões de modelagem orientadas à performance.</li>
+      </ul>
+
+      <h3>Sumário dos Tópicos</h3>
+      <ul>
+        <li><strong>Histórico dos Bancos de Dados</strong> — Evolução dos modelos e os problemas que cada um se propôs a resolver.</li>
+        <li><strong>Big Data e seus Desafios</strong> — O que é, como identificar e quais os principais desafios associados.</li>
+        <li><strong>Panorama dos Bancos NoSQL</strong> — Características, vantagens e desvantagens gerais.</li>
+        <li><strong>Modelagem para diferentes tipos de dados:</strong>
+          <ul>
+            <li>Chave-Valor</li>
+            <li>Orientado a Colunas</li>
+            <li>Orientado a Documentos</li>
+            <li>Orientado a Grafos</li>
+          </ul>
+          Para cada tipo, serão discutidas as principais características e apresentada uma abordagem prática de modelagem visando desempenho e escalabilidade.
+        </li>
+      </ul>
+
+      <h3>Público-alvo</h3>
+      <p>Estudantes de Graduação e Pós-Graduação em Computação e áreas correlatas.</p>
+
+      <h3>Relevância</h3>
+      <p>Com o crescimento dos sistemas distribuídos e da demanda por performance em ambientes de Big Data, compreender e aplicar corretamente a modelagem em bancos NoSQL é fundamental para profissionais e pesquisadores.</p>
+
+      <h3>Duração</h3>
+      <p>3h30 a 4h</p>
+
+      <h3>Recursos Necessários</h3>
+      <p>Datashow e ponteiro. Não é necessário laboratório de informática.</p>
+    </div>
+  </div>
+
+  <h3 class="instrutor-h3">Instrutor:</h3>
+  <div class="instrutor">
+    <img src="{{ site.urlimg }}/geomar.gif" alt="Geomar André Schreiner">
+    <div class="instrutor-content">
+      <h3>Geomar André Schreiner</h3>
+      <p>
+        <strong>Vínculo:</strong> Universidade Federal da Fronteira Sul (UFFS)<br>
+        <strong>Contato:</strong> 📧 <a href="mailto:geomar.schreiner@uffs.edu.br">geomar.schreiner@uffs.edu.br</a>
+      </p>
+      <p>
+        <strong>Breve currículo:</strong> Doutor em Ciência da Computação pela UFSC. Professor da UFFS (Chapecó), atua nas áreas de Banco de Dados NoSQL e NewSQL, interoperabilidade e particionamento de dados. Possui experiência acadêmica e prática em projetos de modelagem e otimização de desempenho em sistemas de dados modernos.
+      </p>
+    </div>
+  </div>
+</div>
