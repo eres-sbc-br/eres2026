@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Minicursos"
+title: "Minicursos - Local: Laboratório de Computação - Bloco R1 - Terceiro Andar"
 subheadline: ""
 permalink: "/programacao/minicursos/"
 header:

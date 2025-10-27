@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Palestrantes"
+title: "Palestras - Local: Salão Nobre Unochapecó"
 subheadline: ""
 permalink: "/programacao/palestras/"
 header:
