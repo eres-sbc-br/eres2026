@@ -99,10 +99,18 @@ header:
         </td>
       </tr>
 
-      <!-- Almoço -->
+      <!-- Almoço (ajustado para não sobrepor a abertura) -->
       <tr>
-        <td class="time-cell">12:00 – 14:00</td>
+        <td class="time-cell">12:00 – 13:30</td>
         <td colspan="3" class="full-row">Almoço</td>
+      </tr>
+
+      <!-- Abertura do evento (Quarta) -->
+      <tr>
+        <td class="time-cell">13:30 – 14:00</td>
+        <td class="soft-blue"><strong>Abertura do Evento</strong></td>
+        <td></td>
+        <td></td>
       </tr>
 
       <!-- Tarde: Sessões Técnicas (29/10) -->
@@ -118,10 +126,13 @@ header:
             Sessão Técnica 4 – Testes e Validação de Software
           </a>
         </td>
-        <td class="session">
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao7">
-            Sessão Técnica 7 – Educação em Computação e Extensão Universitária
-          </a>
+        <!-- Sexta: Minicurso 4 (parte 1) -->
+        <td class="course">
+          <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
+            Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados (Parte 1)
+          </a><br>
+          Instrutor: <em>a confirmar</em><br>
+          <em>Sexta, 14:00 – 16:00</em>
         </td>
       </tr>
 
@@ -150,17 +161,24 @@ header:
             Sessão Técnica 6 – Aplicações Web e Full Stack
           </a>
         </td>
-        <td class="session">
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao8">
-            Sessão Técnica 8 – Aplicações em Engenharia de Software
+        <!-- Sexta: Minicurso 4 (parte 2, até 18:00) -->
+        <td class="course">
+          <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
+            Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados (Parte 2)
           </a><br>
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao10">
-            Sessão Técnica 10 – Desenvolvimento de APIs e Ontologias
-          </a>
+          <em>Sexta, 16:30 – 18:00</em>
         </td>
       </tr>
 
-      <!-- Jantar -->
+      <!-- Premiação (Sexta, 18:00) -->
+      <tr>
+        <td class="time-cell">18:00 – 18:15</td>
+        <td></td>
+        <td></td>
+        <td class="soft-blue"><strong>Premiação do Evento</strong></td>
+      </tr>
+
+      <!-- Jantar / Intervalo -->
       <tr>
         <td class="time-cell">18:15 – 19:00</td>
         <td colspan="3" class="full-row">Intervalo</td>
@@ -197,7 +215,6 @@ header:
         <td class="time-cell">20:30 – 21:30</td>
         <td class="lecture">
           <!-- Se houver segunda palestra nesta noite, linke aqui; caso contrário, mantenha em branco -->
-          <!-- Exemplo (se aplicável): <a href="{{ site.baseurl }}/programacao/palestras/#palestraX">Palestra X</a> -->
         </td>
         <td class="lecture">
           <a href="{{ site.baseurl }}/programacao/palestras/#palestra4">
