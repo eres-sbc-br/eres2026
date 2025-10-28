@@ -12,54 +12,21 @@ header:
     width: 100%;
     border-collapse: collapse;
   }
-
   th, td {
     border: 1px solid #d1d1d1;
     padding: 8px;
     text-align: left;
   }
-
-  .full-row {
-    text-align: center;
-    font-weight: bold;
-    background-color: #f5f5f5;
-  }
-
-  .course {
-    background-color: #e6f7e6;
-  }
-
-  .session {
-    background-color: #fff9e6;
-  }
-
-  .lecture {
-    background-color: #fbeaea;
-  }
-
-  .hard-blue {
-    background-color: #e6ecf7;
-  }
-
-  .soft-blue {
-    background-color: #f2f7ff;
-  }
-
-  .header-green {
-    background-color: #e6f3e6;
-  }
-
-  .header-purple {
-    background-color: #eae6f7;
-  }
-
-  .header-red {
-    background-color: #f7e6e6;
-  }
-
-  .time-cell {
-    background-color: #f0f0f0;
-  }
+  .full-row { text-align: center; font-weight: bold; background-color: #f5f5f5; }
+  .course { background-color: #e6f7e6; }
+  .session { background-color: #fff9e6; }
+  .lecture { background-color: #fbeaea; }
+  .hard-blue { background-color: #e6ecf7; }
+  .soft-blue { background-color: #f2f7ff; }
+  .header-green { background-color: #e6f3e6; }
+  .header-purple { background-color: #eae6f7; }
+  .header-red { background-color: #f7e6e6; }
+  .time-cell { background-color: #f0f0f0; }
 </style>
 
 <main>
@@ -81,21 +48,21 @@ header:
             Minicurso: Guia de IA pro empreendedor-programador (RÁPIDO | ATUALIZADO 2025)
           </a><br>
           Instrutor: Renato Mello Konflanz<br>
-          <em>Sala a confirmar</em>
+          <em>Sala: C1 – Laboratório A</em>
         </td>
         <td class="course">
           <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso2">
             Minicurso: Da Ideia ao Deploy — Construindo e Publicando Aplicações Web Modernas
           </a><br>
           Instrutor: Bernardo Zanetti<br>
-          <em>Sala a confirmar</em>
+          <em>Sala: C1 – Laboratório A</em>
         </td>
         <td class="course">
           <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso3">
             Minicurso: Da Ideia ao Deploy — UX para pessoas de TI: criando softwares que as pessoas amam usar
           </a><br>
           Instrutor: Jean Carlos da Campo<br>
-          <em>Sala a confirmar</em>
+          <em>Sala: C1 – Laboratório A</em>
         </td>
       </tr>
 
@@ -105,7 +72,7 @@ header:
         <td colspan="3" class="full-row">Almoço</td>
       </tr>
 
-      <!-- Abertura do evento -->
+      <!-- Abertura do evento (quarta) -->
       <tr>
         <td class="time-cell">13:30 – 14:00</td>
         <td class="soft-blue"><strong>Abertura do Evento</strong></td>
@@ -113,28 +80,33 @@ header:
         <td></td>
       </tr>
 
-      <!-- Tarde: Sessões Técnicas -->
+      <!-- Tarde: 14:00 – 16:00 -->
       <tr>
         <td class="time-cell">14:00 – 16:00</td>
+        <!-- Quarta: mantém Sessão Técnica 1 -->
         <td class="session">
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao1">
             Sessão Técnica 1 – Engenharia de Software Experimental e Qualidade
           </a>
         </td>
+        <!-- Quinta: mantém Sessão Técnica 4 -->
         <td class="session">
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao4">
             Sessão Técnica 4 – Testes e Validação de Software
           </a>
         </td>
+        <!-- Sexta: mantém Sessão Técnica 7 E adiciona Minicurso 4 (concorrente) -->
         <td class="session">
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao7">
             Sessão Técnica 7 – Educação em Computação e Extensão Universitária
-          </a><br><br>
-          <!-- Novo: Minicurso 4 -->
-          <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
-            Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados
-          </a><br>
-          <em>Sexta, 14:00 – 18:00</em>
+          </a>
+          <br><br>
+          <span class="course">
+            <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
+              Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados
+            </a><br>
+            <em>Sexta, 14:00 – 18:00 | Sala: C1 – Laboratório A</em>
+          </span>
         </td>
       </tr>
 
@@ -144,9 +116,10 @@ header:
         <td colspan="3" class="full-row">Coffee-break</td>
       </tr>
 
-      <!-- Tarde: Sessões Técnicas (pós-intervalo) -->
+      <!-- Tarde: 16:30 – 18:15 -->
       <tr>
         <td class="time-cell">16:30 – 18:15</td>
+        <!-- Quarta: mantém Sessões 3 e 9 -->
         <td class="session">
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao3">
             Sessão Técnica 3 – IA e Aprendizado de Máquina em ES
@@ -155,6 +128,7 @@ header:
             Sessão Técnica 9 – Arquitetura e Microsserviços
           </a>
         </td>
+        <!-- Quinta: mantém Sessões 5 e 6 -->
         <td class="session">
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao5">
             Sessão Técnica 5 – Requisitos e Usabilidade
@@ -163,6 +137,7 @@ header:
             Sessão Técnica 6 – Aplicações Web e Full Stack
           </a>
         </td>
+        <!-- Sexta: mantém Sessões 8 e 10; Minicurso 4 continua em paralelo -->
         <td class="session">
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao8">
             Sessão Técnica 8 – Aplicações em Engenharia de Software
@@ -170,10 +145,14 @@ header:
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao10">
             Sessão Técnica 10 – Desenvolvimento de APIs e Ontologias
           </a>
+          <br><br>
+          <span class="course">
+            Continuação — Minicurso 4 (até 18:00) — <em>Sala: C1 – Laboratório A</em>
+          </span>
         </td>
       </tr>
 
-      <!-- Premiação -->
+      <!-- Premiação (sexta) -->
       <tr>
         <td class="time-cell">18:00</td>
         <td></td>
@@ -181,7 +160,7 @@ header:
         <td class="soft-blue"><strong>Premiação do Evento</strong></td>
       </tr>
 
-      <!-- Jantar -->
+      <!-- Jantar / Intervalo -->
       <tr>
         <td class="time-cell">18:15 – 19:00</td>
         <td colspan="3" class="full-row">Intervalo</td>
@@ -213,17 +192,17 @@ header:
         <td colspan="3" class="full-row">Coffee-break</td>
       </tr>
 
-      <!-- Noite: Palestras 20:30 -->
+      <!-- Noite: Palestras 20:30 (ajustes solicitados) -->
       <tr>
         <td class="time-cell">20:30 – 21:30</td>
         <td class="lecture"></td>
         <td class="lecture">
-          <a href="{{ site.baseurl }}/programacao/palestras/#palestra4">
-            Palestra: Prof. Ana Márcia Debiasi Duarte — Aplicação da Gerência de Projetos no Ciclo de Vida do Software
+          <a href="{{ site.baseurl }}/programacao/palestras/#palestra6">
+            Palestra: Prof. Ana Márcia Debiasi Duarte — Aplicação da gerência de Projetos no ciclo de vida do Software
           </a>
         </td>
         <td class="lecture">
-          <a href="{{ site.baseurl }}/programacao/palestras/#palestra6">
+          <a href="{{ site.baseurl }}/programacao/palestras/#palestra4">
             Palestra: Prof. Guilherme Henrique Piasson — Do Código à Cabine: ES na Aviação
           </a>
         </td>
