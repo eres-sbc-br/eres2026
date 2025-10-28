@@ -99,13 +99,13 @@ header:
         </td>
       </tr>
 
-      <!-- Almoço (ajustado para não sobrepor a abertura) -->
+      <!-- Almoço -->
       <tr>
-        <td class="time-cell">12:00 – 13:30</td>
+        <td class="time-cell">12:00 – 14:00</td>
         <td colspan="3" class="full-row">Almoço</td>
       </tr>
 
-      <!-- Abertura do evento (Quarta) -->
+      <!-- Abertura do evento -->
       <tr>
         <td class="time-cell">13:30 – 14:00</td>
         <td class="soft-blue"><strong>Abertura do Evento</strong></td>
@@ -113,7 +113,7 @@ header:
         <td></td>
       </tr>
 
-      <!-- Tarde: Sessões Técnicas (29/10) -->
+      <!-- Tarde: Sessões Técnicas -->
       <tr>
         <td class="time-cell">14:00 – 16:00</td>
         <td class="session">
@@ -126,13 +126,15 @@ header:
             Sessão Técnica 4 – Testes e Validação de Software
           </a>
         </td>
-        <!-- Sexta: Minicurso 4 (parte 1) -->
-        <td class="course">
+        <td class="session">
+          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao7">
+            Sessão Técnica 7 – Educação em Computação e Extensão Universitária
+          </a><br><br>
+          <!-- Novo: Minicurso 4 -->
           <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
-            Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados (Parte 1)
+            Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados
           </a><br>
-          Instrutor: <em>a confirmar</em><br>
-          <em>Sexta, 14:00 – 16:00</em>
+          <em>Sexta, 14:00 – 18:00</em>
         </td>
       </tr>
 
@@ -161,24 +163,25 @@ header:
             Sessão Técnica 6 – Aplicações Web e Full Stack
           </a>
         </td>
-        <!-- Sexta: Minicurso 4 (parte 2, até 18:00) -->
-        <td class="course">
-          <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
-            Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados (Parte 2)
+        <td class="session">
+          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao8">
+            Sessão Técnica 8 – Aplicações em Engenharia de Software
           </a><br>
-          <em>Sexta, 16:30 – 18:00</em>
+          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao10">
+            Sessão Técnica 10 – Desenvolvimento de APIs e Ontologias
+          </a>
         </td>
       </tr>
 
-      <!-- Premiação (Sexta, 18:00) -->
+      <!-- Premiação -->
       <tr>
-        <td class="time-cell">18:00 – 18:15</td>
+        <td class="time-cell">18:00</td>
         <td></td>
         <td></td>
         <td class="soft-blue"><strong>Premiação do Evento</strong></td>
       </tr>
 
-      <!-- Jantar / Intervalo -->
+      <!-- Jantar -->
       <tr>
         <td class="time-cell">18:15 – 19:00</td>
         <td colspan="3" class="full-row">Intervalo</td>
@@ -213,17 +216,15 @@ header:
       <!-- Noite: Palestras 20:30 -->
       <tr>
         <td class="time-cell">20:30 – 21:30</td>
-        <td class="lecture">
-          <!-- Se houver segunda palestra nesta noite, linke aqui; caso contrário, mantenha em branco -->
-        </td>
+        <td class="lecture"></td>
         <td class="lecture">
           <a href="{{ site.baseurl }}/programacao/palestras/#palestra4">
-            Palestra: Prof. Guilherme Henrique Piasson — Do Código à Cabine: ES na Aviação
+            Palestra: Prof. Ana Márcia Debiasi Duarte — Aplicação da Gerência de Projetos no Ciclo de Vida do Software
           </a>
         </td>
         <td class="lecture">
           <a href="{{ site.baseurl }}/programacao/palestras/#palestra6">
-            Palestra: Prof. Ana Márcia Debiasi Duarte — Aplicação da gerência de Projetos no ciclo de vida do Software!
+            Palestra: Prof. Guilherme Henrique Piasson — Do Código à Cabine: ES na Aviação
           </a>
         </td>
       </tr>

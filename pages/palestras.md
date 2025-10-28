@@ -116,26 +116,27 @@ header:
 <hr class="divisor">
 
 <div id="palestra4" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/guilherme.jpeg" alt="Prof. Guilherme Henrique Piasson">
+  <img src="{{ site.urlimg }}/palestras/ana.jpeg" alt="Prof. Ana Márcia Debiasi Duarte">
 
   <div class="palestra-content">
-    <h3>Prof. Guilherme Henrique Piasson</h3>
-    <a href="http://lattes.cnpq.br/8676979850309270" target="_blank">Currículo Lattes</a><br>
+    <h3>Prof. Ana Márcia Debiasi Duarte</h3>
+    <a href="http://lattes.cnpq.br/3053985067191096" target="_blank">Currículo Lattes</a><br>
 
-    <h4>Título: Do Código à Cabine: Engenharia de Software na Aviação</h4>
+    <h4>Título: Aplicação da gerência de Projetos no ciclo de vida do Software!</h4>
 
     <p>
-      <strong>Data:</strong> 30/Out/2024 (Quinta-Feira)<br>
+      <strong>Data:</strong> 30/Out/2025 (Quinta-Feira)<br>
       <strong>Hora:</strong> 20:30
     </p>
 
     <p>
-      <strong>Bio:</strong> Guilherme Henrique Piasson é Team Lead na VistaJet e Professor na Unoesc, com mais de 15 anos de experiência em arquitetura distribuída, engenharia de software e gestão de projetos.
-      É graduado em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (Campus Passo Fundo). Possui especialização em Arquitetura de Software Distribuído pela PUC Minas e MBA em Gestão de Negócios pela USP/Esalq.
+      <strong>Bio:</strong> Ana Márcia Debiasi Duarte, Head de PMO na NSTECH 
+      Experiência de mais de 30 anos em desenvolvimento, gestão de projetos e gestão de processos de software. Responsável pela estruturação de uma área de projetos em uma grande empresa de logística. Empreendedora há mais de 10 anos, construindo soluções de software para a área da saúde. Doutora em administração, com mestrado em computação e master na Université de Tours - França em Qualidade de serviços, atua como professora na área de engenharia de software. Atuou como consultora em mais de 100 empresas de desenvolvimento de software, com foco em otimização de processos e resultados. Atualmente pesquisa e trabalha com gestão de projetos de software, membro do PMI/SC e do MGPDI.
     </p>
 
   </div>
-</div>
+</div> 
+
 
 <hr class="divisor">
 
@@ -149,7 +150,7 @@ header:
     <h4>Título: Engenharia de Software em Transição: entre Sistemas Legados, IA e Sustentabilidade</h4>
 
     <p>
-      <strong>Data:</strong> 31/Out/2024 (Quarta-Feira)<br>
+      <strong>Data:</strong> 31/Out/2024 (Sexta-Feira)<br>
       <strong>Hora:</strong> 19:00
     </p>
 
@@ -163,25 +164,25 @@ header:
 </div>
 
 <hr class="divisor">
-
 <div id="palestra6" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/ana.jpeg" alt="Prof. Ana Márcia Debiasi Duarte">
+  <img src="{{ site.urlimg }}/palestras/guilherme.jpeg" alt="Prof. Guilherme Henrique Piasson">
 
   <div class="palestra-content">
-    <h3>Prof. Ana Márcia Debiasi Duarte</h3>
-    <a href="http://lattes.cnpq.br/3053985067191096" target="_blank">Currículo Lattes</a><br>
+    <h3>Prof. Guilherme Henrique Piasson</h3>
+    <a href="http://lattes.cnpq.br/8676979850309270" target="_blank">Currículo Lattes</a><br>
 
-    <h4>Título: Aplicação da gerência de Projetos no ciclo de vida do Software!</h4>
+    <h4>Título: Do Código à Cabine: Engenharia de Software na Aviação</h4>
 
     <p>
-      <strong>Data:</strong> 31/Out/2025 (Sexta-Feira)<br>
+      <strong>Data:</strong> 31/Out/2024 (Sexta-Feira)<br>
       <strong>Hora:</strong> 20:30
     </p>
 
     <p>
-      <strong>Bio:</strong> Ana Márcia Debiasi Duarte, Head de PMO na NSTECH 
-      Experiência de mais de 30 anos em desenvolvimento, gestão de projetos e gestão de processos de software. Responsável pela estruturação de uma área de projetos em uma grande empresa de logística. Empreendedora há mais de 10 anos, construindo soluções de software para a área da saúde. Doutora em administração, com mestrado em computação e master na Université de Tours - França em Qualidade de serviços, atua como professora na área de engenharia de software. Atuou como consultora em mais de 100 empresas de desenvolvimento de software, com foco em otimização de processos e resultados. Atualmente pesquisa e trabalha com gestão de projetos de software, membro do PMI/SC e do MGPDI.
+      <strong>Bio:</strong> Guilherme Henrique Piasson é Team Lead na VistaJet e Professor na Unoesc, com mais de 15 anos de experiência em arquitetura distribuída, engenharia de software e gestão de projetos.
+      É graduado em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (Campus Passo Fundo). Possui especialização em Arquitetura de Software Distribuído pela PUC Minas e MBA em Gestão de Negócios pela USP/Esalq.
     </p>
 
   </div>
-</div> 
+</div>
+
