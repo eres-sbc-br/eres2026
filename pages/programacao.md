@@ -48,21 +48,21 @@ header:
             Minicurso: Guia de IA pro empreendedor-programador (RÁPIDO | ATUALIZADO 2025)
           </a><br>
           Instrutor: Renato Mello Konflanz<br>
-          <em>Sala: C1 – Laboratório A</em>
+          <em>Sala: Prédio C1 – Laboratório A</em>
         </td>
         <td class="course">
           <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso2">
             Minicurso: Da Ideia ao Deploy — Construindo e Publicando Aplicações Web Modernas
           </a><br>
           Instrutor: Bernardo Zanetti<br>
-          <em>Sala: C1 – Laboratório A</em>
+          <em>Sala: Prédio C1 – Laboratório A</em>
         </td>
         <td class="course">
           <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso3">
             Minicurso: Da Ideia ao Deploy — UX para pessoas de TI: criando softwares que as pessoas amam usar
           </a><br>
           Instrutor: Jean Carlos da Campo<br>
-          <em>Sala: C1 – Laboratório A</em>
+          <em>Sala: Prédio C1 – Laboratório A</em>
         </td>
       </tr>
 
@@ -105,7 +105,7 @@ header:
             <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
               Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados
             </a><br>
-            <em>Sexta, 14:00 – 18:00 | Sala: C1 – Laboratório A</em>
+            <em>Sexta, 14:00 – 18:00 | Sala: Prédio C1 – Laboratório A</em>
           </span>
         </td>
       </tr>
@@ -147,7 +147,7 @@ header:
           </a>
           <br><br>
           <span class="course">
-            Continuação — Minicurso 4 (até 18:00) — <em>Sala: C1 – Laboratório A</em>
+            Continuação — Minicurso 4 (até 18:00) — <em>Sala: Prédio C1 – Laboratório A</em>
           </span>
         </td>
       </tr>
