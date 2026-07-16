@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
 permalink: /index.html
-title: "Bem-vindo à ERES 2025"
+title: "Bem-vindo à ERES 2026"
 homepage: true
 header:
-  image_fullwidth: "ERES-2024_Logo.png"
+  image_fullwidth: "banner-eres2026.png"
 ---
 
 <style>
