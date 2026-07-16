@@ -106,14 +106,19 @@ header:
     <a href="{{ site.baseurl }}/certificados/" target="_blank">Clique aqui para consultar seu Certificado de Participação.</a>
   </p> -->
 
-  <p class="text">A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A oitava edição da escola, a <b>ERES 2026</b>, ocorrerá <b>presencialmente</b>, no período de 29 a 31 de outubro de 2025.</p>
+  <p class="text">A <b>Escola Regional de Engenharia de Software (ERES)</b> é um evento promovido anualmente pela Sociedade Brasileira de Computação (SBC). Em sua décima edição, a <b>ERES 2026</b> será realizada <b>presencialmente</b> entre os dias 14 e 16 de outubro de 2026.</p>
 
-  <p class="text">Esta edição está sendo realizada pela <a href="https://uno.edu.br/" target="_blank">Universidade Comunitária da Região de Chapecó</a> e <a href="https://www.uffs.edu.br/" target="_blank">Universidade Federal da Fronteira Sul</a>.</p>
+<p class="text">Nesta edição, o evento será organizado pela <a href="https://www.utfpr.edu.br/campus/toledo/" target="_blank">Universidade Tecnológica Federal do Paraná (UTFPR)</a>.</p>
 
-  <p class="text">A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2025 é um espaço regional para que possam ser apresentados os resultados de pesquisas e extensão em nível de graduação e pós-graduação e relatos de experiência na indústria. Além disso, possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES.</p>
+<p class="text">A ERES tem como objetivo disseminar conhecimentos, experiências e boas práticas em Engenharia de Software, tanto sob a perspectiva acadêmica quanto profissional. A ERES 2026 constituirá um espaço regional para a apresentação e discussão de resultados de pesquisas, projetos de extensão, trabalhos desenvolvidos em cursos de graduação e pós-graduação, além de relatos de experiência provenientes da indústria.</p>
 
-  <p class="text">A realização da ERES 2025 oferecerá aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de engenharia de software por meio da apresentação de palestras ministradas por pesquisadores e praticantes da indústria renomados. Dessa forma, este evento irá possibilitar a promoção de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando, assim, o gosto pela pesquisa científica aos participantes.</p>
-  <p class="text">A programação da ERES 2025 está sendo elaborada com palestras, minicursos e submissões de artigos para serem apresentados em um Fórum de Graduação, um Fórum de Pós-Graduação e um Fórum de Extensão.</p>
+<p class="text">O evento também promoverá um ambiente propício para o debate sobre metodologias, práticas e abordagens relacionadas ao ensino e à aprendizagem em Engenharia de Software, fortalecendo a integração entre estudantes, professores, pesquisadores e profissionais da área.</p>
+
+<p class="text">A realização da ERES 2026 proporcionará aos participantes o acesso a temas atuais e aos avanços do estado da arte da pesquisa científica em Engenharia de Software. A programação contará com palestras ministradas por pesquisadores de destaque e profissionais reconhecidos da indústria, contribuindo para a divulgação de pesquisas e práticas desenvolvidas na região Sul, no Brasil e no cenário internacional.</p>
+
+<p class="text">Dessa forma, o evento busca estimular a troca de conhecimentos, a formação de novas parcerias e o interesse pela pesquisa científica, além de aproximar a academia do setor produtivo.</p>
+
+<p class="text">A programação da ERES 2026 está sendo elaborada para contemplar palestras, minicursos e apresentações de artigos. Os trabalhos submetidos poderão ser apresentados no Fórum de Graduação, no Fórum de Pós-Graduação e no Fórum de Extensão, ampliando as oportunidades de participação e divulgação das iniciativas desenvolvidas pela comunidade de Engenharia de Software.</p>
 
   <h3>Fórum de Graduação</h3>
   <p class="text">Espaço destinado para apresentação dos trabalhos de pesquisa ou relatos de experiência em Engenharia de Software, desenvolvidos por acadêmicos de graduação, principalmente das IES catarinenses, gaúchas e paranaenses.</p>
@@ -125,7 +130,7 @@ header:
   <p class="text">Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, relacionados à forma  como estão implantando a extensão em seus currículos, conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes e estudantes que atuam em ações de extensão.</p>
 
   <script>
-    const countDownDate = new Date("October 29, 2025 13:00:00").getTime();
+    const countDownDate = new Date("October 14, 2026 13:00:00").getTime();
     const countdownTimer = setInterval(() => {
       const now = new Date().getTime();
       const distance = countDownDate - now;
