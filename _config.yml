@@ -35,9 +35,9 @@ improve_content: https://github.com/eres-sbc-br/eres2025/feeling-responsive/edit
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: "https://eres-sbc-br.github.io/eres2025/images/"
+urlimg: "https://eres-sbc-br.github.io/eres2026/images/"
 
-urlcertificados: "https://github.com/eres-sbc-br/eres2025/tree/main/certificados/"
+urlcertificados: "https://github.com/eres-sbc-br/eres2026/tree/main/certificados/"
 
 # Logo size is 600x80 pixels
 #logo: "logo_eres_2020.png"
