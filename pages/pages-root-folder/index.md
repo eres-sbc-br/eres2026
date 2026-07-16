@@ -106,7 +106,7 @@ header:
     <a href="{{ site.baseurl }}/certificados/" target="_blank">Clique aqui para consultar seu Certificado de Participação.</a>
   </p> -->
 
-  <p class="text">A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A oitava edição da escola, a <b>ERES 2025</b>, ocorrerá <b>presencialmente</b>, no período de 29 a 31 de outubro de 2025.</p>
+  <p class="text">A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A oitava edição da escola, a <b>ERES 2026</b>, ocorrerá <b>presencialmente</b>, no período de 29 a 31 de outubro de 2025.</p>
 
   <p class="text">Esta edição está sendo realizada pela <a href="https://uno.edu.br/" target="_blank">Universidade Comunitária da Região de Chapecó</a> e <a href="https://www.uffs.edu.br/" target="_blank">Universidade Federal da Fronteira Sul</a>.</p>
 
