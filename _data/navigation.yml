@@ -53,7 +53,7 @@
   url: "/como_chegar/"
   side: left
   dropdown:
-    - title: "Como chegar à Unochapecó"
+    - title: "Como chegar à UTFPR"
       url: "/como_chegar/"
     - title: "Hospedagem e Alojamento"
       url: "/hospedagem/"
