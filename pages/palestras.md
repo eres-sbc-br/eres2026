@@ -74,7 +74,7 @@ header:
 
   <div class="palestra-content">
     <h3>Prof. Morandini - USP</h3>
-    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>-->
+    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
 
     <h4>Título: Gestão da Transparência de Dados Pessoais e relacionamento com  User Experience</h4>
 
@@ -97,7 +97,7 @@ header:
 
   <div class="palestra-content">
     <h3>Prof. Guilherme Horta Travassos - UFRJ</h3>
-    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>-->
+    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
 
     <h4>Título: Alguns desafios e obstáculos na Engenharia de Sistemas de Softwares Contemporâneos</h4>
 
@@ -120,7 +120,7 @@ header:
 
   <div class="palestra-content">
     <h3>Profª.   - UEM</h3>
-    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>-->
+    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
 
     <h4>Título: Pesquisa Científica 
 Aplicada a Startups de Software</h4>
