@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 permalink: /programacao/happy-hour/
-title: "Happy Hour ERES 2025"
+title: "Happy Hour ERES 2026"
 header:
   image_fullwidth: "ERES-2025_Logo.svg"
 ---
@@ -64,7 +64,10 @@ header:
   }
 </style>
 <p class="text">
-  Participe de momentos descontraídos de networking com outros participantes e organizadores da ERES 2025. 
+  Breve mais informações.
+</p>
+<!--<p class="text">
+  Participe de momentos descontraídos de networking com outros participantes e organizadores da ERES 2026. 
   Serão dois Happy Hours em Chapecó — ótimas oportunidades para relaxar, trocar ideias e fortalecer conexões.
 </p>
 
@@ -138,4 +141,4 @@ header:
 
 <p class="text">
   Não perca a chance de criar novas conexões e celebrar com a comunidade da ERES 2025!
-</p>
+</p>-->
