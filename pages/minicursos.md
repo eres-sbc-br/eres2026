@@ -128,8 +128,7 @@ header:
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Breve mais informações.
       </p>
-      <!-- <p><strong>📅 Data e horário:</strong> 14 de Outubro (auarta-feira), das 08h às 12h</p>-->
-     
+       
     </div>
   </div>
 </div>
@@ -143,11 +142,11 @@ header:
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Breve mais informações.
       </p>
-      <!-- <p><strong>📅 Data e horário:</strong> 14 de Outubro (auarta-feira), das 08h às 12h</p>-->
-     
+        
     </div>
   </div>
 </div>
+
 
 
 
