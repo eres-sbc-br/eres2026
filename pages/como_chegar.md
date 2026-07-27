@@ -62,8 +62,8 @@ header:
 
   <p>
     A <span class="important">UTFPR - Campus Toledo</span>, sede da ERES 2026, está localizada na <span class="important">R. Cristo Rei, 19 - Vila Becker, Toledo - PR</span>.
-    <br />
-    Confira o mapa:
+    <br/></p>
+     <p>Confira o mapa:
   </p>
 
  <iframe
