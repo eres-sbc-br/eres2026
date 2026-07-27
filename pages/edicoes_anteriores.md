@@ -54,7 +54,7 @@ header:
   <div class="edition-item">
     <b>Chapecó-SC 2025</b>
     <a href="https://eres-sbc-br.github.io/eres2025/" target="_blank">
-      <img src="{{ site.urlimg }}/ERES-2025_Logo.png" alt="Banner ERES 2025 Chapecó-SC">
+      <img src="{{ site.urlimg }}/ERES-2025_Logo.svg" alt="Banner ERES 2025 Chapecó-SC">
     </a>
   </div>
   
