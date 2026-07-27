@@ -34,9 +34,9 @@ header:
     <thead>
       <tr>
         <th class="time-cell">Hora</th>
-        <th class="header-green">Quarta (29/10)</th>
-        <th class="header-purple">Quinta (30/10)</th>
-        <th class="header-red">Sexta (31/10)</th>
+        <th class="header-green">Quarta (14/10)</th>
+        <th class="header-purple">Quinta (15/10)</th>
+        <th class="header-red">Sexta (16/10)</th>
       </tr>
     </thead>
     <tbody>
@@ -44,25 +44,25 @@ header:
       <tr>
         <td class="time-cell">08:00 – 12:00</td>
         <td class="course">
-          <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso1">
+          <!--<a href="{{ site.baseurl }}/programacao/minicursos/#minicurso1">
             Minicurso: Guia de IA pro empreendedor-programador (RÁPIDO | ATUALIZADO 2025)
           </a><br>
           Instrutor: Renato Mello Konflanz<br>
-          <em>Sala: Prédio C1 – Laboratório A</em>
+          <em>Sala: Prédio C1 – Laboratório A</em>-->
         </td>
         <td class="course">
-          <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso2">
+          <!--<a href="{{ site.baseurl }}/programacao/minicursos/#minicurso2">
             Minicurso: Da Ideia ao Deploy — Construindo e Publicando Aplicações Web Modernas
           </a><br>
           Instrutor: Bernardo Zanetti<br>
-          <em>Sala: Prédio C1 – Laboratório A</em>
+          <em>Sala: Prédio C1 – Laboratório A</em>-->
         </td>
         <td class="course">
-          <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso3">
+          <!--<a href="{{ site.baseurl }}/programacao/minicursos/#minicurso3">
             Minicurso: Da Ideia ao Deploy — UX para pessoas de TI: criando softwares que as pessoas amam usar
           </a><br>
           Instrutor: Jean Carlos da Campo<br>
-          <em>Sala: Prédio C1 – Laboratório A</em>
+          <em>Sala: Prédio C1 – Laboratório A</em>-->
         </td>
       </tr>
 
@@ -85,27 +85,27 @@ header:
         <td class="time-cell">14:00 – 16:00</td>
         <!-- Quarta: mantém Sessão Técnica 1 -->
         <td class="session">
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao1">
+          <!--<a href="{{ site.baseurl }}/programacao/sessoes/#sessao1">
             Sessão Técnica 1 – Engenharia de Software Experimental e Qualidade
-          </a>
+          </a>-->
         </td>
         <!-- Quinta: mantém Sessão Técnica 4 -->
         <td class="session">
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao4">
+          <!--<a href="{{ site.baseurl }}/programacao/sessoes/#sessao4">
             Sessão Técnica 4 – Testes e Validação de Software
-          </a>
+          </a>-->
         </td>
         <!-- Sexta: mantém Sessão Técnica 7 E adiciona Minicurso 4 (concorrente) -->
         <td class="session">
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao7">
+          <!--<a href="{{ site.baseurl }}/programacao/sessoes/#sessao7">
             Sessão Técnica 7 – Educação em Computação e Extensão Universitária
-          </a>
+          </a>-->
           <br><br>
           <span class="course">
-            <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
+            <!--<a href="{{ site.baseurl }}/programacao/minicursos/#minicurso4">
               Minicurso 4: Modelagem para Bancos de Dados NoSQL — Uma saga de 4 tipos de dados
             </a><br>
-            <em>Sexta, 14:00 – 18:00 | Sala: Prédio C1 – Laboratório A</em>
+            <em>Sexta, 14:00 – 18:00 | Sala: Prédio C1 – Laboratório A</em>-->
           </span>
         </td>
       </tr>
