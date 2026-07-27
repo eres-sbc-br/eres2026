@@ -24,7 +24,7 @@ header:
 <ul>
   <li>Cada apresentação terá <strong>10 minutos</strong>, seguidos de <strong>3–5 minutos</strong> para perguntas.</li>
   <li>Todas as apresentações serão realizadas no <strong>Salão Nobre</strong>.</li>
-  <li>Todos os autores devem encaminhar a apresentação até o dia <strong>06 de outubro</strong> no e-mail <a href="mailto:felipezeiser@unochapeco.edu.br">felipezeiser@unochapeco.edu.br</a> informando no assunto a sessão e o título do trabalho.</li>
+  <li>Todos os autores devem encaminhar a apresentação até o dia <strong>06 de outubro</strong> no e-mail <a href="mailto:#">#</a> informando no assunto a sessão e o título do trabalho.</li>
   <li>Recomendamos que levem uma cópia local de seus slides em formato PDF.</li>
   <li>Pedimos pontualidade para garantir o bom andamento da programação.</li>
 </ul>
