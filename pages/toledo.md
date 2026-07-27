@@ -59,17 +59,22 @@ header:
 <hr>
 
 <p class="text">
-   No coração do Rio Grande do Sul, ergue-se Santiago, um município que transcende o tempo, entrelaçando história, cultura e belezas naturais em um abraço acolhedor. Conhecida como a "Terra dos Poetas", Santiago é um berço de inspiração, onde versos e melodias ecoam em cada esquina, celebrando a alma gaúcha em sua essência.
+   No Oeste do Paraná, destaca-se Toledo, uma cidade que combina desenvolvimento, qualidade de vida e fortes tradições culturais. Reconhecida pela força do agronegócio e da agroindústria, Toledo também encanta por seus espaços públicos, áreas verdes e pela hospitalidade de sua população, tornando-se um importante polo regional para quem vive, trabalha ou visita o município.
 </p>
 
-<h5><b>Um Legado de Poesia e Tradição</b></h5>
+<h5><b>Desenvolvimento e Força do Agronegócio</b></h5>
 <p class="text">
-   A tradição literária de Santiago é um tesouro a ser desvendado. A cidade viu nascer e florescer grandes nomes da poesia, como Caio Fernando Abreu e Jayme Caetano Braun, cujas obras imortalizaram a alma e a paisagem gaúchas. O legado poético de Santiago se manifesta em festivais, saraus e eventos culturais, que celebram a palavra como expressão da identidade local.
+   A história de Toledo está profundamente ligada ao trabalho, à agricultura e à capacidade empreendedora de sua população. O município tornou-se referência nacional na produção de alimentos, especialmente na suinocultura, na avicultura e na produção de grãos. Essa força econômica contribuiu para o crescimento da cidade, para a geração de empregos e para a consolidação de Toledo como um dos principais centros do Oeste paranaense.
 </p>
 
-<h5><b>Cultura Gaúcha em Cada Detalhe</b></h5>
+<h5><b>Cultura, Tradição e Qualidade de Vida</b></h5>
 <p class="text">
-   Santiago respira tradição. O orgulho gaúcho se manifesta nas cavalgadas, nos rodeios crioulos, nas danças típicas e nas culinárias fartas, que exaltam o sabor da terra e a hospitalidade do povo. O Festival da Música Crioula de Santiago é um dos eventos mais aguardados, reunindo artistas renomados e amantes da música tradicionalista em uma celebração única.
+   Toledo preserva as tradições trazidas por diferentes povos que participaram de sua formação. Festas populares, eventos culturais, gastronomia típica, música e manifestações religiosas fazem parte da identidade do município. A cidade também oferece parques, praças, espaços esportivos e locais de convivência, proporcionando lazer, bem-estar e qualidade de vida para moradores e visitantes.
+</p>
+
+<h5><b>Uma Cidade que Valoriza o Futuro</b></h5>
+<p class="text">
+   Além de sua força econômica e cultural, Toledo destaca-se pelos investimentos em educação, tecnologia, inovação e sustentabilidade. Instituições de ensino, empresas, organizações públicas e iniciativas empreendedoras colaboram para a construção de uma cidade moderna e preparada para novos desafios, sem deixar de valorizar sua história, suas raízes e o espírito acolhedor de sua comunidade.
 </p>
 
 <iframe src="https://www.youtube.com/embed/vyQWmoZ2iyw?si=5OpBsZ-4AOnJCvcu" title="Toledo - PR" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
