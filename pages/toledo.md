@@ -82,5 +82,5 @@ header:
 <h5><b>Descubra mais sobre Toledo</b></h5> 
 <ul class="links-list">
   <li>Site da Prefeitura: <a href="https://www.toledo.pr.gov.br/">https://www.toledo.pr.gov.br/</a></li>
-  <li>Câmara Municipal: <a href="https://www.toledo.pr.leg.br/">https://www.toledo.pr.leg.br/a></li>
+  <li>Câmara Municipal: <a href="https://www.toledo.pr.leg.br/">https://www.toledo.pr.leg.br/</a></li>
 </ul>
