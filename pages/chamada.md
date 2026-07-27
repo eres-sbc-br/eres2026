@@ -92,15 +92,15 @@ header:
 <main class="chamada-trabalhos">
   <section>
     <h2>Apresentação</h2>
-    <p class="text">A IX Escola Regional de Engenharia de Software (ERES 2025) é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A próxima edição ocorrerá de forma presencial, de 29 a 31 de outubro de 2025, em Chapecó/SC.</p>
+    <p class="text">A X Escola Regional de Engenharia de Software (ERES 2026) é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A próxima edição ocorrerá de forma presencial, de 14 a 16 de outubro de 2026, em Toledo/PR.</p>
   </section>
 
   <section class="important-dates">
     <h3>Datas Importantes</h3>
     <ul>
-      <li>Submissão de artigos: <s> 18 de Agosto de 2025 </s><span style="color: red">01 de Setembro de 2025 hard deadline</span></li>
-      <li>Notificação aos autores: <s> 15 de Setembro de 2025 - 22 de Setembro de 2025</s> <span style="color: red">25 de Setembro de 2025</span></li>
-      <li>Envio da versão final: 30 de Setembro de 2025</li>
+      <li>Submissão de artigos: <s> 18 de Agosto de 2026 </s><!--<span style="color: red">01 de Setembro de 2026 hard deadline</span></li>-->
+      <li>Notificação aos autores: <s> 15 de Setembro de 2026 - 22 de Setembro de 2026</s> <!--<span style="color: red">25 de Setembro de 2026</span></li>-->
+      <li>Envio da versão final: 30 de Setembro de 2026</li>
     </ul>
   </section>
 
@@ -141,7 +141,7 @@ header:
     <p class="text">
       Independentemente da trilha de submissão, é exigido que pelo menos 1 (um) dos autores de cada artigo aceito se inscreva e apresente o trabalho no evento para que seja incluído nos anais. 
     </p>
-    <p class="submission-link">Link para submissão: <a href="https://jems3.sbc.org.br/eres2025">Submeta seu trabalho aqui</a></p>
+    <p class="submission-link">Link para submissão: <a href="#">Submeta seu trabalho aqui</a></p>
   </section>
 
   <section class="text"> 
@@ -151,7 +151,7 @@ header:
         <li>As submissões que não estiverem finalizadas de acordo com os dados solicitados pelo JEMS e os arquivos correspondentes devidamente postados segundo as regras estabelecidas nesta chamada serão imediatamente rejeitadas;</li>
         <li>Os melhores artigos do Fórum de Graduação poderão ser convidados para submeter uma versão estendida para uma edição especial da Revista Eletrônica de Iniciação Científica em Computação (REIC) da SBC.</li>
         <li>Os melhores artigos do Fórum de Pós-Graduação poderão ser convidados para submeter uma versão estendida para o Journal of Software Engineering Research and Development (JSERD) da SBC.</li>
-        <li>Os melhores revisores receberão um certificado de “Melhor Revisor da ERES 2025” como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2025.</li>
+        <li>Os melhores revisores receberão um certificado de “Melhor Revisor da ERES 2025” como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2026.</li>
       </ul>
     </div>
   </section>
@@ -193,7 +193,7 @@ header:
 
   <section class="text">
   <h2>Organização</h2>
-  <ul>
+  <!--<ul>
     <li><strong>Coordenação Geral:</strong>
       <ul>
         <li>Prof. Dr. Felipe André Zeiser – Unochapecó</li>
@@ -220,7 +220,7 @@ header:
         <li>Prof. Dr. Raquel Aparecida Pegoraro – UFFS</li>
       </ul>
     </li>
-  </ul>
+  </ul>-->
 </section>
 
 </main>
