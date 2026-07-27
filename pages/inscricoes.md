@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 permalink: /inscricoes/
-title: "Inscrições - ERES 2025"
+title: "Inscrições - ERES 2026"
 header:
   image_fullwidth: "ERES-2025_Logo.svg"
 ---
@@ -74,7 +74,7 @@ header:
 </style>
 
 <h3>Link para inscrição: </h3>
-<a href="https://centraldesistemas.sbc.org.br/ecos/eres2025" target="_blank">Inscreva-se aqui!</a>
+<a href="#" target="_blank">Inscreva-se aqui!</a>
 <p class="text"></p>
 
 <h3>Inscrição promocional</h3>
@@ -100,22 +100,22 @@ header:
 
 <h3>Valores de inscrição</h3>
 
-<p class="text">Os valores de inscrição para a ERES 2024 estão listados abaixo. Destacamos que estudantes e profissionais que não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os benefícios de se associar à SBC.</p>
+<p class="text">Os valores de inscrição para a ERES 2026 estão listados abaixo. Destacamos que estudantes e profissionais que não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os benefícios de se associar à SBC.</p>
 
-<p class="text">Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload de um documento que ateste a categoria escolhida. A verificação desse documento pode levar até 1 dia útil. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERES 2024.</p>
+<p class="text">Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload de um documento que ateste a categoria escolhida. A verificação desse documento pode levar até 1 dia útil. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERES 2026.</p>
 
 <table class="sbc-table">
   <tr>
     <th colspan="2">Categorias</th>    
     <th colspan="1">
       1ª Faixa de Inscrição <br />
-      A partir de: 09/08/2025
-      até: 15/10/2025
+      A partir de: 15/08/2026
+      até: 15/09/2026
     </th>    
     <th colspan="1">
       2ª Faixa de Inscrição <br />
-      A partir de: 15/10/2025
-      até: 31/10/2025
+      A partir de: 16/09/2026
+      até: 16/10/2026
     </th>    
   </tr>
   <tr class="gray">
@@ -220,7 +220,7 @@ header:
 
 <p class="text">O pagamento de inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho ou faturamento.</p>
 
-<p class="text">As inscrições podem ser feitas até o último dia do evento, porém os pagamentos por débito e boleto serão aceitos até o 29/10/2025.
+<p class="text">As inscrições podem ser feitas até o último dia do evento, porém os pagamentos por débito e boleto serão aceitos até o 16/10/2026.
 
 <p class="text">O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições ECOS da SBC.</p>
 
@@ -229,16 +229,16 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h3>Inscrição para autores</h3>
 
-<p class="text">Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2025, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 06/10/2025. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
+<p class="text">Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2026, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 05/10/2026. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
 
 <h3>Inscrição em minicursos</h3>
 
-<p class="text">A participação em cada minicurso exige o pagamento de uma taxa de R$ 10,00, impreterivelmente até o dia 15/10/2025.</p>
+<p class="text">A participação em cada minicurso exige o pagamento de uma taxa de R$ 10,00, impreterivelmente até o dia 05/10/2026.</p>
 
-<p class="text"><font> <span style="font-size: 22px">⚠️</span> Atenção: Cada minicurso possui uma capacidade máxima de 30 pessoas.</font></p>
+<p class="text"><font> <span style="font-size: 22px">⚠️</span> Atenção: Cada minicurso possui uma capacidade máxima de 25 pessoas.</font></p>
 
 <!-- <p class="text"><font><span style="font-size: 22px">⚠️</span> Atenção: Os minicursos 1 e 2, 3 e 4, 5 e 6 acontecerão em paralelo nos seus respectivos dias.</font></p> -->
 
 <h3>Política de cancelamento de inscrições</h3>
 
-<p class="text">Até dia 15/10/2025 pode-se fazer uma devolução de 75% do valor pago pela inscrição na VIII Escola Regional de Engenharia de Software (ERES 2025). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
+<p class="text">Até dia 05/10/2026 pode-se fazer uma devolução de 75% do valor pago pela inscrição na X Escola Regional de Engenharia de Software (ERES 2026). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
