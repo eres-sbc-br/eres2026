@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Santiago: Terra dos Poetas e das Tradições Gaúchas"
+title: "Toledo: "
 subheadline: ""
-permalink: "/chapeco/"
+permalink: "/toledo/"
 header:
   image_fullwidth: "ERES-2025_Logo.svg"
 ---
@@ -72,10 +72,10 @@ header:
    Santiago respira tradição. O orgulho gaúcho se manifesta nas cavalgadas, nos rodeios crioulos, nas danças típicas e nas culinárias fartas, que exaltam o sabor da terra e a hospitalidade do povo. O Festival da Música Crioula de Santiago é um dos eventos mais aguardados, reunindo artistas renomados e amantes da música tradicionalista em uma celebração única.
 </p>
 
-<iframe src="https://www.youtube.com/embed/DmLnDr_K6ic" title="Santiago - RS" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DmLnDr_K6ic" title="Toledo - PR" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h5><b>Descubra mais sobre Santiago</b></h5>
+<h5><b>Descubra mais sobre Santiago</b></h5> 
 <ul class="links-list">
-  <li>Site da Prefeitura: <a href="https://www.santiago.rs.gov.br/">https://www.santiago.rs.gov.br/</a></li>
-  <li>Câmara Municipal: <a href="https://santiago.rs.leg.br/">https://santiago.rs.leg.br/</a></li>
+  <li>Site da Prefeitura: <a href="https://www.toledo.pr.gov.br/">https://www.toledo.pr.gov.br/</a></li>
+  <li>Câmara Municipal: <a href="https://www.toledo.pr.leg.br/">https://www.toledo.pr.leg.br/a></li>
 </ul>
