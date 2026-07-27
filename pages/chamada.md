@@ -98,8 +98,8 @@ header:
   <section class="important-dates">
     <h3>Datas Importantes</h3>
     <ul>
-      <li>Submissão de artigos: <s> 18 de Agosto de 2026 </s><!--<span style="color: red">01 de Setembro de 2026 hard deadline</span></li>-->
-      <li>Notificação aos autores: <s> 15 de Setembro de 2026 - 22 de Setembro de 2026</s> <!--<span style="color: red">25 de Setembro de 2026</span></li>-->
+      <li>Submissão de artigos:  18 de Agosto de 2026 <!--<span style="color: red">01 de Setembro de 2026 hard deadline</span>--></li>
+      <li>Notificação aos autores:  15 de Setembro de 2026 - 22 de Setembro de 2026<!--<span style="color: red">25 de Setembro de 2026</span>--></li>
       <li>Envio da versão final: 30 de Setembro de 2026</li>
     </ul>
   </section>
@@ -107,13 +107,13 @@ header:
   <section>
     <h2>Submissão de Trabalhos</h2>
     <p class="text">
-      A ERES 2025 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria.
+      A ERES 2026 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria.
     </p>
     <p class="text">
-      Os artigos devem possuir no mínimo 6 páginas e no máximo 10 páginas (incluindo as respectivas referências) em língua portuguesa ou inglesa. Os artigos aceitos deverão obrigatoriamente serem apresentados em Sessão de forma Oral, caso contrário não farão parte dos anais da ERES 2025.
+      Os artigos devem possuir no mínimo 6 páginas e no máximo 10 páginas (incluindo as respectivas referências) em língua portuguesa ou inglesa. Os artigos aceitos deverão obrigatoriamente serem apresentados em Sessão de forma Oral, caso contrário não farão parte dos anais da ERES 2026.
     </p>
     <p class="text text-strong">
-      Os anais da ERES 2025 serão publicados pelo Portal de Publicações e Conteúdo Digital da SBC (SOL) e cada artigo receberá um DOI.
+      Os anais da ERES 2026 serão publicados pelo Portal de Publicações e Conteúdo Digital da SBC (SOL) e cada artigo receberá um DOI.
     </p>
     <p class="text">
       <strong>Todos os artigos devem ser submetidos, SEM A IDENTIFICAÇÃO DOS AUTORES E DE SUAS INSTITUIÇÕES (DOUBLE-BLIND)</strong>, respeitando o formato de artigos para eventos da SBC, cujo template (Word e Latex) encontra-se em <a href="https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros" target="_blank">aqui</a>.
