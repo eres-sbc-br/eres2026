@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 permalink: /hospedagem/
-title: "Hospedagem e Alojamento - IX ERES 2025"
+title: "Hospedagem e Alojamento - X ERES 2026"
 header:
   image_fullwidth: "ERES-2025_Logo.svg"
 ---
@@ -57,47 +57,63 @@ header:
 <ul>
   <li>Colchonetes em salas adaptadas para pernoite;</li>
   <li>Banheiros com chuveiros masculinos e femininos;</li>
-  <li>Ambientes limpos e bem ventilados dentro do campus da Unochapecó.</li>
+  <li>Ambientes limpos e bem ventilados.</li>
 </ul>
 
 <p class="text">Recomendamos que cada participante traga seus próprios itens de cama e banho, como travesseiro, lençol, cobertor e toalha.</p>
 
 <p class="text">As vagas são limitadas e a inscrição antecipada é obrigatória. Garanta seu espaço preenchendo o formulário abaixo:</p>
 
-<p class="text"><a href="https://forms.gle/CVpTiN4QmsMcaJU29" target="_blank">Inscreva-se aqui!</a></p>
+<p class="text"><a href="#" target="_blank">Inscreva-se aqui!</a></p>
 
 <h3>Hotéis em Chapecó</h3>
 
 <div class="hotel-info">
-  <h4><a href="https://www.slavierohoteis.com.br/hoteis/slaviero-chapeco?utm_source=google&utm_medium=maps&utm_campaign=SECH" target="_blank">Hotel Slaviero Chapecó</a></h4>
-  <p>Av. São Pedro, 1780 - São Cristóvão, Chapecó - SC</p>
-  <p>Telefone: <a href="tel:+554935131120">(49) 3513-1120</a></p>
+  <h4>
+    <a href="https://hoteismaestro.com.br/detalhes-hotel/1/maestro-executive-hotel" target="_blank">
+      Maestro Executive Hotel
+    </a>
+  </h4>
+  <p>Rua General Estilac Leal, 1778 - Centro, Toledo - PR</p>
+  <p>Telefone: <a href="tel:+554530548191">(45) 3054-8191</a></p>
 </div>
 
 <div class="hotel-info">
-  <h4><a href="https://www.google.com/maps/place/Hotel+Mogano+Premium/" target="_blank">Hotel Ibis Chapecó</a></h4>
-  <p>Avenida Sao Pedro, 2300E - Engenho Braun, Chapeco - SC</p>
-  <p>Telefone: <a href="tel:+554933113000">(49) 3311-3000</a></p>
+  <h4>
+    <a href="https://www.nayruhotel.com.br/" target="_blank">
+      Nayru Hotel
+    </a>
+  </h4>
+  <p>Rua Almirante Barroso, 2435 - Centro, Toledo - PR</p>
+  <p>Telefone: <a href="tel:+554533793208">(45) 3379-3208</a></p>
 </div>
 
 <div class="hotel-info">
-  <h4><a href="https://star-hotel-chapeco.hotelsantacatarina.com/pt/" target="_blank">Star Hotel</a></h4>
-  <p>Av. Sen. Attilio Fontana, 3580 - E - Efapi, Chapecó - SC</p>
-  <p>Telefone: <a href="tel:+554933287774">(49) 3328-7774</a></p>
+  <h4>
+    <a href="https://vilaverdehotel.com/" target="_blank">
+      Vila Verde Hotel
+    </a>
+  </h4>
+  <p>Rua Nossa Senhora do Rocio, 1439 - Centro, Toledo - PR</p>
+  <p>Telefone: <a href="tel:+554532770001">(45) 3277-0001</a></p>
 </div>
 
 <div class="hotel-info">
-  <h4><a href="https://www.trihoteis.com/smartchapeco/" target="_blank">Tri Hotel Smart Chapecó</a></h4>
-  <p>Av. Sen. Attilio Fontana, 2747-E - Efapi, Chapecó - SC</p>
-  <p>Telefone: <a href="tel:+554933211300">(49) 3321-1300</a></p>
+  <h4>
+    <a href="https://olindahoteleventos.com.br/" target="_blank">
+      Olinda Hotel e Eventos
+    </a>
+  </h4>
+  <p>PR-182, km 2 - Independência, Toledo - PR</p>
+  <p>Telefone: <a href="tel:+554532785050">(45) 3278-5050</a></p>
 </div>
 
 
 <h3>Contato para Dúvidas</h3>
 
-<div class="contact-info">
+<!--<div class="contact-info">
   <p><strong>Felipe André Zeiser</strong></p>
   <p>Email: <a href="mailto:felipezeiser@unochapeco.edu.br">felipezeiser@unochapeco.edu.br</a></p>
-</div>
+</div>-->
 
-<p class="text">Estamos preparando tudo com carinho para te receber na ERES 2025!</p>
+<p class="text">Estamos preparando tudo com carinho para te receber na ERES 2026!</p>
