@@ -48,9 +48,9 @@ header:
   }
 </style>
 
-<h3>Alojamento Gratuito na IX ERES</h3>
+<h3>Alojamento Gratuito na X ERES</h3>
 
-<p class="text">Durante a IX ERES, a Unochapecó oferecerá alojamento gratuito para participantes que optarem por essa modalidade. O alojamento será organizado em espaços da própria universidade, com estrutura básica e ambiente seguro e acolhedor.</p>
+<p class="text">Durante a X ERES, a UTFPR oferecerá alojamento gratuito para participantes que optarem por essa modalidade. O alojamento será organizado em espaços da própria universidade, com estrutura básica e ambiente seguro e acolhedor.</p>
 
 <p class="text">Serão disponibilizados:</p>
 
