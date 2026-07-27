@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Toledo: "
+title: "Toledo: A cidade que é orgulho da nossa gente!"
 subheadline: ""
 permalink: "/toledo/"
 header:
