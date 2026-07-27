@@ -70,25 +70,79 @@ header:
 
 
 <div id="palestra1" class="palestra">
-  <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior">
+ <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
 
   <div class="palestra-content">
-    <h3>Prof. Edson Oliveira Junior</h3>
-    <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>
+    <h3>Prof. Morandini - USP</h3>
+    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>-->
 
-    <h4>Título: Towards Open Software Engineering: Insights and Lessons Learned from Recent Years</h4>
+    <h4>Título: Gestão da Transparência de Dados Pessoais e relacionamento com  User Experience</h4>
 
     <p>
-      <strong>Data:</strong> 29/Out/2025 (Quarta-Feira)<br>
-      <strong>Hora:</strong> 19:00
+      <strong>Data:</strong> 14/Out/2025 (Quarta-Feira)<br>
+      <strong>Hora:</strong> 20:00
     </p>
 
-    <p>
+   <!-- <p>
       <strong>Bio:</strong> Edson Oliveira Junior é professor associado do Departamento de Informática da Universidade Estadual de Maringá (UEM) e pesquisador nas áreas de Engenharia de Software e Ciência Aberta. Atua no Programa de Pós-Graduação em Ciência da Computação da UEM e coordena iniciativas voltadas à reprodutibilidade, proveniência e transparência em experimentos controlados de engenharia de software. É criador e coordenador do workshop Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE), realizado junto ao Congresso Brasileiro de Software (CBSoft) em 2021 e 2022, e membro do Grupo de Trabalho em Ciência Aberta da Sociedade Brasileira de Computação (SBC). Desde 2022, é membro do Comitê Diretivo de Ciência Aberta do CBSoft, contribuindo para consolidar diretrizes e boas práticas de abertura na comunidade de Engenharia de Software. Sua atuação busca aproximar a pesquisa em software dos princípios da Ciência Aberta, em consonância com as recomendações da UNESCO e os Objetivos de Desenvolvimento Sustentável (ODS) da ONU. Além disso, tem atuado na área de Forense Digital baseada em Evidência, investigando formas de promover maior abertura e rigor em experimentos controlados, bem como o fortalecimento da força probatória da evidência digital para seu uso seguro em processos criminais.
-    </p>
+    </p> -->
 
   </div>
 </div>
+
+<hr class="divisor">
+
+<div id="palestra2" class="palestra">
+ <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
+
+  <div class="palestra-content">
+    <h3>Prof. Guilherme Horta Travassos - UFRJ</h3>
+    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>-->
+
+    <h4>Título: Alguns desafios e obstáculos na Engenharia de Sistemas de Softwares Contemporâneos</h4>
+
+    <p>
+      <strong>Data:</strong> 14/Out/2025 (Quinta-Feira)<br>
+      <strong>Hora:</strong> 20:00
+    </p>
+
+   <!-- <p>
+      <strong>Bio:</strong> Edson Oliveira Junior é professor associado do Departamento de Informática da Universidade Estadual de Maringá (UEM) e pesquisador nas áreas de Engenharia de Software e Ciência Aberta. Atua no Programa de Pós-Graduação em Ciência da Computação da UEM e coordena iniciativas voltadas à reprodutibilidade, proveniência e transparência em experimentos controlados de engenharia de software. É criador e coordenador do workshop Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE), realizado junto ao Congresso Brasileiro de Software (CBSoft) em 2021 e 2022, e membro do Grupo de Trabalho em Ciência Aberta da Sociedade Brasileira de Computação (SBC). Desde 2022, é membro do Comitê Diretivo de Ciência Aberta do CBSoft, contribuindo para consolidar diretrizes e boas práticas de abertura na comunidade de Engenharia de Software. Sua atuação busca aproximar a pesquisa em software dos princípios da Ciência Aberta, em consonância com as recomendações da UNESCO e os Objetivos de Desenvolvimento Sustentável (ODS) da ONU. Além disso, tem atuado na área de Forense Digital baseada em Evidência, investigando formas de promover maior abertura e rigor em experimentos controlados, bem como o fortalecimento da força probatória da evidência digital para seu uso seguro em processos criminais.
+    </p> -->
+
+  </div>
+</div>
+
+<hr class="divisor">
+
+<div id="palestra3" class="palestra">
+ <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
+
+  <div class="palestra-content">
+    <h3>Profª.   - UEM</h3>
+    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a><br>-->
+
+    <h4>Título: Pesquisa Científica 
+Aplicada a Startups de Software</h4>
+
+    <p>
+      <strong>Data:</strong> 16/Out/2025 (Sexta-Feira)<br>
+      <strong>Hora:</strong> 20:00
+    </p>
+
+   <!-- <p>
+      <strong>Bio:</strong> Edson Oliveira Junior é professor associado do Departamento de Informática da Universidade Estadual de Maringá (UEM) e pesquisador nas áreas de Engenharia de Software e Ciência Aberta. Atua no Programa de Pós-Graduação em Ciência da Computação da UEM e coordena iniciativas voltadas à reprodutibilidade, proveniência e transparência em experimentos controlados de engenharia de software. É criador e coordenador do workshop Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE), realizado junto ao Congresso Brasileiro de Software (CBSoft) em 2021 e 2022, e membro do Grupo de Trabalho em Ciência Aberta da Sociedade Brasileira de Computação (SBC). Desde 2022, é membro do Comitê Diretivo de Ciência Aberta do CBSoft, contribuindo para consolidar diretrizes e boas práticas de abertura na comunidade de Engenharia de Software. Sua atuação busca aproximar a pesquisa em software dos princípios da Ciência Aberta, em consonância com as recomendações da UNESCO e os Objetivos de Desenvolvimento Sustentável (ODS) da ONU. Além disso, tem atuado na área de Forense Digital baseada em Evidência, investigando formas de promover maior abertura e rigor em experimentos controlados, bem como o fortalecimento da força probatória da evidência digital para seu uso seguro em processos criminais.
+    </p> -->
+
+  </div>
+</div>
+
+
+
+
+
+
+
 
 <!-- <hr class="divisor">
 
