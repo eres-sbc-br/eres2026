@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Palestras - Local: Salão Nobre Unochapecó"
+title: "Palestras - Local: A definir"
 subheadline: ""
 permalink: "/programacao/palestras/"
 header:
@@ -90,7 +90,7 @@ header:
   </div>
 </div>
 
-<hr class="divisor">
+<!-- <hr class="divisor">
 
 <div id="palestra3" class="palestra">
   <img src="{{ site.urlimg }}/palestras/raul.jpeg" alt="Prof. Raul Sidnei Wazlawick">
@@ -184,5 +184,5 @@ header:
     </p>
 
   </div>
-</div>
+</div> -->
 
