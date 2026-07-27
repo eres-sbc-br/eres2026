@@ -111,7 +111,7 @@ header:
   <section aria-labelledby="coordenacao-geral-header">
     <h2 id="coordenacao-geral-header"><strong>Coordenadores Gerais</strong></h2>
     <div class="section-container">
-      <article class="card">
+      <!--<article class="card">
         <figure>
           <img src="{{ site.urlimg }}/felipe.png" alt="Prof. Dr. Felipe André Zeiser">
           <figcaption class="card-text">
@@ -120,7 +120,7 @@ header:
             <a href="http://lattes.cnpq.br/1870564118351754" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
-      </article>
+      </article>-->
       <!-- <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/maicon.jpg" alt="Prof. Dr. Maicon Bernardino da Silveira">
@@ -136,7 +136,7 @@ header:
 
   <section aria-labelledby="organizacao-local-header">
     <h2 id="organizacao-local-header"><strong>Organização Local</strong></h2>
-    <div class="section-container">
+    <!--<div class="section-container">
       <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/ariel.gif" id="img-carla" alt="Prof. Dr. Ariel Gustavo Zuquello">
@@ -177,6 +177,6 @@ header:
           </figcaption>
         </figure>
       </article> -->
-    </div>
+    </div>-->
   </section>
 </main>
