@@ -53,7 +53,7 @@ header:
 <main class="comite-cientifico">
   <section>
     <h2>Chairs</h2>
-    <ul class="text">
+    <!-- <ul class="text">
       <li>Felipe André Zeiser - Universidade Comunitária da Região de Chapecó - felipezeiser@unochapeco.edu.br</li>
       <li>Ariel Gustavo Zuquello - Universidade Comunitária da Região de Chapecó</li>
       <li>Geomar André Schreiner - Universidade Federal da Fronteira Sul</li>
@@ -62,12 +62,12 @@ header:
       <li>Raquel Aparecida Pegoraro - Universidade Federal da Fronteira Sul</li>
       <li>Samuel da Silva Feitosa - Universidade Federal da Fronteira Sul</li>
       <li>Sandro Silva de Oliveira - Universidade Comunitária da Região de Chapecó</li>
-      <li>Viviane Duarte Bonfim - Universidade Comunitária da Região de Chapecó</li>
+      <li>Viviane Duarte Bonfim - Universidade Comunitária da Região de Chapecó</li>-->
   </section>
 
   <<section>
   <h2>Avaliadores</h2>
-  <ul class="text">
+ <!-- <ul class="text">
     <li>Adilson Luiz Bonifácio - Universidade Estadual de Londrina (UEL)</li>
     <li>Ana Paula Terra Bacelo - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)</li>
     <li>André Luís Andrade Menolli - Universidade Estadual de Londrina (UEL)</li>
@@ -126,7 +126,7 @@ header:
     <li>Sandro Silva de Oliveira - Universidade Comunitária Regional de Chapecó (UNOCHAPECÓ)</li>
     <li>Thiago Adriano Coleti - Universidade Estadual do Norte do Paraná (UENP)</li>
     <li>Victor Santander - Universidade Estadual do Oeste do Paraná (UNIOESTE)</li>
-  </ul>
+  </ul>-->
 </section>
 
   <p class="text">
