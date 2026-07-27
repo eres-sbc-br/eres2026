@@ -151,7 +151,7 @@ header:
         <li>As submissões que não estiverem finalizadas de acordo com os dados solicitados pelo JEMS e os arquivos correspondentes devidamente postados segundo as regras estabelecidas nesta chamada serão imediatamente rejeitadas;</li>
         <li>Os melhores artigos do Fórum de Graduação poderão ser convidados para submeter uma versão estendida para uma edição especial da Revista Eletrônica de Iniciação Científica em Computação (REIC) da SBC.</li>
         <li>Os melhores artigos do Fórum de Pós-Graduação poderão ser convidados para submeter uma versão estendida para o Journal of Software Engineering Research and Development (JSERD) da SBC.</li>
-        <li>Os melhores revisores receberão um certificado de “Melhor Revisor da ERES 2025” como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2026.</li>
+        <li>Os melhores revisores receberão um certificado de “Melhor Revisor da ERES 2026” como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2026.</li>
       </ul>
     </div>
   </section>
