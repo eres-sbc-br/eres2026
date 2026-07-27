@@ -121,25 +121,25 @@ header:
         <td class="time-cell">16:30 – 18:15</td>
         <!-- Quarta: mantém Sessões 3 e 9 -->
         <td class="session">
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao3">
+          <!--<a href="{{ site.baseurl }}/programacao/sessoes/#sessao3">
             Sessão Técnica 3 – IA e Aprendizado de Máquina em ES
           </a><br>
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao9">
             Sessão Técnica 9 – Arquitetura e Microsserviços
-          </a>
+          </a>-->
         </td>
         <!-- Quinta: mantém Sessões 5 e 6 -->
         <td class="session">
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao5">
+          <!--<a href="{{ site.baseurl }}/programacao/sessoes/#sessao5">
             Sessão Técnica 5 – Requisitos e Usabilidade
           </a><br>
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao6">
             Sessão Técnica 6 – Aplicações Web e Full Stack
-          </a>
+          </a>-->
         </td>
         <!-- Sexta: mantém Sessões 8 e 10; Minicurso 4 continua em paralelo -->
         <td class="session">
-          <a href="{{ site.baseurl }}/programacao/sessoes/#sessao8">
+          <!--<a href="{{ site.baseurl }}/programacao/sessoes/#sessao8">
             Sessão Técnica 8 – Aplicações em Engenharia de Software
           </a><br>
           <a href="{{ site.baseurl }}/programacao/sessoes/#sessao10">
@@ -148,7 +148,7 @@ header:
           <br><br>
           <span class="course">
             Continuação — Minicurso 4 (até 18:00) — <em>Sala: Prédio C1 – Laboratório A</em>
-          </span>
+          </span>-->
         </td>
       </tr>
 
@@ -157,7 +157,7 @@ header:
         <td class="time-cell">18:00</td>
         <td></td>
         <td></td>
-        <td class="soft-blue"><strong>Premiação do Evento</strong></td>
+        <td class="soft-blue"><!--<strong>Premiação do Evento</strong>--></td>
       </tr>
 
       <!-- Jantar / Intervalo -->
@@ -170,19 +170,19 @@ header:
       <tr>
         <td class="time-cell">19:00 – 20:00</td>
         <td class="lecture">
-          <a href="{{ site.baseurl }}/programacao/palestras/#palestra1">
+          <!--<a href="{{ site.baseurl }}/programacao/palestras/#palestra1">
             Palestra: Prof. Edson Oliveira Junior — Towards Open Software Engineering
-          </a>
+          </a>-->
         </td>
         <td class="lecture">
-          <a href="{{ site.baseurl }}/programacao/palestras/#palestra3">
+         <!-- <a href="{{ site.baseurl }}/programacao/palestras/#palestra3">
             Palestra: Prof. Raul Sidnei Wazlawick — Desenvolvimento de software Centrado no Usuário
-          </a>
+          </a>-->
         </td>
         <td class="lecture">
-          <a href="{{ site.baseurl }}/programacao/palestras/#palestra5">
+         <!-- <a href="{{ site.baseurl }}/programacao/palestras/#palestra5">
             Palestra: Prof. Graziela Simone Tonin — ES em Transição: Legados, IA e Sustentabilidade
-          </a>
+          </a>-->
         </td>
       </tr>
 
@@ -197,14 +197,14 @@ header:
         <td class="time-cell">20:30 – 21:30</td>
         <td class="lecture"></td>
         <td class="lecture">
-          <a href="{{ site.baseurl }}/programacao/palestras/#palestra6">
+         <!-- <a href="{{ site.baseurl }}/programacao/palestras/#palestra6">
             Palestra: Prof. Ana Márcia Debiasi Duarte — Aplicação da gerência de Projetos no ciclo de vida do Software
-          </a>
+          </a>-->
         </td>
         <td class="lecture">
-          <a href="{{ site.baseurl }}/programacao/palestras/#palestra4">
+          <!--<a href="{{ site.baseurl }}/programacao/palestras/#palestra4">
             Palestra: Prof. Guilherme Henrique Piasson — Do Código à Cabine: ES na Aviação
-          </a>
+          </a>-->
         </td>
       </tr>
 
@@ -212,14 +212,14 @@ header:
       <tr>
         <td class="time-cell">21:30</td>
         <td class="soft-blue">
-          Happy Hour — <strong>Sose7e</strong> (pão com linguiça)<br>
+         <!-- Happy Hour — <strong>Sose7e</strong> (pão com linguiça)<br>
           R. Itaboraí, 195 – Efapi, Chapecó – SC
-          <br><a href="{{ site.baseurl }}/programacao/happy-hour/">Detalhes</a>
+          <br><a href="{{ site.baseurl }}/programacao/happy-hour/">Detalhes</a>-->
         </td>
         <td class="soft-blue">
-          Happy Hour — <strong>Saudoso</strong> (apresente o crachá e ganhe 1 chopp)<br>
+          <!--Happy Hour — <strong>Saudoso</strong> (apresente o crachá e ganhe 1 chopp)<br>
           Av. Getúlio Dorneles Vargas, 1520N – Centro, Chapecó – SC
-          <br><a href="{{ site.baseurl }}/programacao/happy-hour/">Detalhes</a>
+          <br><a href="{{ site.baseurl }}/programacao/happy-hour/">Detalhes</a>-->
         </td>
         <td class="hard-blue">Encerramento</td>
       </tr>
