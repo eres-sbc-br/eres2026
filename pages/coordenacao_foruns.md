@@ -105,7 +105,7 @@ header:
 <main>
   <section aria-labelledby="coordenacao-graduacao-header">
     <h2 id="coordenacao-graduacao-header"><strong>Coordenação do Fórum de Graduação</strong></h2>
-    <div class="section-container">
+    <!--<div class="section-container">
       <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/samuel.gif" alt="Prof. Dr. Samuel da Silva Feitosa">
@@ -116,12 +116,12 @@ header:
           </figcaption>
         </figure>
       </article>
-    </div>
+    </div>-->
   </section>
 
   <section aria-labelledby="coordenacao-pos-graduacao-header">
     <h2 id="coordenacao-pos-graduacao-header"><strong>Coordenação do Fórum de Pós-Graduação</strong></h2>
-    <div class="section-container">
+    <!--<div class="section-container">
       <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/geomar.gif" alt="Prof. Dr. Geomar André Schreiner">
@@ -132,12 +132,12 @@ header:
           </figcaption>
         </figure>
       </article>
-    </div>
+    </div>-->
   </section>
 
   <section aria-labelledby="coordenacao-extensao-header">
     <h2 id="coordenacao-extensao-header"><strong>Coordenação do Fórum de Extensão</strong></h2>
-    <div class="section-container">
+    <!--<div class="section-container">
       <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/giancarlo.gif" id="img-andrea" alt="Prof. Dr. Giancarlo Dondoni Salton">
@@ -148,12 +148,12 @@ header:
           </figcaption>
         </figure>
       </article>
-    </div>
+    </div> -->
   </section>
 
   <section aria-labelledby="coordenacao-extensao-header">
     <h2 id="coordenacao-extensao-header"><strong>Coordenação de Minicursos</strong></h2>
-    <div class="section-container">
+    <!--<div class="section-container">
       <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/raquel.jpeg" id="img-andrea" alt="Prof. Dr. Raquel Aparecida Pegoraro">
@@ -174,6 +174,6 @@ header:
           </figcaption>
         </figure>
       </article>
-    </div>
+    </div>-->
   </section>
 </main>
