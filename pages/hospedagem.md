@@ -50,9 +50,9 @@ header:
 
 <h3>Alojamento Gratuito na X ERES</h3>
 
-<p class="text">Durante a X ERES, a UTFPR oferecerá alojamento gratuito para participantes que optarem por essa modalidade. O alojamento será organizado em espaços da própria universidade, com estrutura básica e ambiente seguro e acolhedor.</p>
+<p class="text">No momento, pedimos que aguarde novas informações sobre hospedagem</p>
 
-<p class="text">Serão disponibilizados:</p>
+<!--<p class="text">Serão disponibilizados:</p>
 
 <ul>
   <li>Colchonetes em salas adaptadas para pernoite;</li>
@@ -65,7 +65,7 @@ header:
 <p class="text">As vagas são limitadas e a inscrição antecipada é obrigatória. Garanta seu espaço preenchendo o formulário abaixo:</p>
 
 <p class="text"><a href="#" target="_blank">Inscreva-se aqui!</a></p>
-
+-->
 <h3>Hotéis em Toledo</h3>
 
 <div class="hotel-info">
