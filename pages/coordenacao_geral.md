@@ -12,7 +12,8 @@ header:
     margin-bottom: 30px;
   }
 
-  h1, h2 {
+  h1,
+  h2 {
     color: #333;
     text-align: center;
     margin: 20px 0;
@@ -38,10 +39,15 @@ header:
     margin: 10px;
     overflow: hidden;
     display: flex;
-		padding: 10px;
+    padding: 10px;
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+
+  .card figure {
+    margin: 0;
+    width: 100%;
   }
 
   .card img {
@@ -49,12 +55,14 @@ header:
     height: 175px;
     object-fit: cover;
     border-radius: 50%;
-		margin-top: 15px;
-		box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    margin-top: 15px;
+    box-shadow:
+      rgba(0, 0, 0, 0.1) 0 4px 6px -1px,
+      rgba(0, 0, 0, 0.06) 0 2px 4px -1px;
   }
 
   .card-text {
-    margin: 15px 0 -20px 0;
+    margin: 15px 0 0 0;
     padding: 10px;
     width: 100%;
     box-sizing: border-box;
@@ -66,29 +74,29 @@ header:
     }
 
     .card img {
-			margin-top: 15px;
+      margin-top: 15px;
       height: 140px;
-			width: 60%;
+      width: 60%;
     }
 
-		#img-carla {
-			width: 50%;
-		}
+    #img-carla {
+      width: 50%;
+    }
   }
 
   @media (max-width: 768px) {
     .card {
-      width: 50%;  
+      width: 50%;
     }
 
     .card img {
       height: 150px;
-			width: 70%;
+      width: 70%;
     }
 
-		#img-carla {
-			width: 55%;
-		}
+    #img-carla {
+      width: 55%;
+    }
   }
 
   @media (max-width: 600px) {
@@ -98,85 +106,146 @@ header:
 
     .card img {
       height: 150px;
-			width: 70%;
+      width: 70%;
     }
 
-		#img-carla {
-			width: auto;
-		}
+    #img-carla {
+      width: auto;
+    }
   }
 </style>
 
 <main>
+
   <section aria-labelledby="coordenacao-geral-header">
-    <h2 id="coordenacao-geral-header"><strong>Coordenadores Gerais</strong></h2>
+    <h2 id="coordenacao-geral-header">
+      <strong>Coordenadores Gerais</strong>
+    </h2>
+
     <div class="section-container">
+
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/felipe.png" alt="Prof. Dr. Luciano Anísio Garcia">
+          <img
+            src="{{ site.urlimg }}/luciano.png"
+            alt="Prof. Dr. Luciano Anísio Garcia"
+          >
+
           <figcaption class="card-text">
             <strong>Prof. Dr. Luciano Anísio Garcia</strong><br>
             IFMS<br>
-            <a href="http://lattes.cnpq.br/1870564118351754" target="_blank">Currículo Lattes</a>
+            <a
+              href="http://lattes.cnpq.br/1870564118351754"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Currículo Lattes
+            </a>
           </figcaption>
         </figure>
       </article>
-      <!-- <article class="card">
+
+      <!--
+      <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/maicon.jpg" alt="Prof. Dr. Maicon Bernardino da Silveira">
+          <img
+            src="{{ site.urlimg }}/maicon.jpg"
+            alt="Prof. Dr. Maicon Bernardino da Silveira"
+          >
+
           <figcaption class="card-text">
             <strong>Prof. Dr. Maicon Bernardino da Silveira</strong><br>
             Unipampa<br>
-            <a href="http://lattes.cnpq.br/0523166822363498" target="_blank">Currículo Lattes</a>
+            <a
+              href="http://lattes.cnpq.br/0523166822363498"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Currículo Lattes
+            </a>
           </figcaption>
         </figure>
-      </article> -->
+      </article>
+      -->
+
     </div>
   </section>
 
   <section aria-labelledby="organizacao-local-header">
-    <h2 id="organizacao-local-header"><strong>Organização Local</strong></h2>
-    <!--<div class="section-container">
+    <h2 id="organizacao-local-header">
+      <strong>Organização Local</strong>
+    </h2>
+
+    <!--
+    <div class="section-container">
+
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/ariel.gif" id="img-carla" alt="Prof. Dr. Ariel Gustavo Zuquello">
+          <img
+            src="{{ site.urlimg }}/ariel.gif"
+            id="img-carla"
+            alt="Prof. Dr. Ariel Gustavo Zuquello"
+          >
+
           <figcaption class="card-text">
             <strong>Prof. Dr. Ariel Gustavo Zuquello</strong><br>
             Unochapecó<br>
-            <a href="http://lattes.cnpq.br/7843368686233904" target="_blank">Currículo Lattes</a>
+            <a
+              href="http://lattes.cnpq.br/7843368686233904"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Currículo Lattes
+            </a>
           </figcaption>
         </figure>
       </article>
+
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/sandro.png" alt="Prof. Dr. Sandro Silva de Oliveira">
+          <img
+            src="{{ site.urlimg }}/sandro.png"
+            alt="Prof. Dr. Sandro Silva de Oliveira"
+          >
+
           <figcaption class="card-text">
             <strong>Prof. Dr. Sandro Silva de Oliveira</strong><br>
             Unochapecó<br>
-            <a href="http://lattes.cnpq.br/6991730404441875" target="_blank">Currículo Lattes</a>
+            <a
+              href="http://lattes.cnpq.br/6991730404441875"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Currículo Lattes
+            </a>
           </figcaption>
         </figure>
       </article>
+
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/toniazzo.jpeg" alt="Prof. Me. José Carlos Toniazzo">
+          <img
+            src="{{ site.urlimg }}/toniazzo.jpeg"
+            alt="Prof. Me. José Carlos Toniazzo"
+          >
+
           <figcaption class="card-text">
             <strong>Prof. Me. José Carlos Toniazzo</strong><br>
             Unochapecó<br>
-            <a href="http://lattes.cnpq.br/4574020926166787" target="_blank">Currículo Lattes</a>
+            <a
+              href="http://lattes.cnpq.br/4574020926166787"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Currículo Lattes
+            </a>
           </figcaption>
         </figure>
       </article>
-      <!-- <article class="card">
-        <figure>
-          <img src="{{ site.urlimg }}/prof_leonardo.jpg" alt="Prof. Me. Leonardo Lima Carvalho">
-          <figcaption class="card-text">
-            <strong>Prof. Me. Leonardo Lima Carvalho</strong><br>
-            URI Santiago<br>
-            <a href="http://lattes.cnpq.br/4149281529137286" target="_blank">Currículo Lattes</a>
-          </figcaption>
-        </figure>
-      </article> -->
-    </div>-->
+
+    </div>
+    -->
+
   </section>
+
 </main>
