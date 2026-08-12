@@ -127,7 +127,7 @@ header:
       <article class="card">
         <figure>
           <img
-            src="{{ site.urlimg }}/luciano.png"
+            src="{{ site.urlimg }}/luciano.jpeg"
             alt="Prof. Dr. Luciano Anísio Garcia"
           >
 
