@@ -16,7 +16,7 @@ header:
 
   .programacao-table {
     width: 100%;
-    min-width: 850px;
+    min-width: 1100px;
     border-collapse: collapse;
     table-layout: fixed;
   }
@@ -26,14 +26,16 @@ header:
     border: 1px solid #d1d1d1;
     padding: 8px;
     text-align: left;
-    vertical-align: top;
+    vertical-align: middle;
     box-sizing: border-box;
   }
 
   .programacao-table th {
     text-align: center;
+    font-weight: bold;
   }
 
+  /* Coluna de horário */
   .programacao-table .time-cell {
     width: 130px;
     background-color: #f0f0f0;
@@ -42,34 +44,56 @@ header:
     white-space: nowrap;
   }
 
+  /* Coluna de observações */
+  .programacao-table .observation {
+    width: 260px;
+    background-color: #fafafa;
+  }
+
+  /* Linhas gerais */
   .programacao-table .full-row {
     text-align: center;
     font-weight: bold;
     background-color: #f5f5f5;
   }
 
+  /* Minicursos */
   .programacao-table .course {
     background-color: #e6f7e6;
   }
 
+  /* Sessões técnicas */
   .programacao-table .session {
     background-color: #fff9e6;
   }
 
+  /* Palestras */
   .programacao-table .lecture {
     background-color: #fbeaea;
   }
 
-  .programacao-table .hard-blue {
-    background-color: #e6ecf7;
-    text-align: center;
-    font-weight: bold;
-  }
-
+  /* Eventos especiais */
   .programacao-table .soft-blue {
     background-color: #f2f7ff;
   }
 
+  .programacao-table .hard-blue {
+    background-color: #1f6d8c;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  .programacao-table .hard-green {
+    background-color: #00a651;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  /* Cabeçalhos dos dias */
   .programacao-table .header-green {
     background-color: #e6f3e6;
   }
@@ -82,6 +106,11 @@ header:
     background-color: #f7e6e6;
   }
 
+  /* Destaques */
+  .programacao-table strong {
+    font-weight: bold;
+  }
+
   @media screen and (max-width: 900px) {
     .programacao-table th,
     .programacao-table td {
@@ -92,218 +121,279 @@ header:
 </style>
 
 <main class="programacao-page">
+
   <div class="programacao-wrapper">
 
     <table class="programacao-table">
+
       <thead>
         <tr>
-          <th class="time-cell">Hora</th>
-          <th class="header-green">Quarta-feira<br>14/10</th>
-          <th class="header-purple">Quinta-feira<br>15/10</th>
-          <th class="header-red">Sexta-feira<br>16/10</th>
+          <th class="time-cell">Horário</th>
+          <th class="header-green">14/10</th>
+          <th class="header-purple">15/10</th>
+          <th class="header-red">16/10</th>
+          <th class="observation">Observação</th>
         </tr>
       </thead>
 
       <tbody>
 
-        <!-- Manhã -->
+        <!-- ========================================================= -->
+        <!-- MINICURSOS -->
+        <!-- ========================================================= -->
+
         <tr>
           <td class="time-cell">08:00 – 12:00</td>
 
           <td class="course">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso1">
-              Minicurso 1
-            </a>
-            -->
+            <strong>Minicurso I</strong> - Uso do LaTeX na escrita de trabalhos acadêmicos
           </td>
 
           <td class="course">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso2">
-              Minicurso 2
-            </a>
-            -->
+            <strong>Minicurso II</strong> - a definir
           </td>
 
           <td class="course">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/minicursos/#minicurso3">
-              Minicurso 3
-            </a>
-            -->
+            <strong>Minicurso III</strong> - a definir
+          </td>
+
+          <td class="observation">
+            Minicursos ainda são provisórios
           </td>
         </tr>
 
-        <!-- Almoço -->
+
+        <!-- ========================================================= -->
+        <!-- SESSÕES TÉCNICAS -->
+        <!-- ========================================================= -->
+
         <tr>
-          <td class="time-cell">12:00 – 13:30</td>
-          <td colspan="3" class="full-row">Almoço</td>
+          <td class="time-cell">14:00 – 18:00</td>
+
+          <td class="session">
+            <strong>Sessão Técnica I</strong> - Trabalhos aceitos
+          </td>
+
+          <td class="session">
+            <strong>Sessão Técnica II</strong> - Trabalhos aceitos
+          </td>
+
+          <td class="session">
+            <strong>Sessão Técnica III</strong> - Trabalhos aceitos
+          </td>
+
+          <td class="observation"></td>
         </tr>
 
-        <!-- Abertura -->
+
+        <!-- ========================================================= -->
+        <!-- CREDENCIAMENTO -->
+        <!-- ========================================================= -->
+
         <tr>
-          <td class="time-cell">13:30 – 14:00</td>
+          <td class="time-cell">19:00 – 19:30</td>
 
           <td class="soft-blue">
-            <strong>Abertura do Evento</strong>
+            <strong>Coffee break / Credenciamento</strong>
           </td>
 
           <td></td>
+
           <td></td>
+
+          <td class="observation"></td>
         </tr>
 
-        <!-- Início da tarde -->
+
+        <!-- ========================================================= -->
+        <!-- ABERTURA / COFFEE BREAK -->
+        <!-- ========================================================= -->
+
         <tr>
-          <td class="time-cell">14:00 – 16:00</td>
-
-          <td class="session">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/sessoes/#sessao1">
-              Sessão Técnica 1
-            </a>
-            -->
-          </td>
-
-          <td class="session">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/sessoes/#sessao4">
-              Sessão Técnica 4
-            </a>
-            -->
-          </td>
-
-          <td class="session">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/sessoes/#sessao7">
-              Sessão Técnica 7
-            </a>
-            -->
-          </td>
-        </tr>
-
-        <!-- Coffee-break -->
-        <tr>
-          <td class="time-cell">16:00 – 16:30</td>
-          <td colspan="3" class="full-row">Coffee-break</td>
-        </tr>
-
-        <!-- Final da tarde -->
-        <tr>
-          <td class="time-cell">16:30 – 18:15</td>
-
-          <td class="session">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/sessoes/#sessao3">
-              Sessão Técnica 3
-            </a>
-            -->
-          </td>
-
-          <td class="session">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/sessoes/#sessao5">
-              Sessão Técnica 5
-            </a>
-            -->
-          </td>
-
-          <td class="session">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/sessoes/#sessao8">
-              Sessão Técnica 8
-            </a>
-            -->
-          </td>
-        </tr>
-
-        <!-- Premiação -->
-        <tr>
-          <td class="time-cell">18:00</td>
-          <td></td>
-          <td></td>
+          <td class="time-cell">19:30 – 20:00</td>
 
           <td class="soft-blue">
-            <!--
-            <strong>Premiação do Evento</strong>
-            -->
+            <strong>Abertura Oficial da ERES 2026</strong>
           </td>
+
+          <td class="full-row">
+            Coffee Break
+          </td>
+
+          <td class="full-row">
+            Coffee Break
+          </td>
+
+          <td class="observation"></td>
         </tr>
 
-        <!-- Intervalo -->
+
+        <!-- ========================================================= -->
+        <!-- PALESTRAS -->
+        <!-- ========================================================= -->
+
         <tr>
-          <td class="time-cell">18:15 – 19:00</td>
-          <td colspan="3" class="full-row">Intervalo</td>
+          <td class="time-cell">20:10 – 21:10</td>
+
+          <td class="lecture">
+            <strong>Palestra I</strong> - Gestão da Transparência de Dados Pessoais
+            e relacionamento com User Experience.<br><br>
+
+            <strong>Prof. Dr. Morandini - USP</strong>
+          </td>
+
+          <td class="lecture">
+            <strong>Palestra II</strong> - Alguns desafios e obstáculos na Engenharia
+            de Sistemas de Softwares Contemporâneos.<br><br>
+
+            <strong>Prof. Dr. Guilherme Horta Travassos - UFRJ</strong>
+          </td>
+
+          <td class="lecture">
+            <strong>Palestra III</strong> - Pesquisa Científica Aplicada a Startups
+            de Software.<br><br>
+
+            <strong>Prof(a). Dra. Gislane Camila Lapasini Leal - UEM</strong>
+          </td>
+
+          <td class="observation">
+            Os títulos e temas das palestras ainda são provisórios
+          </td>
         </tr>
 
-        <!-- Palestras -->
+
+        <!-- ========================================================= -->
+        <!-- PERGUNTAS -->
+        <!-- ========================================================= -->
+
         <tr>
-          <td class="time-cell">19:00 – 20:00</td>
+          <td class="time-cell">21:10 – 21:20</td>
 
-          <td class="lecture">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/palestras/#palestra1">
-              Palestra 1
-            </a>
-            -->
+          <td class="soft-blue">
+            <strong>Abertura para dúvidas / Perguntas</strong>
           </td>
 
-          <td class="lecture">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/palestras/#palestra3">
-              Palestra 3
-            </a>
-            -->
+          <td class="soft-blue">
+            <strong>Abertura para dúvidas / Perguntas</strong>
           </td>
 
-          <td class="lecture">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/palestras/#palestra5">
-              Palestra 5
-            </a>
-            -->
+          <td class="soft-blue">
+            <strong>Abertura para dúvidas / Perguntas</strong>
           </td>
+
+          <td class="observation"></td>
         </tr>
 
-        <!-- Coffee-break -->
-        <tr>
-          <td class="time-cell">20:00 – 20:30</td>
-          <td colspan="3" class="full-row">Coffee-break</td>
-        </tr>
 
-        <!-- Últimas palestras -->
-        <tr>
-          <td class="time-cell">20:30 – 21:30</td>
+        <!-- ========================================================= -->
+        <!-- ENCERRAMENTO -->
+        <!-- ========================================================= -->
 
-          <td class="lecture"></td>
-
-          <td class="lecture">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/palestras/#palestra6">
-              Palestra 6
-            </a>
-            -->
-          </td>
-
-          <td class="lecture">
-            <!--
-            <a href="{{ site.baseurl }}/programacao/palestras/#palestra4">
-              Palestra 4
-            </a>
-            -->
-          </td>
-        </tr>
-
-        <!-- Encerramento -->
         <tr>
           <td class="time-cell">21:30</td>
-          <td class="soft-blue"></td>
-          <td class="soft-blue"></td>
-          <td class="hard-blue">Encerramento</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="soft-blue">
+            <strong>Encerramento / Premiações / Jantar</strong>
+          </td>
+
+          <td class="observation">
+            O jantar será por adesão, com local e valor a serem definidos
+          </td>
+        </tr>
+
+
+        <!-- ========================================================= -->
+        <!-- WRMES -->
+        <!-- ========================================================= -->
+
+        <tr>
+          <td colspan="5" class="hard-blue">
+            1º WRMES
+          </td>
+        </tr>
+
+
+        <!-- WRMES MANHÃ -->
+
+        <tr>
+          <td class="time-cell">08:00 – 12:00</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="soft-blue">
+            <strong>
+              1º Workshop Regional de Mulheres em Engenharia de Software
+            </strong>
+            <br>
+            (WRMES)
+          </td>
+
+          <td class="observation">
+            Programação a ser definida pela organização do Workshop
+          </td>
+        </tr>
+
+
+        <!-- ALMOÇO WRMES -->
+
+        <tr>
+          <td class="time-cell">12:00 – 14:00</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="full-row">
+            Almoço
+          </td>
+
+          <td class="observation"></td>
+        </tr>
+
+
+        <!-- WRMES TARDE -->
+
+        <tr>
+          <td class="time-cell">14:00 – 18:00</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="soft-blue">
+            <strong>
+              1º Workshop Regional de Mulheres em Engenharia de Software
+            </strong>
+            <br>
+            (WRMES)
+          </td>
+
+          <td class="observation">
+            Programação a ser definida pela organização do Workshop
+          </td>
+        </tr>
+
+
+        <!-- ========================================================= -->
+        <!-- VISITAS TÉCNICAS -->
+        <!-- ========================================================= -->
+
+        <tr>
+          <td colspan="5" class="hard-green">
+            Visitas Técnicas
+          </td>
         </tr>
 
       </tbody>
+
     </table>
 
   </div>
+
 </main>
