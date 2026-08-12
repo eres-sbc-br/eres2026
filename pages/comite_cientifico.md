@@ -56,8 +56,8 @@ header:
     <h2>Chairs</h2>
 
     <ul class="text">
-      <li>Ildevana Poltronieri Rodrigues - Universidade Federal do Pampa (UNIPAMPA)</li>
       <li>Francisco Carlos Monteiro Souza - Universidade Tecnológica Federal do Paraná (UTFPR)</li>
+      <li>Ildevana Poltronieri Rodrigues - Universidade Federal do Pampa (UNIPAMPA)</li>
     </ul>
   </section>
 
