@@ -111,16 +111,16 @@ header:
   <section aria-labelledby="coordenacao-geral-header">
     <h2 id="coordenacao-geral-header"><strong>Coordenadores Gerais</strong></h2>
     <div class="section-container">
-      <!--<article class="card">
+      <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/felipe.png" alt="Prof. Dr. Felipe André Zeiser">
+          <img src="{{ site.urlimg }}/felipe.png" alt="Prof. Dr. Luciano Anísio Garcia">
           <figcaption class="card-text">
-            <strong>Prof. Dr. Felipe André Zeiser</strong><br>
-            Unochapecó<br>
+            <strong>Prof. Dr. Luciano Anísio Garcia</strong><br>
+            IFMS<br>
             <a href="http://lattes.cnpq.br/1870564118351754" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
-      </article>-->
+      </article>
       <!-- <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/maicon.jpg" alt="Prof. Dr. Maicon Bernardino da Silveira">
