@@ -64,7 +64,7 @@ header:
       <li>Sandro Silva de Oliveira - Universidade Comunitária da Região de Chapecó</li>
       <li>Viviane Duarte Bonfim - Universidade Comunitária da Região de Chapecó</li>-->
   </section>
-
+-->
   <<section>
   <h2>Avaliadores</h2>
  <ul class="text">
