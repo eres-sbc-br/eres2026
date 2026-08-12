@@ -67,7 +67,7 @@ header:
 
   <<section>
   <h2>Avaliadores</h2>
- <!-- <ul class="text">
+ <ul class="text">
     <li>Adilson Luiz Bonifácio - Universidade Estadual de Londrina (UEL)</li>
     <li>Ana Paula Terra Bacelo - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)</li>
     <li>André Luís Andrade Menolli - Universidade Estadual de Londrina (UEL)</li>
@@ -126,7 +126,7 @@ header:
     <li>Sandro Silva de Oliveira - Universidade Comunitária Regional de Chapecó (UNOCHAPECÓ)</li>
     <li>Thiago Adriano Coleti - Universidade Estadual do Norte do Paraná (UENP)</li>
     <li>Victor Santander - Universidade Estadual do Oeste do Paraná (UNIOESTE)</li>
-  </ul>-->
+  </ul>
 </section>
 
   <p class="text">
