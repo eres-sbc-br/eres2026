@@ -48,7 +48,7 @@ header:
   }
 </style>
 
-<h3>Alojamento Gratuito na X ERES</h3>
+<!-- <h3>Alojamento Gratuito na X ERES</h3>
 
 <p class="text">Durante a X ERES, a UTFPR oferecerá alojamento gratuito para participantes que optarem por essa modalidade. O alojamento será organizado em espaços da própria universidade, com estrutura básica e ambiente seguro e acolhedor.</p>
 
@@ -58,7 +58,7 @@ header:
   <li>Colchonetes em salas adaptadas para pernoite;</li>
   <li>Banheiros com chuveiros masculinos e femininos;</li>
   <li>Ambientes limpos e bem ventilados.</li>
-</ul>
+</ul> -->
 
 <p class="text">Recomendamos que cada participante traga seus próprios itens de cama e banho, como travesseiro, lençol, cobertor e toalha.</p>
 
