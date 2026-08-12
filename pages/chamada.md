@@ -98,8 +98,8 @@ header:
   <section class="important-dates">
     <h3>Datas Importantes</h3>
     <ul>
-      <li>Submissão de artigos:  10 de Agosto de 2026 <!--<span style="color: red">06 de Setembro de 2026 hard deadline</span>--></li>
-      <li>Notificação aos autores:  21 de Setembro de 2026 - 22 de Setembro de 2026<!--<span style="color: red">25 de Setembro de 2026</span>--></li>
+      <li>Submissão de artigos:  de 10 de Agosto de 2026 até <span style="color: red">06 de Setembro de 2026</span></li>
+      <li>Notificação aos autores:  21 de Setembro de 2026 <!--<span style="color: red">25 de Setembro de 2026</span>--></li>
       <li>Envio da versão final: 02 de Outubro de 2026</li>
     </ul>
   </section>
