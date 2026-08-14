@@ -108,11 +108,11 @@ header:
     <!--<div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/samuel.gif" alt="Prof. Dr. Samuel da Silva Feitosa">
+          <img src="{{ site.urlimg }}/susan.gif" alt="Prof. Dra. Suzan Kelly Borges Piovesan">
           <figcaption class="card-text">
-            <strong>Prof. Dr. Samuel da Silva Feitosa</strong><br>
-            UFFS<br>
-            <a href="http://lattes.cnpq.br/1075888485122711">Currículo Lattes</a>
+            <strong>Prof. Dra. Suzan Kelly Borges Piovesan</strong><br>
+            UTFPR<br>
+            <a href="http://lattes.cnpq.br/4373225816434776">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
@@ -121,18 +121,18 @@ header:
 
   <section aria-labelledby="coordenacao-pos-graduacao-header">
     <h2 id="coordenacao-pos-graduacao-header"><strong>Coordenação do Fórum de Pós-Graduação</strong></h2>
-    <!--<div class="section-container">
+    <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/geomar.gif" alt="Prof. Dr. Geomar André Schreiner">
+          <img src="{{ site.urlimg }}/francisco.jpeg" alt="Prof. Dr. Francisco Carlos Monteiro Souza">
           <figcaption class="card-text">
-            <strong>Prof. Dr. Geomar André Schreiner</strong><br>
-            UFFS<br>
+            <strong>Prof. Dr. Francisco Carlos Monteiro Souza</strong><br>
+            UTFPR<br>
             <a href="http://lattes.cnpq.br/0776438722468291">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
-    </div>-->
+    </div>
   </section>
 
   <section aria-labelledby="coordenacao-extensao-header">
@@ -153,18 +153,18 @@ header:
 
   <section aria-labelledby="coordenacao-extensao-header">
     <h2 id="coordenacao-extensao-header"><strong>Coordenação de Minicursos</strong></h2>
-    <!--<div class="section-container">
+    <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/raquel.jpeg" id="img-andrea" alt="Prof. Dr. Raquel Aparecida Pegoraro">
+          <img src="{{ site.urlimg }}/idelvana.jpeg" id="img-andrea" alt="Prof. Dra. Ildevana Poltronieri Rodrigues">
           <figcaption class="card-text">
-            <strong>Prof. Dr. Raquel Aparecida Pegoraro</strong><br>
-            UFFS<br>
-            <a href="http://lattes.cnpq.br/0324997284160193">Currículo Lattes</a>
+            <strong>Prof. Dra. Ildevana Poltronieri Rodrigues</strong><br>
+            UNIPAMPA<br>
+            <a href="http://lattes.cnpq.br/5098610365503971">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
-      <article class="card">
+      <!--<article class="card">
         <figure>
           <img src="{{ site.urlimg }}/viviane.gif" id="img-andrea" alt="Prof. Me. Viviane Duarte Bonfim">
           <figcaption class="card-text">
@@ -173,7 +173,7 @@ header:
             <a href="http://lattes.cnpq.br/9462026915388551">Currículo Lattes</a>
           </figcaption>
         </figure>
-      </article>
-    </div>-->
+      </article>-->
+    </div>
   </section>
 </main>
