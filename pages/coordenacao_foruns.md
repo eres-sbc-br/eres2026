@@ -105,7 +105,7 @@ header:
 <main>
   <section aria-labelledby="coordenacao-graduacao-header">
     <h2 id="coordenacao-graduacao-header"><strong>Coordenação do Fórum de Graduação</strong></h2>
-    <!--<div class="section-container">
+    <div class="section-container">
       <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/susan.gif" alt="Prof. Dra. Suzan Kelly Borges Piovesan">
@@ -116,7 +116,7 @@ header:
           </figcaption>
         </figure>
       </article>
-    </div>-->
+    </div>
   </section>
 
   <section aria-labelledby="coordenacao-pos-graduacao-header">
@@ -137,22 +137,6 @@ header:
 
   <section aria-labelledby="coordenacao-extensao-header">
     <h2 id="coordenacao-extensao-header"><strong>Coordenação do Fórum de Extensão</strong></h2>
-    <!--<div class="section-container">
-      <article class="card">
-        <figure>
-          <img src="{{ site.urlimg }}/giancarlo.gif" id="img-andrea" alt="Prof. Dr. Giancarlo Dondoni Salton">
-          <figcaption class="card-text">
-            <strong>Prof. Dr. Giancarlo Dondoni Salton</strong><br>
-            UFFS<br>
-            <a href="http://lattes.cnpq.br/0020195775211530">Currículo Lattes</a>
-          </figcaption>
-        </figure>
-      </article>
-    </div> -->
-  </section>
-
-  <section aria-labelledby="coordenacao-extensao-header">
-    <h2 id="coordenacao-extensao-header"><strong>Coordenação de Minicursos</strong></h2>
     <div class="section-container">
       <article class="card">
         <figure>
@@ -164,7 +148,23 @@ header:
           </figcaption>
         </figure>
       </article>
+    </div> 
+  </section>
+
+  <section aria-labelledby="coordenacao-extensao-header">
+    <h2 id="coordenacao-extensao-header"><strong>Coordenação de Minicursos</strong></h2>
+    <div class="section-container">
       <!--<article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/idelvana.jpeg" id="img-andrea" alt="Prof. Dra. Ildevana Poltronieri Rodrigues">
+          <figcaption class="card-text">
+            <strong>Prof. Dra. Ildevana Poltronieri Rodrigues</strong><br>
+            UNIPAMPA<br>
+            <a href="http://lattes.cnpq.br/5098610365503971">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
+      <article class="card">
         <figure>
           <img src="{{ site.urlimg }}/viviane.gif" id="img-andrea" alt="Prof. Me. Viviane Duarte Bonfim">
           <figcaption class="card-text">
