@@ -108,7 +108,7 @@ header:
     <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/susan.gif" alt="Prof. Dra. Suzan Kelly Borges Piovesan">
+          <img src="{{ site.urlimg }}/suzan.jpeg" alt="Prof. Dra. Suzan Kelly Borges Piovesan">
           <figcaption class="card-text">
             <strong>Prof. Dra. Suzan Kelly Borges Piovesan</strong><br>
             UTFPR<br>
