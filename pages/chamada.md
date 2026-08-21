@@ -188,6 +188,7 @@ header:
         <li>Educação e Treinamento em Engenharia de Software</li>
         <li>Práticas de Ciência Aberta para Engenharia de Software</li>
         <li>Extensão na Engenharia de Software</li>
+        <li>Mulheres na Engenharia de Software</li>
     </ul>
   </section>
 
