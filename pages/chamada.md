@@ -99,7 +99,7 @@ header:
     <h3>Datas Importantes</h3>
     <ul>
       <li>Submissão de artigos:  de 10 de Agosto de 2026 até <span style="color: red">14 de Setembro de 2026</span></li>
-      <li>Notificação aos autores:  21 de Setembro de 2026 <!--<span style="color: red">01 de Outubro de 2026</span>--></li>
+      <li>Notificação aos autores:  01 de Outubro de 2026 <!--<span style="color: red">01 de Outubro de 2026</span>--></li>
       <li>Envio da versão final: 08 de Outubro de 2026</li>
     </ul>
   </section>
