@@ -98,9 +98,9 @@ header:
   <section class="important-dates">
     <h3>Datas Importantes</h3>
     <ul>
-      <li>Submissão de artigos:  de 10 de Agosto de 2026 até <span style="color: red">06 de Setembro de 2026</span></li>
-      <li>Notificação aos autores:  21 de Setembro de 2026 <!--<span style="color: red">25 de Setembro de 2026</span>--></li>
-      <li>Envio da versão final: 02 de Outubro de 2026</li>
+      <li>Submissão de artigos: até <span style="color: red">14 de setembro de 2026, às 23h55 (horário de Brasília)</span></li>
+      <li>Notificação aos autores: 1º de outubro de 2026</li>
+      <li>Envio da versão final: 8 de outubro de 2026</li>
     </ul>
   </section>
 
@@ -141,7 +141,7 @@ header:
     <p class="text">
       Independentemente da trilha de submissão, é exigido que pelo menos 1 (um) dos autores de cada artigo aceito se inscreva e apresente o trabalho no evento para que seja incluído nos anais. 
     </p>
-    <p class="submission-link">Link para submissão: <a href="#">Submeta seu trabalho aqui</a></p>
+    <p class="submission-link">Link para submissão: <a href="https://jems3.sbc.org.br/eres2025" target="_blank">Submeta seu trabalho aqui</a></p>
   </section>
 
   <section class="text"> 

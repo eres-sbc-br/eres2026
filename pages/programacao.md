@@ -307,20 +307,20 @@ header:
 
 
         <!-- ========================================================= -->
-        <!-- WRMES -->
+        <!-- WOMENS -->
         <!-- ========================================================= -->
 
         <tr>
           <td colspan="5" class="hard-blue">
-            1º WRMES
+            1º WOMENS
           </td>
         </tr>
 
 
-        <!-- WRMES MANHÃ -->
+        <!-- WOMENS MANHÃ -->
 
         <tr>
-          <td class="time-cell">08:00 – 12:00</td>
+          <td class="time-cell">Manhã</td>
 
           <td></td>
 
@@ -328,22 +328,22 @@ header:
 
           <td class="soft-blue">
             <strong>
-              1º Workshop Regional de Mulheres em Engenharia de Software
+              Oficina Gurias of Code
             </strong>
             <br>
-            (WRMES)
+            (WOMENS)
           </td>
 
           <td class="observation">
-            Programação a ser definida pela organização do Workshop
+            Atividade extensionista destinada a estudantes do ensino médio de escolas de Toledo. Informações sobre inscrições, escolas participantes e vagas serão divulgadas posteriormente.
           </td>
         </tr>
 
 
-        <!-- ALMOÇO WRMES -->
+        <!-- ALMOÇO WOMENS -->
 
         <tr>
-          <td class="time-cell">12:00 – 14:00</td>
+          <td class="time-cell">Almoço</td>
 
           <td></td>
 
@@ -357,10 +357,10 @@ header:
         </tr>
 
 
-        <!-- WRMES TARDE -->
+        <!-- WOMENS TARDE -->
 
         <tr>
-          <td class="time-cell">14:00 – 18:00</td>
+          <td class="time-cell">Tarde</td>
 
           <td></td>
 
@@ -368,14 +368,37 @@ header:
 
           <td class="soft-blue">
             <strong>
-              1º Workshop Regional de Mulheres em Engenharia de Software
+              Fórum de Mulheres em Engenharia de Software
             </strong>
             <br>
-            (WRMES)
+            (WOMENS)
           </td>
 
           <td class="observation">
-            Programação a ser definida pela organização do Workshop
+            Painel/mesa-redonda com convidadas de diferentes trajetórias acadêmicas e profissionais.
+          </td>
+        </tr>
+
+
+        <!-- WOMENS NOITE -->
+
+        <tr>
+          <td class="time-cell">Noite</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="soft-blue">
+            <strong>
+              Palestra
+            </strong>
+            <br>
+            (WOMENS)
+          </td>
+
+          <td class="observation">
+            Programação a ser divulgada posteriormente pela organização do Workshop.
           </td>
         </tr>
 
