@@ -73,14 +73,14 @@ header:
  <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
 
   <div class="palestra-content">
-    <h3>Prof. Morandini - USP</h3>
+    <h3>Prof. Marcelo Morandini - USP</h3>
     <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
 
-    <h4>Título: Gestão da Transparência de Dados Pessoais e relacionamento com  User Experience</h4>
+    <h4>Título: Interação Humanos Dados e Transparência de Dados Pessoais: características e perspectivas</h4>
 
     <p>
-      <strong>Data:</strong> 14/Out/2025 (Quarta-Feira)<br>
-      <strong>Hora:</strong> 20:00
+      <strong>Data:</strong> 15/Out/2025 (Quarta-Feira)<br>
+      <strong>Hora:</strong> 19:30
     </p>
 
    <!-- <p>
