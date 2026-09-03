@@ -74,7 +74,7 @@ header:
 </style>
 
 <h3>Link para inscrição: </h3>
-<a href="#" target="_blank">Inscreva-se aqui!</a>
+<a href="https://centraldesistemas.sbc.org.br/ecos/eres2026" target="_blank">Inscreva-se aqui!</a>
 <p class="text"></p>
 
 <h3>Inscrição promocional</h3>
