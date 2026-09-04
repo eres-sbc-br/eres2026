@@ -194,9 +194,9 @@ header:
     </ul>
   </section>
 
-  <section class="text">
+  <!--<section class="text">
   <h2>Organização</h2>
-  <!--<ul>
+  <ul>
     <li><strong>Coordenação Geral:</strong>
       <ul>
         <li>Prof. Dr. Felipe André Zeiser – Unochapecó</li>
@@ -223,7 +223,7 @@ header:
         <li>Prof. Dr. Raquel Aparecida Pegoraro – UFFS</li>
       </ul>
     </li>
-  </ul>-->
-</section>
+  </ul>
+</section>-->
 
 </main>
