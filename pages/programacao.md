@@ -320,7 +320,7 @@ header:
         <!-- WOMENS MANHÃ -->
 
         <tr>
-          <td class="time-cell">Manhã</td>
+          <td class="time-cell">Manhã e Tarde</td>
 
           <td></td>
 

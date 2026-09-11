@@ -89,7 +89,7 @@ header:
   <section class="womens-dates">
     <h2>Datas Importantes</h2>
     <ul>
-      <li>Oficina Gurias of Code: 16/10/2026 (manhã)</li>
+      <li>Oficina Gurias of Code: 16/10/2026 (manhã e tarde)</li>
       <li>Fórum: 16/10/2026 (tarde)</li>
       <li>Palestra: 16/10/2026 (noite)</li>
     </ul>
@@ -102,7 +102,7 @@ header:
     <h3>Coordenação Local</h3>
     <p>
       Profa. Dra. Gislaine Camila Lapasini Leal – Universidade Estadual de Maringá<br>
-      Profa. Dra. Sheila dos Santos Reinehr – Pontifícia Universidade Católica do Paraná
+      Suzan Kelly Borges Piovesan – Universidade Tecnológica Federal do Paraná (UTFPR)
     </p>
   </section>
 
