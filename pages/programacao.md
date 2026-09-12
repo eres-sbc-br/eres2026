@@ -250,9 +250,7 @@ header:
           </td>
 
           <td class="lecture">
-            <strong>Palestra III</strong> - Pesquisa Científica Aplicada a Startups
-            de Software.<br><br>
-
+            <strong>Palestra III</strong> - Da Construção à Escala: Como a Engenharia de Software pode Apoiar sua Startup.<br><br>
             <strong>Prof(a). Dra. Gislane Camila Lapasini Leal - UEM</strong>
           </td>
 
