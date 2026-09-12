@@ -119,11 +119,10 @@ header:
  <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
 
   <div class="palestra-content">
-    <h3>Profª.   - UEM</h3>
+    <h3>Profª. Dra Gislane Camila Lapasini Leal - UEM</h3>
     <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
 
-    <h4>Título: Pesquisa Científica 
-Aplicada a Startups de Software</h4>
+    <h4>Título: Da Construção à Escala: Como a Engenharia de Software pode Apoiar sua Startup.</h4>
 
     <p>
       <strong>Data:</strong> 16/Out/2025 (Sexta-Feira)<br>
