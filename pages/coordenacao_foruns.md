@@ -116,6 +116,13 @@ header:
           </figcaption>
         </figure>
       </article>
+      <article class="card">
+        <figure>
+          <figcaption class="card-text">
+            <strong>Rosane Passarini</strong>
+          </figcaption>
+        </figure>
+      </article>
     </div>
   </section>
 
