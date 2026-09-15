@@ -236,10 +236,9 @@ header:
           <td class="time-cell">20:10 – 21:10</td>
 
           <td class="lecture">
-            <strong>Palestra I</strong> - Gestão da Transparência de Dados Pessoais
-            e relacionamento com User Experience.<br><br>
+            <strong>Palestra I</strong> - Avaliação de interface no processo de desenvolvimento de software.<br><br>
 
-            <strong>Prof. Dr. Morandini - USP</strong>
+            <strong>Prof. Dr. Clodis Boscarioli - UNIOESTE</strong>
           </td>
 
           <td class="lecture">
