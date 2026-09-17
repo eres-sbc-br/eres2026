@@ -96,10 +96,10 @@ header:
  <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
 
   <div class="palestra-content">
-    <h3>Prof. Guilherme Horta Travassos - UFRJ</h3>
+    <h3>Prof. Dr. Sidgley Camargo de Andrade - UTFPR</h3>
     <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
 
-    <h4>Título: Alguns desafios e obstáculos na Engenharia de Sistemas de Softwares Contemporâneos</h4>
+    <h4>Título: Mineração de dados em redes sociais e aplicações</h4>
 
     <p>
       <strong>Data:</strong> 14/Out/2025 (Quinta-Feira)<br>
