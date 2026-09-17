@@ -242,10 +242,9 @@ header:
           </td>
 
           <td class="lecture">
-            <strong>Palestra II</strong> - Alguns desafios e obstáculos na Engenharia
-            de Sistemas de Softwares Contemporâneos.<br><br>
+            <strong>Palestra II</strong> - Mineração de dados em redes sociais e aplicações.<br><br>
 
-            <strong>Prof. Dr. Guilherme Horta Travassos - UFRJ</strong>
+            <strong>Prof. Dr. Sidgley Camargo de Andrade - UTFPR</strong>
           </td>
 
           <td class="lecture">
