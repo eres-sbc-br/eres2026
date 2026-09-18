@@ -151,6 +151,7 @@ header:
 
           <td class="course">
             <strong>Minicurso II</strong> - a definir
+            <strong>Visita técnica - Biopark</strong> (saída 8h30)
           </td>
 
           <td class="course">
