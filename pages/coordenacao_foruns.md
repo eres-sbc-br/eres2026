@@ -108,21 +108,11 @@ header:
     <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/suzan.jpeg" alt="Prof. Dra. Suzan Kelly Borges Piovesan">
+          <img src="{{ site.urlimg }}/idelvana.jpeg" id="img-andrea" alt="Prof. Dra. Ildevana Poltronieri Rodrigues">
           <figcaption class="card-text">
-            <strong>Prof. Dra. Suzan Kelly Borges Piovesan</strong><br>
-            UTFPR<br>
-            <a href="http://lattes.cnpq.br/4373225816434776">Currículo Lattes</a>
-          </figcaption>
-        </figure>
-      </article>
-      <article class="card">
-        <figure>
-          <img src="{{ site.urlimg }}/rosane.jpeg" alt="Profª. Dra. Rosane Passarini">
-          <figcaption class="card-text">
-            <strong>Profª. Dra. Rosane Passarini</strong><br>
-            UTFPR<br>
-            <a href="http://lattes.cnpq.br/5403892193730820">Currículo Lattes</a>
+            <strong>Prof. Dra. Ildevana Poltronieri Rodrigues</strong><br>
+            UNIPAMPA<br>
+            <a href="http://lattes.cnpq.br/5098610365503971">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
@@ -150,11 +140,21 @@ header:
     <div class="section-container">
       <article class="card">
         <figure>
-          <img src="{{ site.urlimg }}/idelvana.jpeg" id="img-andrea" alt="Prof. Dra. Ildevana Poltronieri Rodrigues">
+          <img src="{{ site.urlimg }}/suzan.jpeg" alt="Prof. Dra. Suzan Kelly Borges Piovesan">
           <figcaption class="card-text">
-            <strong>Prof. Dra. Ildevana Poltronieri Rodrigues</strong><br>
-            UNIPAMPA<br>
-            <a href="http://lattes.cnpq.br/5098610365503971">Currículo Lattes</a>
+            <strong>Prof. Dra. Suzan Kelly Borges Piovesan</strong><br>
+            UTFPR<br>
+            <a href="http://lattes.cnpq.br/4373225816434776">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/rosane.jpeg" alt="Profª. Dra. Rosane Passarini">
+          <figcaption class="card-text">
+            <strong>Profª. Dra. Rosane Passarini</strong><br>
+            UTFPR<br>
+            <a href="http://lattes.cnpq.br/5403892193730820">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
