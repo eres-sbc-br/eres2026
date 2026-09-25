@@ -150,8 +150,8 @@ header:
           </td>
 
           <td class="course">
-            <!-- <strong>Minicurso II</strong> - a definir -->
-            <strong>Visita técnica - Biopark</strong> (saída 8h30)
+            <strong>Minicurso II</strong> - a definir 
+            <!-- <strong>Visita técnica - Biopark</strong> (saída 8h30)-->
           </td>
 
           <td class="course">
@@ -424,8 +424,8 @@ header:
            
           </td>
 
-          <td class="observation">
-            Minicursos ainda são provisórios
+          <td class="course">
+            
           </td>
         </tr>
 
