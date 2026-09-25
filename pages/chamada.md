@@ -100,7 +100,7 @@ header:
     <ul>
 
       <li>Submissão de artigos: de 10 de Agosto de 2026 até <span style="color: red">18 de setembro de 2026, às 23h55 (horário de Brasília) — Hard Deadline</span></li>
-      <li>Notificação aos autores:  01 de Outubro de 2026 <!--<span style="color: red">01 de Outubro de 2026</span>--></li>
+      <li>Notificação aos autores:  04 de Outubro de 2026 <!--<span style="color: red">04 de Outubro de 2026</span>--></li>
       <li>Envio da versão final: 08 de Outubro de 2026</li>
 
     </ul>
