@@ -146,11 +146,12 @@ header:
           <td class="time-cell">08:00 – 12:00</td>
 
           <td class="course">
-            <strong>Minicurso I</strong> - Uso do LaTeX na escrita de trabalhos acadêmicos
+            <strong>Minicurso I</strong> - Modelagem de Bancos de Dados com PostgreSQL: da Academia à Indústria
           </td>
 
           <td class="course">
-            <strong>Minicurso II</strong> - a definir
+            <strong>Minicurso II</strong> - a definir 
+            <!-- <strong>Visita técnica - Biopark</strong> (saída 8h30)-->
           </td>
 
           <td class="course">
@@ -171,15 +172,15 @@ header:
           <td class="time-cell">14:00 – 18:00</td>
 
           <td class="session">
-            <strong>Sessão Técnica I</strong> - Trabalhos aceitos
+            <strong>Sessão Técnica I</strong> - Pós-Graduação
           </td>
 
           <td class="session">
-            <strong>Sessão Técnica II</strong> - Trabalhos aceitos
+            <strong>Sessão Técnica II</strong> - Extensão
           </td>
 
           <td class="session">
-            <strong>Sessão Técnica III</strong> - Trabalhos aceitos
+            <strong>Sessão Técnica III</strong> - Graduação
           </td>
 
           <td class="observation"></td>
@@ -236,23 +237,19 @@ header:
           <td class="time-cell">20:10 – 21:10</td>
 
           <td class="lecture">
-            <strong>Palestra I</strong> - Gestão da Transparência de Dados Pessoais
-            e relacionamento com User Experience.<br><br>
+            <strong>Palestra I</strong> - Avaliação de interface no processo de desenvolvimento de software.<br><br>
 
-            <strong>Prof. Dr. Morandini - USP</strong>
+            <strong>Prof. Dr. Clodis Boscarioli - UNIOESTE</strong>
           </td>
 
           <td class="lecture">
-            <strong>Palestra II</strong> - Alguns desafios e obstáculos na Engenharia
-            de Sistemas de Softwares Contemporâneos.<br><br>
+            <strong>Palestra II</strong> - Mineração de dados em redes sociais e aplicações.<br><br>
 
-            <strong>Prof. Dr. Guilherme Horta Travassos - UFRJ</strong>
+            <strong>Prof. Dr. Sidgley Camargo de Andrade - UTFPR</strong>
           </td>
 
           <td class="lecture">
-            <strong>Palestra III</strong> - Pesquisa Científica Aplicada a Startups
-            de Software.<br><br>
-
+            <strong>Palestra III</strong> - Da Construção à Escala: Como a Engenharia de Software pode Apoiar sua Startup.<br><br>
             <strong>Prof(a). Dra. Gislane Camila Lapasini Leal - UEM</strong>
           </td>
 
@@ -410,6 +407,25 @@ header:
         <tr>
           <td colspan="5" class="hard-green">
             Visitas Técnicas
+          </td>
+        </tr>
+        <tr>
+          <td class="time-cell">08:00 – 12:00</td>
+
+          <td class="course">
+            
+          </td>
+
+          <td class="course">
+            <strong>Visita técnica - Biopark</strong> (saída 8h30)
+          </td>
+
+          <td class="course">
+           
+          </td>
+
+          <td class="course">
+            
           </td>
         </tr>
 

@@ -70,16 +70,16 @@ header:
 
 
 <div id="palestra1" class="palestra">
- <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
+ <!-- <img src="{{ site.urlimg }}/palestras/clodis.jpeg" alt="Prof. Edson Oliveira Junior"> -->
 
   <div class="palestra-content">
-    <h3>Prof. Marcelo Morandini - USP</h3>
-    <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
+    <h3>Prof. Dr. Clodis Boscarioli - UNIOESTE</h3>
+    <!-- <a href="[http://lattes.cnpq.br/8717980588591239](http://lattes.cnpq.br/2844207318576160)" target="_blank">Currículo Lattes</a>--><br>
 
-    <h4>Título: Interação Humanos Dados e Transparência de Dados Pessoais: características e perspectivas</h4>
+    <h4>Título: Avaliação de interface no processo de desenvolvimento de software</h4>
 
     <p>
-      <strong>Data:</strong> 15/Out/2025 (Quarta-Feira)<br>
+      <strong>Data:</strong> 14/Out/2025 (Quarta-Feira)<br>
       <strong>Hora:</strong> 19:30
     </p>
 
@@ -96,10 +96,10 @@ header:
  <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
 
   <div class="palestra-content">
-    <h3>Prof. Guilherme Horta Travassos - UFRJ</h3>
+    <h3>Prof. Dr. Sidgley Camargo de Andrade - UTFPR</h3>
     <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
 
-    <h4>Título: Alguns desafios e obstáculos na Engenharia de Sistemas de Softwares Contemporâneos</h4>
+    <h4>Título: Mineração de dados em redes sociais e aplicações</h4>
 
     <p>
       <strong>Data:</strong> 14/Out/2025 (Quinta-Feira)<br>
@@ -119,11 +119,10 @@ header:
  <!-- <img src="{{ site.urlimg }}/palestras/edson.jpeg" alt="Prof. Edson Oliveira Junior"> -->
 
   <div class="palestra-content">
-    <h3>Profª.   - UEM</h3>
+    <h3>Profª. Dra Gislane Camila Lapasini Leal - UEM</h3>
     <!-- <a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>--><br>
 
-    <h4>Título: Pesquisa Científica 
-Aplicada a Startups de Software</h4>
+    <h4>Título: Da Construção à Escala: Como a Engenharia de Software pode Apoiar sua Startup.</h4>
 
     <p>
       <strong>Data:</strong> 16/Out/2025 (Sexta-Feira)<br>

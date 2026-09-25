@@ -64,9 +64,20 @@ header:
 
 <p class="text">As vagas são limitadas e a inscrição antecipada é obrigatória. Garanta seu espaço preenchendo o formulário abaixo:</p>
 
-<p class="text"><a href="#" target="_blank">Inscreva-se aqui!</a></p>
--->
+<p class="text"><a href="https://centraldesistemas.sbc.org.br/ecos/eres2026" target="_blank">Inscreva-se aqui!</a></p>
+
 <h3>Hotéis em Toledo</h3>
+ 
+<div class="hotel-info">
+  <h4>
+    <a href="https://hoteismaestro.com.br/detalhes-hotel" target="_blank">
+      Maestro Express Hotel
+    </a>
+  </h4>
+  <p>Av. Parigot de Souza, 2054 - Centro, Toledo - PR</p>
+  <p>Telefone: <a href="tel:+554533785425">(45) 3378-5425 / (45) 99860-4192</a></p>
+</div>
+
 
 <div class="hotel-info">
   <h4>
