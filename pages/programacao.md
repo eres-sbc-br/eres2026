@@ -150,7 +150,7 @@ header:
           </td>
 
           <td class="course">
-            <strong>Minicurso II</strong> - a definir
+            <!-- <strong>Minicurso II</strong> - a definir -->
             <strong>Visita técnica - Biopark</strong> (saída 8h30)
           </td>
 
@@ -172,15 +172,15 @@ header:
           <td class="time-cell">14:00 – 18:00</td>
 
           <td class="session">
-            <strong>Sessão Técnica I</strong> - Trabalhos aceitos
+            <strong>Sessão Técnica I</strong> - Pós-Graduação
           </td>
 
           <td class="session">
-            <strong>Sessão Técnica II</strong> - Trabalhos aceitos
+            <strong>Sessão Técnica II</strong> - Extensão
           </td>
 
           <td class="session">
-            <strong>Sessão Técnica III</strong> - Trabalhos aceitos
+            <strong>Sessão Técnica III</strong> - Graduação
           </td>
 
           <td class="observation"></td>
@@ -407,6 +407,25 @@ header:
         <tr>
           <td colspan="5" class="hard-green">
             Visitas Técnicas
+          </td>
+        </tr>
+        <tr>
+          <td class="time-cell">08:00 – 12:00</td>
+
+          <td class="course">
+            
+          </td>
+
+          <td class="course">
+            <strong>Visita técnica - Biopark</strong> (saída 8h30)
+          </td>
+
+          <td class="course">
+           
+          </td>
+
+          <td class="observation">
+            Minicursos ainda são provisórios
           </td>
         </tr>
 
