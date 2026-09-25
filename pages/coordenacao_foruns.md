@@ -116,6 +116,16 @@ header:
           </figcaption>
         </figure>
       </article>
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/rosane.jpeg" alt="Profª. Dra. Rosane Passarini">
+          <figcaption class="card-text">
+            <strong>Profª. Dra. Rosane Passarini</strong><br>
+            UTFPR<br>
+            <a href="http://lattes.cnpq.br/5403892193730820">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
     </div>
   </section>
 
