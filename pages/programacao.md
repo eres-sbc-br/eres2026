@@ -146,7 +146,7 @@ header:
           <td class="time-cell">08:00 – 12:00</td>
 
           <td class="course">
-            <strong>Minicurso I</strong> - Uso do LaTeX na escrita de trabalhos acadêmicos
+            <strong>Minicurso I</strong> - Modelagem de Bancos de Dados com PostgreSQL: da Academia à Indústria
           </td>
 
           <td class="course">
