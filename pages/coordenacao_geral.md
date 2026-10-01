@@ -135,7 +135,7 @@ header:
             <strong>Prof. Dr. Luciano Anísio Garcia</strong><br>
             IFMS<br>
             <a
-              href="http://lattes.cnpq.br/1870564118351754"
+              href="http://lattes.cnpq.br/6804211185687843"
               target="_blank"
               rel="noopener noreferrer"
             >
