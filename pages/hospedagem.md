@@ -66,7 +66,7 @@ header:
 
 <p class="text">As vagas são limitadas e a inscrição antecipada é obrigatória. Garanta seu espaço preenchendo o formulário abaixo:</p>
 
-<p class="text"><a href="https://centraldesistemas.sbc.org.br/ecos/eres2026" target="_blank">Inscreva-se aqui!</a></p>
+<p class="text"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqZGlYcmyL0uRmqbnWOtRd1VaZ-ZnhZKqnvKaTjMakBoOSWA/viewform" target="_blank">Inscreva-se aqui!</a></p>
 
 <h3>Hotéis em Toledo</h3>
  
