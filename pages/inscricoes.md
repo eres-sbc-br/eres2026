@@ -341,7 +341,7 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h3>Inscrição para autores</h3>
 
-<p class="text">Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2026, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 05/10/2026. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
+<p class="text">Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2026, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 16/10/2026. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
 
 <h3>Inscrição em minicursos</h3>
 
