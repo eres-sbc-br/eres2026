@@ -60,6 +60,8 @@ header:
   <li>Ambientes limpos e bem ventilados.</li>
 </ul> -->
 
+<p class="text"><strong>O alojamento é exclusivo para estudantes.</strong></p>
+
 <p class="text">Recomendamos que cada participante traga seus próprios itens de cama e banho, como travesseiro, lençol, cobertor e toalha.</p>
 
 <p class="text">As vagas são limitadas e a inscrição antecipada é obrigatória. Garanta seu espaço preenchendo o formulário abaixo:</p>
