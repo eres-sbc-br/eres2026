@@ -94,7 +94,7 @@ header:
 <div id="minicurso1" class="minicurso">
   <div class="minicurso-content">
     <div>
-       <h2 class="minicurso-title">Minicurso 1: Uso do Latex na escrita de trabalhos acadêmicos </h2>
+       <h2 class="minicurso-title">Minicurso 1: Modelagem de Bancos de Dados com PostgreSQL: da Academia à Indústria </h2>
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Breve mais informações.
       </p>
@@ -109,11 +109,11 @@ header:
 <div id="minicurso2" class="minicurso">
   <div class="minicurso-content">
     <div>
-       <h2 class="minicurso-title">Minicurso 2: A definir. </h2>
+       <h2 class="minicurso-title">Minicurso 2: IA e engenharia de software: dos fundamentos ao sistema em produção. </h2>
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Breve mais informações.
       </p>
-         
+         <p><strong>📅 Data e horário:</strong> 15 de Outubro (quinta-feira), das 08h às 12h</p>
     </div>
   </div>
 </div>
