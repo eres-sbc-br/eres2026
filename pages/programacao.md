@@ -421,7 +421,7 @@ header:
           </td>
 
           <td class="course">
-           
+           <strong>Visita técnica - Inside Sistemas</strong> (saída 10h)
           </td>
 
           <td class="course">
