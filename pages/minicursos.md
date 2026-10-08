@@ -89,9 +89,9 @@ header:
     }
   }
 </style>
-
+<br>
 <strong>Para se inscrever nos minicursos da X ERES 2026, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRAry2Ko3Er6eEsnVME3tDlylQR5W6K2l2Njfk0O9A0jGN8g/viewform" target="_blank" rel="noopener noreferrer"><strong>clique aqui</strong></a> e garanta sua vaga!</strong>
-<strong>Atenção:</strong> As vagas são limitadas a 25 participantes por minicurso.
+<br><strong>Atenção:</strong> As vagas são limitadas a 25 participantes por minicurso.
   
 
 <div id="minicurso1" class="minicurso">
