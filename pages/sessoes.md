@@ -22,7 +22,7 @@ header:
 
 <h3>Orientações aos autores</h3>
 <ul>
-  <li>Cada apresentação terá <strong>10 minutos</strong>, seguidos de <strong>3–5 minutos</strong> para perguntas.</li>
+  <li>Cada apresentação terá <strong>15 minutos</strong>, seguidos de <strong>5 minutos</strong> para perguntas.</li>
   <li>Todas as apresentações serão realizadas no <strong>Salão Nobre</strong>.</li>
   <li>Todos os autores devem encaminhar a apresentação até o dia <strong>06 de outubro</strong> no e-mail <a href="mailto:#">#</a> informando no assunto a sessão e o título do trabalho.</li>
   <li>Recomendamos que levem uma cópia local de seus slides em formato PDF.</li>
@@ -81,38 +81,36 @@ header:
 
 <table id="sessao5" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 4 – Testes e Validação de Software</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 5 – Requisitos e Usabilidade</strong><br>Coordenação: a definir</th></tr>
   </thead>
-  <!-- <tbody>
-    <tr><td>14:00</td><td><strong>Implementação de Testes de Integração nos Frameworks de Desenvolvimento Mobile Flutter e React Native: um estudo comparativo</strong><span class="meta">Autores: Kelvia Kolln; José Carlos Toniazzo; Viviane Duarte Bonfim — Fórum: Graduação</span></td></tr>
-    <tr><td>14:15</td><td><strong>A Differential Testing Pipeline for Validating Lambda Expression Handling in Java Compilers Through LLM-Generated Test Cases</strong><span class="meta">Autores: Douglas Kosvoski; Andrei Braga; Rodrigo G. Ribeiro; Samuel da S. Feitosa — Fórum: Graduação</span></td></tr>
-    <tr><td>14:30</td><td><strong>Differential Fuzzing Go Compilers using LLMs: A Methodological Proposal</strong><span class="meta">Autores: Luiz Terres; Samuel da S. Feitosa — Fórum: Graduação</span></td></tr>
-    <tr><td>14:45</td><td><strong>Explorando o Uso de LLMs para Fuzzing de Código Lua: Metodologia e Primeiras Etapas</strong><span class="meta">Autores: Richard Souza; Samuel da S. Feitosa — Fórum: Graduação</span></td></tr>
-  </tbody>-->
+  <tbody>
+    <tr><td>14:00</td><td><strong>Engenharia de Requisitos para Sistemas Baseados em Inteligência Artificial e Máquina de Aprendizado: Uma Perspectiva Integrada</strong><span class="meta">Autores: Iasmin Silva; Isabeli Rosa; Katiane Gamarra; Talysson Santos; Gustavo Dambros; Samuel Araújo; Anielle Severo Lisboa de Andrade; Maicon Bernardino — UNIPAMPA — Fórum: Graduação</span></td></tr>
+    <tr><td>14:20</td><td><strong>Engenharia de Requisitos: da Abordagem Tradicional ao Uso de Inteligência Artificial</strong><span class="meta">Autores: Natan Arend; Fabiane Sorbar; Kelvin de Jesus Oliveira; Guilherme Brandão de Souza; Gustavo Domingos Cortelassi — Donaduzzi, Biopark — Fórum: Graduação</span></td></tr>
+    <tr><td>14:40</td><td><strong>Não Evidenciado não é Não Atendido: O Catálogo QualiAUE para Avaliação Automatizada de Usabilidade</strong><span class="meta">Autores: Lucie Grillo; Graziela Espindola; Alice Finger; Elder Macedo Rodrigues; Ildevana Poltronieri — UNIPAMPA — Fórum: Graduação</span></td></tr>
+  </tbody>
 </table>
 
 <table id="sessao6" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 5 – Requisitos e Usabilidade</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 6 – IA no Desenvolvimento de Software</strong><br>Coordenação: a definir</th></tr>
   </thead>
-  <!--<tbody>
-    <tr><td>15:00</td><td><strong>Ver, Ouvir e Anotar: Técnicas Etnográficas e Contextuais Aplicadas à Engenharia de Requisitos</strong><span class="meta">Autores: Izabel Boaventura; Tauani Sauceda; Mirieli Oliveira; Rafaela de Menezes; Rejane Silveira; Vitória Minozzo; Rafael Ribeiro; Gilleanes T. A. Guedes; Maicon Bernardino — Fórum: Graduação</span></td></tr>
-    <tr><td>15:15</td><td><strong>Interfaces que Facilitam ou que Dificultam? Um Estudo sobre Usabilidade e Acessibilidade em um Sistema Educacional</strong><span class="meta">Autores: Manoela Resende; Rafael Ribeiro; Fábio Paulo Basso; Maicon Bernardino — Fórum: Graduação</span></td></tr>
-    <tr><td>15:30</td><td><strong>Elicitação de Requisitos e Percepções do Público-Alvo para um Software de Nutrição Clínica: Resultados Preliminares de Um Survey</strong><span class="meta">Autores: Alexandro S. dos Santos; Adriana G. da Silva; Elder M. Rodrigues; Maicon Bernardino — Fórum: Pós-Graduação</span></td></tr>
-    <tr><td>15:45</td><td><strong>Vinte Anos Depois do Decreto de Acessibilidade: O Caso do Novo Portal da Prefeitura de [OMITIDO]</strong><span class="meta">Autores: Julielen Arnoud Dorneles; Amanda Meincke Melo — Fórum: Extensão</span></td></tr>
-    <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
-  </tbody>-->
+  <tbody>
+    <tr><td>15:05</td><td><strong>O Impacto da Inteligência Artificial na Geração de Código em Projetos de Desenvolvimento de Software</strong><span class="meta">Autores: Paulo Henrique Moschen Sartori; Marisângela Pacheco Brittes — UTFPR — Fórum: Graduação</span></td></tr>
+    <tr><td>15:25</td><td><strong>Arquitetura de Gateway e Validação Determinística para Geração Confiável de Rubricas via LLMs: Um Relato de Engenharia de Software</strong><span class="meta">Autores: Erik Fontella; Matheus Fialho; Dyonathan Ianer; Fábio Paulo Basso; Maicon Bernardino — UNIPAMPA — Fórum: Graduação</span></td></tr>
+    <tr><td>15:45</td><td><strong>Retrospec: Um Estudo de Maturidade e Cobertura na Reconstrução de Artefatos de Software</strong><span class="meta">Autores: Mayna Carvalho; Bruno Ribas; André Fabiano de Moraes — Unicesumar, IFC — Fórum: Graduação</span></td></tr>
+    <tr><td colspan="2" class="separator">Coffee break — 16:05–16:35</td></tr>
+  </tbody>
 </table>
 
 <table id="sessao7" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 6 – Aplicações Web e Full Stack</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 7 – Aplicações e Aspectos Sociais da Engenharia de Software</strong><br>Coordenação: a definir</th></tr>
   </thead>
-  <!--<tbody>
-    <tr><td>16:30</td><td><strong>Padrões de Projeto no Desenvolvimento de Solução de Software Full Stack: Um Relato de Experiência</strong><span class="meta">Autores: Reinaldo Z. Wendt; Maicon Bernardino; Eduardo Tiadoro; Miguel Â. B. Muniz — Fórum: Graduação</span></td></tr>
-    <tr><td>16:45</td><td><strong>Explorando a Program Structure Interface (PSI): Fundamentos da Construção de Plugins no IntelliJ</strong><span class="meta">Autores: Reinaldo Z. Wendt; Élder Rodrigues; Ana Carolina P. Rodrigues — Fórum: Graduação</span></td></tr>
-    <tr><td>17:00</td><td><strong>Uma Interface Web 3.0 Amigável para Rastreabilidade de Produtos da Agricultura Familiar Usando Contratos Inteligentes</strong><span class="meta">Autores: Rafael Nogueira; Nykolas F. dos Santos; Henrique Fan da Silva; Bruno B. Neves; Roben C. Lunardi; Diego Kreutz; Rodrigo B. Mansilha — Fórum: Graduação</span></td></tr>
-  </tbody>-->
+  <tbody>
+    <tr><td>16:40</td><td><strong>Engenharia de Software Aplicada à Gestão de Encaminhamentos Odontológicos: um relato de experiência</strong><span class="meta">Autores: Milena Castro; Lucie Grillo; Amanda Dias de Souza; Amanda Meincke Melo; Fabiana Cabreira — UNIPAMPA, IFFar — Fórum: Graduação</span></td></tr>
+    <tr><td>17:00</td><td><strong>Aplicação de ETL para a Identificação Automatizada de Riscos em uma Empresa do Ramo Submarino</strong><span class="meta">Autores: Breno Ulisses Vergopolan; Gustavo Santos; Luiza Morosini — UFPR, UTFPR — Fórum: Graduação</span></td></tr>
+    <tr><td colspan="2" class="separator">17:40–18:00 — Avisos e encerramento do dia</td></tr>
+  </tbody>
 </table>
 
 <hr>
@@ -121,37 +119,35 @@ header:
 
 <table id="sessao8" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 7 – Educação em Computação e Extensão Universitária</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 8 – Aplicações e Assistentes de IA</strong><br>Coordenação: a definir</th></tr>
   </thead>
-  <!--<tbody>
-    <tr><td>14:00</td><td><strong>Turma Lovelace: O ensino de programação competitiva com foco em mulheres e não binário</strong><span class="meta">Autores: Ana Paula Hartmann; Samuel da S. Feitosa; Andrei Braga — Fórum: Extensão</span></td></tr>
-    <tr><td>14:15</td><td><strong>Proposta da Metodologia [Omitido]: Aprendizagem Colaborativa e Criativa no Ensino de Programação</strong><span class="meta">Autores: Raissa P. de Moura; Ildevana Poltronieri; Alice Finger; Vinicius S. da Silva; Rafael S. da Silva; Caio S. Borges — Fórum: Extensão</span></td></tr>
-    <tr><td>14:30</td><td><strong>Estudantes de Engenharia de Software retornam ao Ensino Fundamental: uma experiência extensionista</strong><span class="meta">Autores: Milena Soares Ferreira; Danielly Neves; Amanda Meincke Melo — Fórum: Graduação</span></td></tr>
-    <tr><td>14:45</td><td><strong>Cidades Inteligentes e Tecnologia da Informação: Uma Revisão Terciária da Produção Acadêmica Brasileira</strong><span class="meta">Autores: Bruno Boniati; Rafael Z. Frantz — Fórum: Pós-Graduação</span></td></tr>
-  </tbody>-->
+  <tbody>
+    <tr><td>14:00</td><td><strong>ReuniON: proposta e desenvolvimento de uma plataforma com suporte de IA para a documentação de reuniões de Colegiado e NDE</strong><span class="meta">Autores: Fabiane Sorbar; Samuel Malaquias Sadovnik; João Victor da Silva e Silva; Cesar Augusto da Silva Pisa — Biopark — Fórum: Graduação</span></td></tr>
+    <tr><td>14:20</td><td><strong>Recomendação Cross-Domain e Assistentes de IA no Agendamento de Serviços Locais: Um Survey com Clientes e Prestadores</strong><span class="meta">Autores: João Pedro; Fábio Paulo Basso; Maicon Bernardino; Emilly Dias — UNIPAMPA — Fórum: Pós-Graduação</span></td></tr>
+  </tbody>
 </table>
 
 <table id="sessao9" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 8 – Aplicações em Engenharia de Software</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 9 – Educação em Computação e Engenharia de Software</strong><br>Coordenação: a definir</th></tr>
   </thead>
-  <!--<tbody>
-    <tr><td>15:00</td><td><strong>Realidade Virtual na Reabilitação Cardíaca: Um Mapeamento Sistemático da Literatura</strong><span class="meta">Autores: Leonardo D. A. Kruger; Maria A. S. Brito — Fórum: Graduação</span></td></tr>
-    <tr><td>15:15</td><td><strong>Implementação de uma Intervenção Digital Baseada em Mindfulness para Estudantes Universitários</strong><span class="meta">Autores: Bianca Maia Ribeiro; Fábio Paulo Basso; Debóra C. P. Pellegrini; Maicon Bernardino — Fórum: Graduação</span></td></tr>
-    <tr><td>15:30</td><td><strong>SpeakUp: Aplicação Web para a Aprendizagem de Idiomas Apoiada por Inteligência Artificial</strong><span class="meta">Autores: Micael Rocha; Rosangela F. P. Marquesone — Fórum: Graduação</span></td></tr>
-    <tr><td>15:45</td><td><strong>Ecotrash: Protótipo Web para Promover o Descarte Sustentável de Lixo Eletrônico apoiado por Gamificação e Engajamento do Usuário</strong><span class="meta">Autores: Tuane Montagna; Mayza Bernardi; Thauane Amadigi; Guilherme J. Johann; Lucas H. Zundel — Fórum: Extensão</span></td></tr>
-    <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
-  </tbody>-->
+  <tbody>
+    <tr><td>14:45</td><td><strong>Mapeamento Sistemático da Literatura sobre Jogos Educacionais no Ensino de Introdutório de Programação</strong><span class="meta">Autores: Bruno Nogueira; Aline Mello — UNIPAMPA — Fórum: Graduação</span></td></tr>
+    <tr><td>15:05</td><td><strong>Um Framework Semioparticipativo para o Desenvolvimento de Software em Domínio Educacional</strong><span class="meta">Autores: Amanda Meincke Melo; Auri Gabriel Castro de Melo; Renilson P. Torres; Maria Cristina Graeff Wernz; Aline Mello; Fátima Souza; Kauã Jardim Dias — UNIPAMPA — Fórum: Graduação</span></td></tr>
+    <tr><td colspan="2" class="separator">Coffee break — 15:25–15:55</td></tr>
+  </tbody>
 </table>
 
 <table id="sessao10" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 10 – Desenvolvimento de APIs e Ontologias</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 10 – Fórum de Extensão</strong><br>Coordenação: Suzan</th></tr>
   </thead>
-  <!--<tbody>
-    <tr><td>16:30</td><td><strong>Desenvolvimento de uma API REST para Manipulação de Ontologias utilizando Python e OWLReady2: Um Relato de Experiência</strong><span class="meta">Autores: Rafael S. da Silva; Alice Finger; João Pablo S. da Silva — Fórum: Graduação</span></td></tr>
-    <tr><td>16:45</td><td><strong>Em Direção ao Desenvolvimento de uma Ferramenta de Gerenciamento de Rubricas de Avaliação</strong><span class="meta">Autores: Matheus Fialho; Erik Fontella; Maicon Bernardino; Fábio Paulo Basso — Fórum: Pós-Graduação</span></td></tr>
-    <tr><td>17:00</td><td><strong>Projeto ARCA - Ambiente de Relacionamento Comercial do Agronegócio: Uma Proposta de Plano de Inovação</strong><span class="meta">Autores: Miguel Â. B. Muniz; Reinaldo Z. Wendt; Eduardo Tiadoro; Maicon Bernardino — Fórum: Graduação</span></td></tr>
-    <tr><td>17:15</td><td><strong>Smart Agro RAF API</strong><span class="meta">Autores: Henrique Fan da Silva; Rafael Nogueira; Bruno B. Neves; Fábio Righi da Silva; Roben C. Lunardi; Diego Kreutz; Rodrigo B. Mansilha — Fórum: Pós-Graduação</span></td></tr>
-  </tbody>-->
+  <tbody>
+    <tr><td>16:00</td><td><strong>[Projeto Parceiro OMITIDO]: seus impactos em diferentes perfis de participantes e seu impacto social</strong><span class="meta">Autores: Amanda Meincke Melo; Aline Mello; Alice Finger; Anielle Severo Lisboa de Andrade; Ildevana Poltronieri; Raquel Mainardi Pillat — UNIPAMPA — Fórum: Extensão</span></td></tr>
+    <tr><td>16:15</td><td><strong>OMITIDO na voz das participantes: experiências, aprendizados e desdobramentos</strong><span class="meta">Autores: Raissa Pedroso de Moura; Luiza Figueiredo; Liane Paim de Castro; Isabeli Rosa; Alice Finger; Ildevana Poltronieri — UNIPAMPA — Fórum: Extensão</span></td></tr>
+    <tr><td>16:30</td><td><strong>Atenção a Mulheres em Situação de Violência Doméstica: Investigando um Domínio de Aplicação da Engenharia de Software</strong><span class="meta">Autores: Izabel Boaventura; Tauani Sauceda; Angelline Pinto de Almeida; Kauã Jardim Dias; Amanda Meincke Melo — UNIPAMPA — Fórum: Extensão</span></td></tr>
+    <tr><td>16:45</td><td><strong>Empodera Solidário: tecnologia e extensão universitária no fortalecimento de redes de apoio às mulheres</strong><span class="meta">Autores: Giani Carla Ito; Pedro Munhoz; Gloria Patricia Lopez — UTFPR — Fórum: Extensão</span></td></tr>
+    <tr><td>17:00</td><td><strong>Desenvolvimento de um jogo na plataforma Roblox Studio para a aprendizagem de Matemática</strong><span class="meta">Autores: Angelo Gurski Baigorra — IFFar — Fórum: Extensão</span></td></tr>
+    <tr><td colspan="2" class="separator">17:15 — Encerramento do evento</td></tr>
+  </tbody>
 </table>
