@@ -33,59 +33,53 @@ header:
 
 <table id="sessao1" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 1 – Engenharia de Software Experimental e Qualidade</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 1 – Engenharia de Software Experimental e Métricas</strong><br>Coordenação: Ildevana</th></tr>
   </thead>
-  <!-- <tbody>
-    <tr><td>14:00</td><td><strong>Engenharia Experimental de Software Aplicada à Detecção Inteligente de Fraudes Financeiras</strong><span class="meta">Autores: Martony Demes Silva; Warleyson Costa Roma — Fórum: Graduação</span></td></tr>
-    <tr><td>14:15</td><td><strong>DCEP-SE: A Dublin Core Application Profile for Experimental Software Engineering</strong><span class="meta">Autores: Filipe Amadeu Santana; André F. R. Cordeiro; Edson Oliveira Junior — Fórum: Graduação</span></td></tr>
-    <tr><td>14:30</td><td><strong>Uma Abordagem de Engenharia de Software Experimental para Avaliação de Modelos Preditivos em Marketing Bancário</strong><span class="meta">Autores: Martony Demes Silva; Valdessandro Costa Moreira — Fórum: Graduação</span></td></tr>
-    <tr><td>14:45</td><td><strong>Uma Revisão Sistemática da Literatura em Processos de Implantação de Software: Resultados Preliminares</strong><span class="meta">Autores: Rafael Aleixo; Maicon Bernardino; Elder Macedo Rodrigues — Fórum: Pós-Graduação</span></td></tr>
-  </tbody>-->
+  <tbody>
+    <tr><td colspan="2" class="separator">14:00–14:15 — Abertura das Sessões Técnicas</td></tr>
+    <tr><td>14:15</td><td><strong>Documentação de Ameaças à Validade em Estudos Empíricos de Engenharia de Software no Brasil: Uma Revisão Sistemática</strong><span class="meta">Autores: Marconi Filho; Ivanildo de Azevedo; Sergio Soares — UFPE — Fórum: Pós-Graduação</span></td></tr>
+    <tr><td>14:35</td><td><strong>Métricas de Código-Fonte: Uma Rapid Review de Estudos Empíricos e Aplicações Práticas</strong><span class="meta">Autores: Gabriel Gonsalez; Ana Carolina Poltronieri Rodrigues; Raquel Mainardi Pillat — UNIPAMPA — Fórum: Graduação</span></td></tr>
+    <tr><td>14:55</td><td><strong>Mapeando Habilidades de Egressos de Engenharia de Software a partir de Dados do LinkedIn</strong><span class="meta">Autores: Rafael da Silva Moral; Aline Mello; Alice Finger — UNIPAMPA — Fórum: Graduação</span></td></tr>
+  </tbody>
 </table>
 
 <table id="sessao2" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 2 – Processos e Práticas de Desenvolvimento de Software</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 2 – Testes de Desempenho</strong><br>Coordenação: a definir</th></tr>
   </thead>
-  <!-- <tbody>
-    <tr><td>15:00</td><td><strong>Implantação de Padrões e Práticas de Qualidade de Software: um estudo de caso</strong><span class="meta">Autores: Daniel Paulo Santos; Rodrigo Miguel Tomazi; Diego Fabio Schuh; Jhony Maseto — Fórum: Extensão</span></td></tr>
-    <tr><td>15:15</td><td><strong>Desafios da Agilidade Distribuída: Uma Análise da Implementação de Metodologias Ágeis em PMEs com Times Híbridos</strong><span class="meta">Autores: Iasmin Pieraço Rodrigues; M. França — Fórum: Graduação</span></td></tr>
-    <tr><td>15:30</td><td><strong>Dívida Técnica de Requisitos de Software na Prática vs Academia: Um estudo preliminar sobre Causas, Impactos e Estratégias de Mitigação</strong><span class="meta">Autores: Jansen Kilinger Cara; Érica F. Souza; Alinne Souza; Francisco C. M. Souza — Fórum: Pós-Graduação</span></td></tr>
-    <tr><td>15:45</td><td><strong>Em Direção à Modelagem de um Processo de Implantação de Software com base no Metamodelo SPEM</strong><span class="meta">Autores: Elrison Gomes da Silva; Maico F. W. Carneiro; Maiza Vanessa Baron; Emilly Soares Santos; Maicon Bernardino — Fórum: Pós-Graduação</span></td></tr>
-    <tr><td colspan="2" class="separator">Intervalo — 16:00–16:30</td></tr>
-    <tr><td>16:30</td><td><strong>Towards a Web Portal for Teaching and Practicing of Software Engineering Controlled Experiments</strong><span class="meta">Autores: Fernando Grande; André F. R. Cordeiro; Edson Oliveira Junior — Fórum: Graduação</span></td></tr>
-
-  </tbody>-->
+  <tbody>
+    <tr><td>15:15</td><td><strong>Investigando o Impacto da Conteinerização, Orquestração e Infraestrutura de Nuvem na Reprodutibilidade de Testes de Desempenho</strong><span class="meta">Autores: Eduardo dos Santos Paim; Gabriel Gonsalez; Elder Macedo Rodrigues; Maicon Bernardino — UNIPAMPA — Fórum: Graduação</span></td></tr>
+    <tr><td>15:35</td><td><strong>Geração de Workloads Sintéticos com LLMs: Um Estudo sobre o Impacto de Logs de Produção na Representatividade de Testes de Desempenho</strong><span class="meta">Autores: Gabriele da Silva Agostini; Lívia Viana Barbosa; Elder Macedo Rodrigues; Maicon Bernardino — UNIPAMPA — Fórum: Graduação</span></td></tr>
+    <tr><td colspan="2" class="separator">Coffee break — 15:55–16:25</td></tr>
+  </tbody>
 </table>
 
 <table id="sessao3" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 3 – IA e Aprendizado de Máquina em Engenharia de Software</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 3 – LLMs no Apoio a Testes de Desempenho</strong><br>Coordenação: a definir</th></tr>
   </thead>
-  <!--<tbody>
-  <tr><td>16:45</td><td><strong>Identificação de Esforço Cognitivo com Auxílio de Dispositivos Vestíveis e Inteligência Artificial</strong><span class="meta">Autores: Mateus A. Franceschina; Felipe Zeiser; Cristiano A. Costa; Adriana Roehe; Mateus H. Zeiser — Fórum: Graduação</span></td></tr>
-    <tr><td>17:00</td><td><strong>Engenharia de Software Inteligente: Um Panorama Sistemático do Uso de Aprendizagem de Máquina nos Anais da ERES</strong><span class="meta">Autores: Martony Demes Silva; Cleonildo Macedo — Fórum: Graduação</span></td></tr>
-    <tr><td>17:15</td><td><strong>Avaliação de Qualidade de Código Java gerado por Large Language Models</strong><span class="meta">Autores: Marco Tullio Oliveira; Pedro Márcio O. Silveira; Michelle H. S. de Andrade — Fórum: Graduação</span></td></tr>
-  </tbody>-->
-  
+  <tbody>
+    <tr><td>16:25</td><td><strong>Um Estudo Exploratório sobre a Especificação de Casos de Teste de Desempenho com Apoio de LLMs</strong><span class="meta">Autores: Erik Fontella; Andre Medeiros; Maicon Bernardino; Elder Macedo Rodrigues — UNIPAMPA — Fórum: Graduação</span></td></tr>
+    <tr><td>16:45</td><td><strong>Avaliação de Estratégias de Prompting para Geração de Sínteses Executivas de Testes de Desempenho com ChatGPT</strong><span class="meta">Autores: Thaís Lemos; Lucas Corrêa; Elder Macedo Rodrigues — UNIPAMPA — Fórum: Graduação</span></td></tr>
+  </tbody>
 </table>
 
-<table id="sessao9" class="sbc-table">
+<table id="sessao4" class="sbc-table">
   <thead>
-    <tr><th colspan="2"><strong>Sessão Técnica 9 – Arquitetura e Microsserviços</strong></th></tr>
+    <tr><th colspan="2"><strong>Sessão Técnica 4 – Verificação, Validação e Qualidade de Software</strong><br>Coordenação: a definir</th></tr>
   </thead>
-  <!--<tbody>
-    <tr><td>17:30</td><td><strong>Segurança Proativa em Arquitetura de Microsserviços e Container: um estudo de caso</strong><span class="meta">Autores: Jhony Maseto; Diego Fabio Schuh; Daniel Paulo Santos; Rodrigo Miguel Tomazi; Ariel Gustavo Zuquello — Fórum: Extensão</span></td></tr>
-    <tr><td>17:45</td><td><strong>Arquitetura de Microsserviços: Uma Revisão Multivocal</strong><span class="meta">Autores: Larissa Morais; André F. R. Cordeiro; Edson Oliveira Jr — Fórum: Graduação</span></td></tr>
-    <tr><td>18:00</td><td><strong>Arquitetura de Software para Identidades Digitais Descentralizadas em Cidades Inteligentes: Um Relato de Experiência com a Trustchain</strong><span class="meta">Autores: Marcelo P. Chequin; Carla L. O. Castanho; Paulo R. Vargas; Fernando Neto — Fórum: Graduação</span></td></tr>
-  </tbody>-->
+  <tbody>
+    <tr><td>17:05</td><td><strong>Uso de teste de mutação para análise de testes instáveis</strong><span class="meta">Autores: Pedro Itiro Nagao; João Ricardo Zulato Reberti; Marco Aurélio Graciotto Silva — UTFPR — Fórum: Graduação</span></td></tr>
+    <tr><td>17:25</td><td><strong>Garantia de Qualidade em Pipelines de Aprendizagem de Máquina: Uma Abordagem Modular contra Vazamento de Dados em Classificação Tabular</strong><span class="meta">Autores: Martony Demes Silva — UFPI — Fórum: Pós-Graduação</span></td></tr>
+    <tr><td colspan="2" class="separator">17:45–18:00 — Avisos e encerramento do dia</td></tr>
+  </tbody>
 </table>
 
 <hr>
 
 <h3>15/Out</h3>
 
-<table id="sessao4" class="sbc-table">
+<table id="sessao5" class="sbc-table">
   <thead>
     <tr><th colspan="2"><strong>Sessão Técnica 4 – Testes e Validação de Software</strong></th></tr>
   </thead>
@@ -97,7 +91,7 @@ header:
   </tbody>-->
 </table>
 
-<table id="sessao5" class="sbc-table">
+<table id="sessao6" class="sbc-table">
   <thead>
     <tr><th colspan="2"><strong>Sessão Técnica 5 – Requisitos e Usabilidade</strong></th></tr>
   </thead>
@@ -110,7 +104,7 @@ header:
   </tbody>-->
 </table>
 
-<table id="sessao6" class="sbc-table">
+<table id="sessao7" class="sbc-table">
   <thead>
     <tr><th colspan="2"><strong>Sessão Técnica 6 – Aplicações Web e Full Stack</strong></th></tr>
   </thead>
@@ -125,7 +119,7 @@ header:
 
 <h3>16/Out</h3>
 
-<table id="sessao7" class="sbc-table">
+<table id="sessao8" class="sbc-table">
   <thead>
     <tr><th colspan="2"><strong>Sessão Técnica 7 – Educação em Computação e Extensão Universitária</strong></th></tr>
   </thead>
@@ -137,7 +131,7 @@ header:
   </tbody>-->
 </table>
 
-<table id="sessao8" class="sbc-table">
+<table id="sessao9" class="sbc-table">
   <thead>
     <tr><th colspan="2"><strong>Sessão Técnica 8 – Aplicações em Engenharia de Software</strong></th></tr>
   </thead>
