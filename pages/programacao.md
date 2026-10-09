@@ -169,21 +169,147 @@ header:
         <!-- ========================================================= -->
 
         <tr>
-          <td class="time-cell">14:00 – 18:00</td>
+          <td class="time-cell">14:15 – 15:15</td>
 
           <td class="session">
-            <strong>Sessão Técnica I</strong> - Pós-Graduação
+            <strong>Sessão Técnica 1</strong> - Engenharia de Software Experimental e Métricas (3 trabalhos)
           </td>
 
-          <td class="session">
-            <strong>Sessão Técnica II</strong> - Extensão
+          <td></td>
+
+          <td></td>
+
+          <td class="observation">
+            Cada trabalho tem 20 minutos (15 de apresentação e 5 de perguntas). Coffee break de 30 minutos por dia.
           </td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">15:15 – 15:55</td>
 
           <td class="session">
-            <strong>Sessão Técnica III</strong> - Graduação
+            <strong>Sessão Técnica 2</strong> - Testes de Desempenho (2 trabalhos)
+          </td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="observation"></td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">16:25 – 17:05</td>
+
+          <td class="session">
+            <strong>Sessão Técnica 3</strong> - LLMs no Apoio a Testes de Desempenho (2 trabalhos)
+          </td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="observation"></td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">17:05 – 17:45</td>
+
+          <td class="session">
+            <strong>Sessão Técnica 4</strong> - Verificação, Validação e Qualidade de Software (2 trabalhos)
+          </td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="observation"></td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">14:00 – 15:00</td>
+
+          <td></td>
+
+          <td class="session">
+            <strong>Sessão Técnica 5</strong> - Requisitos e Usabilidade (3 trabalhos)
+          </td>
+
+          <td></td>
+
+          <td class="observation"></td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">15:05 – 16:05</td>
+
+          <td></td>
+
+          <td class="session">
+            <strong>Sessão Técnica 6</strong> - IA no Desenvolvimento de Software (3 trabalhos)
+          </td>
+
+          <td></td>
+
+          <td class="observation"></td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">16:40 – 17:40</td>
+
+          <td></td>
+
+          <td class="session">
+            <strong>Sessão Técnica 7</strong> - Aplicações e Aspectos Sociais da Engenharia de Software (2 trabalhos)
+          </td>
+
+          <td></td>
+
+          <td class="observation"></td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">14:00 – 14:40</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="session">
+            <strong>Sessão Técnica 8</strong> - Aplicações e Assistentes de IA (2 trabalhos)
           </td>
 
           <td class="observation"></td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">14:45 – 15:25</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="session">
+            <strong>Sessão Técnica 9</strong> - Educação em Computação e Engenharia de Software (2 trabalhos)
+          </td>
+
+          <td class="observation"></td>
+        </tr>
+
+        <tr>
+          <td class="time-cell">16:00 – 17:40</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td class="session">
+            <strong>Sessão Técnica 10</strong> - Fórum de Extensão (5 trabalhos)
+          </td>
+
+          <td class="observation">
+            O Fórum de Extensão ocupa uma sessão própria (ST10). Total: 26 trabalhos nas 10 sessões técnicas.
+          </td>
         </tr>
 
 
