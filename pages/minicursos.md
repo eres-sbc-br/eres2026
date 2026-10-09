@@ -89,12 +89,15 @@ header:
     }
   }
 </style>
+<br>
+<strong>Para se inscrever nos minicursos da X ERES 2026, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRAry2Ko3Er6eEsnVME3tDlylQR5W6K2l2Njfk0O9A0jGN8g/viewform" target="_blank" rel="noopener noreferrer"><strong>clique aqui</strong></a> e garanta sua vaga!</strong>
+<br><strong>Atenção:</strong> As vagas são limitadas a 25 participantes por minicurso.
   
 
 <div id="minicurso1" class="minicurso">
   <div class="minicurso-content">
     <div>
-       <h2 class="minicurso-title">Minicurso 1: Uso do Latex na escrita de trabalhos acadêmicos </h2>
+       <h2 class="minicurso-title">Minicurso 1: Modelagem de Bancos de Dados com PostgreSQL: da Academia à Indústria </h2>
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Breve mais informações.
       </p>
@@ -109,11 +112,11 @@ header:
 <div id="minicurso2" class="minicurso">
   <div class="minicurso-content">
     <div>
-       <h2 class="minicurso-title">Minicurso 2: A definir. </h2>
+       <h2 class="minicurso-title">Minicurso 2: IA e engenharia de software: dos fundamentos ao sistema em produção. </h2>
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Breve mais informações.
       </p>
-         
+         <p><strong>📅 Data e horário:</strong> 15 de Outubro (quinta-feira), das 08h às 12h</p>
     </div>
   </div>
 </div>

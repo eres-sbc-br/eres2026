@@ -150,7 +150,7 @@ header:
           </td>
 
           <td class="course">
-            <strong>Minicurso II</strong> - a definir 
+            <strong>Minicurso II</strong>  - IA e engenharia de software: dos fundamentos ao sistema em produção
             <!-- <strong>Visita técnica - Biopark</strong> (saída 8h30)-->
           </td>
 
@@ -547,7 +547,7 @@ header:
           </td>
 
           <td class="course">
-           
+           <strong>Visita técnica - Inside Sistemas</strong> (saída 10h)
           </td>
 
           <td class="course">
