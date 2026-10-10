@@ -21,15 +21,13 @@ header:
 <hr>
 
 <h3>Orientações aos autores</h3>
-<!--
 <ul>
-  <li>Cada apresentação terá <strong>15 minutos</strong>, seguidos de <strong>5 minutos</strong> para perguntas.</li>
-  <li>Todas as apresentações serão realizadas no <strong>Salão Nobre</strong>.</li>
-  <li>Todos os autores devem encaminhar a apresentação até o dia <strong>06 de outubro</strong> no e-mail <a href="mailto:#">#</a> informando no assunto a sessão e o título do trabalho.</li>
-  <li>Recomendamos que levem uma cópia local de seus slides em formato PDF.</li>
-  <li>Pedimos pontualidade para garantir o bom andamento da programação.</li>
+  <li>Cada apresentação terá <strong>10 minutos</strong>, seguidos de <strong>5 minutos</strong> para perguntas.</li>
+  <li>Verifique o local das apresentações na programação das sessões técnicas.</li>
+  <li>Os autores devem encaminhar as apresentações até o dia <strong>12/10</strong> no e-mail <a href="mailto:franciscosouza@professores.utfpr.edu.br">franciscosouza@professores.utfpr.edu.br</a>, informando no assunto a sessão e o título do trabalho.</li>
+  <li>Recomendamos que levem uma cópia local de suas apresentações em PDF por precaução.</li>
+  <li>Pedimos a pontualidade para o bom andamento da programação.</li>
 </ul>
--->
 
 <h3>14/Out</h3>
 
