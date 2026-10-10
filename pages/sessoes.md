@@ -21,6 +21,7 @@ header:
 <hr>
 
 <h3>Orientações aos autores</h3>
+<!--
 <ul>
   <li>Cada apresentação terá <strong>15 minutos</strong>, seguidos de <strong>5 minutos</strong> para perguntas.</li>
   <li>Todas as apresentações serão realizadas no <strong>Salão Nobre</strong>.</li>
@@ -28,6 +29,7 @@ header:
   <li>Recomendamos que levem uma cópia local de seus slides em formato PDF.</li>
   <li>Pedimos pontualidade para garantir o bom andamento da programação.</li>
 </ul>
+-->
 
 <h3>14/Out</h3>
 
