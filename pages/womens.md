@@ -53,6 +53,74 @@ header:
     border-top: 1px solid #d3d3d3;
     margin: 40px 0;
   }
+
+  .panelist-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content: center;
+    margin-top: 28px;
+  }
+
+  .panelist-card {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+    padding: 20px;
+    width: calc(50% - 24px);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .panelist-card img,
+  .panelist-card .panelist-photo-placeholder {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-bottom: 12px;
+    object-fit: cover;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .panelist-card .panelist-photo-placeholder {
+    background: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+    font-size: 0.8em;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .panelist-card h3 {
+    margin: 4px 0 0;
+    color: #333;
+  }
+
+  .panelist-card .panelist-role {
+    color: #5e5e5e;
+    font-size: 0.95em;
+    margin-bottom: 10px;
+  }
+
+  .panelist-card p {
+    text-align: justify;
+    color: #666;
+    line-height: 1.6;
+    font-size: 0.95em;
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .panelist-card {
+      width: 100%;
+    }
+  }
 </style>
 
 <main class="womens-page">
@@ -72,6 +140,47 @@ header:
     <p>O Fórum de Mulheres em Engenharia de Software será um espaço de diálogo e articulação entre estudantes, pesquisadoras, docentes, profissionais da indústria e empreendedoras. A atividade buscará promover a troca de experiências, a discussão de desafios e a construção de iniciativas voltadas ao ingresso, à permanência, ao desenvolvimento profissional e à liderança de mulheres na área.</p>
     <p>O Fórum poderá ser organizado no formato de painel ou mesa-redonda, reunindo convidadas com diferentes trajetórias acadêmicas e profissionais. Entre os temas abordados poderão estar formação, carreira, liderança, representatividade, conciliação entre vida pessoal e profissional, ambientes de trabalho, redes de apoio e oportunidades na Engenharia de Software.</p>
     <p>Além das exposições das convidadas, será reservado espaço para perguntas, manifestações do público e identificação de propostas que possam contribuir para o fortalecimento da comunidade regional de mulheres na Engenharia de Software.</p>
+
+    <h3>Painelistas Convidadas</h3>
+
+    <div class="panelist-grid">
+
+      <article class="panelist-card">
+        <img src="{{ site.urlimg }}/regina-albuquerque.png" alt="Profa. Dra. Regina Fabia Lopes de Albuquerque">
+        <h3>Profa. Dra. Regina Fabia Lopes de Albuquerque</h3>
+        <p class="panelist-role">PUCPR</p>
+      </article>
+
+      <article class="panelist-card">
+        <div class="panelist-photo-placeholder">Foto pendente</div>
+        <h3>Profa. Dra. Gislaine Camila Lapasini Leal</h3>
+        <p class="panelist-role">UEM</p>
+      </article>
+
+      <article class="panelist-card">
+        <img src="{{ site.urlimg }}/daniele-mantovani.png" alt="Daniele Wolfart Mantovani">
+        <h3>Daniele Wolfart Mantovani</h3>
+      </article>
+
+      <article class="panelist-card">
+        <img src="{{ site.urlimg }}/fabiane-sorbar.jpg" alt="Profa. Fabiane Sorbar">
+        <h3>Profa. Fabiane Sorbar</h3>
+        <p class="panelist-role">Faculdade Donaduzzi</p>
+      </article>
+
+      <article class="panelist-card">
+        <img src="{{ site.urlimg }}/aline-conti-silva.jpg" alt="Aline Lilian Conti Silva">
+        <h3>Aline Lilian Conti Silva</h3>
+        <p class="panelist-role">Fundetec / Prefeitura Municipal de Cascavel</p>
+      </article>
+
+      <article class="panelist-card">
+        <img src="{{ site.urlimg }}/josiane-daga.jpg" alt="Josiane Gonçalves Daga">
+        <h3>Josiane Gonçalves Daga</h3>
+        <p class="panelist-role">Empreendedora</p>
+      </article>
+
+    </div>
   </section>
 
   <hr class="divisor">
