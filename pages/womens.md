@@ -152,7 +152,7 @@ header:
       </article>
 
       <article class="panelist-card">
-        <div class="panelist-photo-placeholder">Foto pendente</div>
+        <img src="{{ site.urlimg }}/gislaine-lapasini-leal.webp" alt="Profa. Dra. Gislaine Camila Lapasini Leal">
         <h3>Profa. Dra. Gislaine Camila Lapasini Leal</h3>
         <p class="panelist-role">UEM</p>
       </article>
