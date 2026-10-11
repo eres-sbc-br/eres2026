@@ -169,7 +169,7 @@ header:
         <!-- ========================================================= -->
 
         <tr>
-          <td class="time-cell">14:15 – 15:15</td>
+          <td class="time-cell">14:15 – 15:00</td>
 
           <td class="session">
             <strong>Sessão Técnica 1</strong> - Engenharia de Software Experimental e Métricas (3 trabalhos)
@@ -180,12 +180,12 @@ header:
           <td></td>
 
           <td class="observation">
-            Cada trabalho tem 20 minutos (15 de apresentação e 5 de perguntas). Coffee break de 30 minutos por dia.
+            Cada trabalho tem 15 minutos de apresentação e 5 de perguntas. Local (14 e 15/10): Unioeste campus de Toledo - auditório do PGDRA.
           </td>
         </tr>
 
         <tr>
-          <td class="time-cell">15:15 – 15:55</td>
+          <td class="time-cell">15:00 – 15:30</td>
 
           <td class="session">
             <strong>Sessão Técnica 2</strong> - Testes de Desempenho (2 trabalhos)
@@ -199,10 +199,10 @@ header:
         </tr>
 
         <tr>
-          <td class="time-cell">16:25 – 17:05</td>
+          <td class="time-cell">15:30 – 16:30</td>
 
           <td class="session">
-            <strong>Sessão Técnica 3</strong> - LLMs no Apoio a Testes de Desempenho (2 trabalhos)
+            <strong>Sessão Técnica 3</strong> - Testes e Qualidade de Software (4 trabalhos)
           </td>
 
           <td></td>
@@ -213,10 +213,10 @@ header:
         </tr>
 
         <tr>
-          <td class="time-cell">17:05 – 17:45</td>
+          <td class="time-cell">16:30 – 17:00</td>
 
           <td class="session">
-            <strong>Sessão Técnica 4</strong> - Verificação, Validação e Qualidade de Software (2 trabalhos)
+            <strong>Sessão Técnica 4</strong> - Educação em Computação e Engenharia de Software (2 trabalhos)
           </td>
 
           <td></td>
@@ -227,7 +227,7 @@ header:
         </tr>
 
         <tr>
-          <td class="time-cell">14:00 – 15:00</td>
+          <td class="time-cell">14:15 – 15:00</td>
 
           <td></td>
 
@@ -241,7 +241,7 @@ header:
         </tr>
 
         <tr>
-          <td class="time-cell">15:05 – 16:05</td>
+          <td class="time-cell">15:00 – 15:45</td>
 
           <td></td>
 
@@ -255,12 +255,12 @@ header:
         </tr>
 
         <tr>
-          <td class="time-cell">16:40 – 17:40</td>
+          <td class="time-cell">15:45 – 16:15</td>
 
           <td></td>
 
           <td class="session">
-            <strong>Sessão Técnica 7</strong> - Aplicações e Aspectos Sociais da Engenharia de Software (2 trabalhos)
+            <strong>Sessão Técnica 7</strong> - Aplicações e Assistentes de IA (2 trabalhos)
           </td>
 
           <td></td>
@@ -269,46 +269,32 @@ header:
         </tr>
 
         <tr>
-          <td class="time-cell">14:00 – 14:40</td>
-
-          <td></td>
+          <td class="time-cell">16:15 – 16:45</td>
 
           <td></td>
 
           <td class="session">
-            <strong>Sessão Técnica 8</strong> - Aplicações e Assistentes de IA (2 trabalhos)
+            <strong>Sessão Técnica 8</strong> - Aplicações e Aspectos Sociais da Engenharia de Software (2 trabalhos)
           </td>
+
+          <td></td>
 
           <td class="observation"></td>
         </tr>
 
         <tr>
-          <td class="time-cell">14:45 – 15:25</td>
+          <td class="time-cell">16:00 – 17:15</td>
 
           <td></td>
 
           <td></td>
 
           <td class="session">
-            <strong>Sessão Técnica 9</strong> - Educação em Computação e Engenharia de Software (2 trabalhos)
-          </td>
-
-          <td class="observation"></td>
-        </tr>
-
-        <tr>
-          <td class="time-cell">16:00 – 17:40</td>
-
-          <td></td>
-
-          <td></td>
-
-          <td class="session">
-            <strong>Sessão Técnica 10</strong> - Fórum de Extensão (5 trabalhos)
+            <strong>Sessão Técnica 9</strong> - Fórum de Extensão (5 trabalhos)
           </td>
 
           <td class="observation">
-            O Fórum de Extensão ocupa uma sessão própria (ST10). Total: 26 trabalhos nas 10 sessões técnicas.
+            Local (16/10): Premen - Auditório Moacir Galante. Total: 26 trabalhos em 9 sessões técnicas.
           </td>
         </tr>
 
