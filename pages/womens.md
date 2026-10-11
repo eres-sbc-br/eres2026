@@ -160,6 +160,7 @@ header:
       <article class="panelist-card">
         <img src="{{ site.urlimg }}/daniele-mantovani.png" alt="Daniele Wolfart Mantovani">
         <h3>Daniele Wolfart Mantovani</h3>
+        <p class="panelist-role">Profissional de TI – Setor Farmacêutico</p>
       </article>
 
       <article class="panelist-card">
