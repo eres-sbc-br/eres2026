@@ -365,7 +365,9 @@ header:
           </td>
 
           <td class="observation">
-            Os títulos e temas das palestras ainda são provisórios
+            As palestras serão no anfitreado do PREMEN - Anfiteatro Moacir Galante<br>
+            Localização: Anexo ao Colégio Estadual PREMEN, Rua Guaíra, 3275<br>
+            Bairro: Jardim La Salle
           </td>
         </tr>
 
