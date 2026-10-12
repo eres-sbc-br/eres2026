@@ -149,13 +149,12 @@ header:
             <strong>Minicurso I</strong> - Modelagem de Bancos de Dados com PostgreSQL: da Academia à Indústria
           </td>
 
-          <td class="course">
-            
-            <!-- <strong>Visita técnica - Biopark</strong> (saída 8h30)-->
+          <td class="course">       
+           fdsf
           </td>
 
           <td class="course">
-            <strong>Minicurso II</strong>  - IA e engenharia de software: dos fundamentos ao sistema em produção
+            dsds
           </td>
 
           <td class="observation">
