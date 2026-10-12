@@ -150,12 +150,12 @@ header:
           </td>
 
           <td class="course">
-            <strong>Minicurso II</strong>  - IA e engenharia de software: dos fundamentos ao sistema em produção
+            
             <!-- <strong>Visita técnica - Biopark</strong> (saída 8h30)-->
           </td>
 
           <td class="course">
-            <strong>Minicurso III</strong> - a definir
+            <strong>Minicurso II</strong>  - IA e engenharia de software: dos fundamentos ao sistema em produção
           </td>
 
           <td class="observation">
