@@ -150,7 +150,7 @@ header:
           </td>
 
           <td class="course">       
-           -
+           
           </td>
 
           <td class="course">
