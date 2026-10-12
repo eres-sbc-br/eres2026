@@ -158,7 +158,7 @@ header:
           </td>
 
           <td class="observation">
-            Minicursos ainda são provisórios
+            Os minicursos serão na UTFPR: E-303 (40 pessoas); E-306 (workshop WOMENS)
           </td>
         </tr>
 
