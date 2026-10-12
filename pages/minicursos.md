@@ -116,7 +116,7 @@ header:
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Breve mais informações.
       </p>
-         <p><strong>📅 Data e horário:</strong> 15 de Outubro (quinta-feira), das 08h às 12h</p>
+         <p><strong>📅 Data e horário:</strong> 16 de Outubro (sexta-feira), das 08h às 10h</p>
     </div>
   </div>
 </div>
