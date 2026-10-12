@@ -150,11 +150,11 @@ header:
           </td>
 
           <td class="course">       
-           fdsf
+           -
           </td>
 
           <td class="course">
-            dsds
+            <strong>Minicurso II</strong>  - IA e engenharia de software: dos fundamentos ao sistema em produção
           </td>
 
           <td class="observation">
