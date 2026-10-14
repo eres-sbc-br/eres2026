@@ -101,7 +101,25 @@ header:
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Breve mais informações.
       </p>
-      <p><strong>📅 Data e horário:</strong> 14 de Outubro (quarta-feira), das 08h às 12h</p>
+    <!--  <p><strong>📅 Data e horário:</strong> 14 de Outubro (quarta-feira), das 08h às 12h</p> -->
+
+      <p style="text-decoration: line-through; color: #888;">
+  <strong>📅 Data e horário:</strong>
+  14 de Outubro (quarta-feira), das 08h às 12h
+</p>
+
+<p style="color: #d60000; font-weight: bold; font-size: 17px;">
+  ❌ MINICURSO CANCELADO
+</p>
+
+<p style="color: #d60000;">
+  Informamos que o minicurso foi cancelado por
+  motivos de saúde do ministrante.
+  Agradecemos a compreensão de todos.
+</p>
+
+
+      
      
     </div>
   </div>
